@@ -13,8 +13,7 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889559,
-      1796889543
+      1796889559
     ],
     "wof:belongsto": [],
     "wof:country": "US",
@@ -26,7 +25,7 @@
       }
     ],
     "wof:id": 1796889553,
-    "wof:lastmodified": 1671676276,
+    "wof:lastmodified": 1671730341,
     "wof:name": "AirTrain Westfield Road (Northbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

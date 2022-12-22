@@ -12,7 +12,10 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889595,
+      1796889589
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674954,
@@ -23,7 +26,7 @@
       }
     ],
     "wof:id": 1796889593,
-    "wof:lastmodified": 1671674954,
+    "wof:lastmodified": 1671732822,
     "wof:name": "T3 - T2 Pre Security Connector T3",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

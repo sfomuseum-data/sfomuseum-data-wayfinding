@@ -12,7 +12,9 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889605
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674961,
@@ -23,7 +25,7 @@
       }
     ],
     "wof:id": 1796889607,
-    "wof:lastmodified": 1671674961,
+    "wof:lastmodified": 1671731252,
     "wof:name": "Terminal 1 Pre Security Boarding Area C",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

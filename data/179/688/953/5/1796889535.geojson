@@ -12,7 +12,9 @@
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889533
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674934,
@@ -23,7 +25,7 @@
       }
     ],
     "wof:id": 1796889535,
-    "wof:lastmodified": 1671674934,
+    "wof:lastmodified": 1671730916,
     "wof:name": "Boarding Area A End Pier",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

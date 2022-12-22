@@ -12,7 +12,11 @@
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889507,
+      1796889615,
+      1796889523
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674923,
@@ -23,7 +27,7 @@
       }
     ],
     "wof:id": 1796889505,
-    "wof:lastmodified": 1671674923,
+    "wof:lastmodified": 1671732524,
     "wof:name": "Terminal 3 Post-Security West",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

@@ -12,7 +12,10 @@
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889481,
+      1796889569
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674915,
@@ -23,7 +26,7 @@
       }
     ],
     "wof:id": 1796889479,
-    "wof:lastmodified": 1671674915,
+    "wof:lastmodified": 1671731447,
     "wof:name": "T1-T2 Post-Security Connector (T1)",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

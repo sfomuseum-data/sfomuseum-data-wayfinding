@@ -12,7 +12,10 @@
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889635,
+      1796889531
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674970,
@@ -23,7 +26,7 @@
       }
     ],
     "wof:id": 1796889633,
-    "wof:lastmodified": 1671674970,
+    "wof:lastmodified": 1671730781,
     "wof:name": "ITB TSA Security Area A",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

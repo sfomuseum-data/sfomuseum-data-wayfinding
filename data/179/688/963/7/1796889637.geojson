@@ -12,7 +12,10 @@
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889639,
+      1796889635
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674971,
@@ -23,7 +26,7 @@
       }
     ],
     "wof:id": 1796889637,
-    "wof:lastmodified": 1671674971,
+    "wof:lastmodified": 1671730405,
     "wof:name": "ITB Pre Security A West",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

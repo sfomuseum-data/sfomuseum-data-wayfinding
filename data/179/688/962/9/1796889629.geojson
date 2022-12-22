@@ -12,7 +12,9 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889631
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674968,
@@ -23,7 +25,7 @@
       }
     ],
     "wof:id": 1796889629,
-    "wof:lastmodified": 1671674968,
+    "wof:lastmodified": 1671730964,
     "wof:name": "Harvey Milk Terminal 1 Pre Security ",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

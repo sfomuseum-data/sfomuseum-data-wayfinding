@@ -12,7 +12,10 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889507,
+      1796889511
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674925,
@@ -23,7 +26,7 @@
       }
     ],
     "wof:id": 1796889509,
-    "wof:lastmodified": 1671674925,
+    "wof:lastmodified": 1671732321,
     "wof:name": "Boarding Area F Corridor",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

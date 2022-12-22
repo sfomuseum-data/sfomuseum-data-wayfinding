@@ -12,7 +12,9 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889517
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674929,
@@ -23,7 +25,7 @@
       }
     ],
     "wof:id": 1796889521,
-    "wof:lastmodified": 1671674929,
+    "wof:lastmodified": 1671732410,
     "wof:name": "Boarding Area F End Pier East",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

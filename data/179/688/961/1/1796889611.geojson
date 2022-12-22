@@ -12,7 +12,10 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889495,
+      1796889599
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674962,
@@ -23,7 +26,7 @@
       }
     ],
     "wof:id": 1796889611,
-    "wof:lastmodified": 1671674962,
+    "wof:lastmodified": 1671731739,
     "wof:name": "Terminal 2 TSA Security",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
