@@ -1,0 +1,42 @@
+{
+  "id": 1796889509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387199,37.619127,-122.387199,37.619127",
+    "geom:latitude": 37.619127215028,
+    "geom:longitude": -122.38719928089158,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674925,
+    "wof:geomhash": "dfdb4fc1178afb2e84c32e4d528f76a2",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889509
+      }
+    ],
+    "wof:id": 1796889509,
+    "wof:lastmodified": 1671674925,
+    "wof:name": "Boarding Area F Corridor",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38719928089158,
+    37.619127215028,
+    -122.38719928089158,
+    37.619127215028
+  ],
+  "geometry": {"coordinates":[-122.38719928089158,37.619127215028],"type":"Point"}
+}

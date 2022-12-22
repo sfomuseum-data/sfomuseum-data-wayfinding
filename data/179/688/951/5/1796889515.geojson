@@ -1,0 +1,42 @@
+{
+  "id": 1796889515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.390002,37.620983,-122.390002,37.620983",
+    "geom:latitude": 37.62098321453861,
+    "geom:longitude": -122.39000162007359,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674927,
+    "wof:geomhash": "7d98ff364c91f1434bdc2a505fc14eab",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889515
+      }
+    ],
+    "wof:id": 1796889515,
+    "wof:lastmodified": 1671674927,
+    "wof:name": "Boarding Area F West End Pier",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39000162007359,
+    37.62098321453861,
+    -122.39000162007359,
+    37.62098321453861
+  ],
+  "geometry": {"coordinates":[-122.39000162007359,37.62098321453861],"type":"Point"}
+}

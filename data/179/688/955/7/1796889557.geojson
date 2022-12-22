@@ -1,0 +1,42 @@
+{
+  "id": 1796889557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.399574,37.621649,-122.399574,37.621649",
+    "geom:latitude": 37.621649094794826,
+    "geom:longitude": -122.399574087247,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674942,
+    "wof:geomhash": "0423e682f28f36bd55710e57d4a7987b",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889557
+      }
+    ],
+    "wof:id": 1796889557,
+    "wof:lastmodified": 1671674942,
+    "wof:name": "AirTrain Westfield Road (Southbound)",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.399574087247,
+    37.621649094794826,
+    -122.399574087247,
+    37.621649094794826
+  ],
+  "geometry": {"coordinates":[-122.399574087247,37.621649094794826],"type":"Point"}
+}

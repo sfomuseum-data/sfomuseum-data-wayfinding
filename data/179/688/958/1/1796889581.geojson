@@ -1,0 +1,42 @@
+{
+  "id": 1796889581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385813,37.618452,-122.385813,37.618452",
+    "geom:latitude": 37.61845230611505,
+    "geom:longitude": -122.38581278323348,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674950,
+    "wof:geomhash": "8d477180f32280539142119585c42776",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889581
+      }
+    ],
+    "wof:id": 1796889581,
+    "wof:lastmodified": 1671674950,
+    "wof:name": "Terminal 3 Post-Security East",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38581278323348,
+    37.61845230611505,
+    -122.38581278323348,
+    37.61845230611505
+  ],
+  "geometry": {"coordinates":[-122.38581278323348,37.61845230611505],"type":"Point"}
+}

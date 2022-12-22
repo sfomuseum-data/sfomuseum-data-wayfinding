@@ -1,0 +1,42 @@
+{
+  "id": 1796889625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387531,37.614886,-122.387531,37.614886",
+    "geom:latitude": 37.61488606208033,
+    "geom:longitude": -122.38753138647154,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674967,
+    "wof:geomhash": "c7976e53797d52005aef5e39e1ff093c",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889625
+      }
+    ],
+    "wof:id": 1796889625,
+    "wof:lastmodified": 1671674967,
+    "wof:name": "T1 - ITB Pre Security Connector T1",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38753138647154,
+    37.61488606208033,
+    -122.38753138647154,
+    37.61488606208033
+  ],
+  "geometry": {"coordinates":[-122.38753138647154,37.61488606208033],"type":"Point"}
+}

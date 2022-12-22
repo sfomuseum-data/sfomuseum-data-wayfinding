@@ -1,0 +1,42 @@
+{
+  "id": 1796889575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384748,37.618037,-122.384748,37.618037",
+    "geom:latitude": 37.618037298817136,
+    "geom:longitude": -122.38474751950429,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674948,
+    "wof:geomhash": "276c43a3280394219a89a73d33f29f60",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889575
+      }
+    ],
+    "wof:id": 1796889575,
+    "wof:lastmodified": 1671674948,
+    "wof:name": "T2 - T3 Secure Connector T3",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38474751950429,
+    37.618037298817136,
+    -122.38474751950429,
+    37.618037298817136
+  ],
+  "geometry": {"coordinates":[-122.38474751950429,37.618037298817136],"type":"Point"}
+}

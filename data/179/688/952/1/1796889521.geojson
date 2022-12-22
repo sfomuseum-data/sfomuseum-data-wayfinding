@@ -1,0 +1,42 @@
+{
+  "id": 1796889521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386899,37.620866,-122.386899,37.620866",
+    "geom:latitude": 37.620865839075485,
+    "geom:longitude": -122.38689850626733,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674929,
+    "wof:geomhash": "df1c4ebc9226377adfa0f7d08c4e53bf",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889521
+      }
+    ],
+    "wof:id": 1796889521,
+    "wof:lastmodified": 1671674929,
+    "wof:name": "Boarding Area F End Pier East",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38689850626733,
+    37.620865839075485,
+    -122.38689850626733,
+    37.620865839075485
+  ],
+  "geometry": {"coordinates":[-122.38689850626733,37.620865839075485],"type":"Point"}
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1796889597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383917,37.617350,-122.383917,37.617350",
+    "geom:latitude": 37.61735035020315,
+    "geom:longitude": -122.38391709722474,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674956,
+    "wof:geomhash": "f7062db8b709c809aabbb7438d8d4362",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889597
+      }
+    ],
+    "wof:id": 1796889597,
+    "wof:lastmodified": 1671674956,
+    "wof:name": "Terminal 2 Pre Security West",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38391709722474,
+    37.61735035020315,
+    -122.38391709722474,
+    37.61735035020315
+  ],
+  "geometry": {"coordinates":[-122.38391709722474,37.61735035020315],"type":"Point"}
+}

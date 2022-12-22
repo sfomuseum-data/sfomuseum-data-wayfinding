@@ -1,0 +1,42 @@
+{
+  "id": 1796889593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384918,37.617796,-122.384918,37.617796",
+    "geom:latitude": 37.61779626900633,
+    "geom:longitude": -122.38491845874766,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674954,
+    "wof:geomhash": "34b9d07af6bdb4f2ad24fa536d4dc7a0",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889593
+      }
+    ],
+    "wof:id": 1796889593,
+    "wof:lastmodified": 1671674954,
+    "wof:name": "T3 - T2 Pre Security Connector T3",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38491845874766,
+    37.61779626900633,
+    -122.38491845874766,
+    37.61779626900633
+  ],
+  "geometry": {"coordinates":[-122.38491845874766,37.61779626900633],"type":"Point"}
+}

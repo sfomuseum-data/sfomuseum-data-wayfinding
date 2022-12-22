@@ -1,0 +1,42 @@
+{
+  "id": 1796889539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386576,37.617528,-122.386576,37.617528",
+    "geom:latitude": 37.61752797434298,
+    "geom:longitude": -122.38657572374376,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674935,
+    "wof:geomhash": "dacb808a7da108f0df0a368dd8852d88",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889539
+      }
+    ],
+    "wof:id": 1796889539,
+    "wof:lastmodified": 1671674935,
+    "wof:name": "Air Train Terminal 3",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38657572374376,
+    37.61752797434298,
+    -122.38657572374376,
+    37.61752797434298
+  ],
+  "geometry": {"coordinates":[-122.38657572374376,37.61752797434298],"type":"Point"}
+}

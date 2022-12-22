@@ -1,0 +1,42 @@
+{
+  "id": 1796889507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386913,37.618452,-122.386913,37.618452",
+    "geom:latitude": 37.61845230611506,
+    "geom:longitude": -122.38691317820023,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674924,
+    "wof:geomhash": "b01f07a1e4e1f6da741075c18a0da475",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889507
+      }
+    ],
+    "wof:id": 1796889507,
+    "wof:lastmodified": 1671674924,
+    "wof:name": "Boarding Area F Start Pier",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38691317820023,
+    37.61845230611506,
+    -122.38691317820023,
+    37.61845230611506
+  ],
+  "geometry": {"coordinates":[-122.38691317820023,37.61845230611506],"type":"Point"}
+}

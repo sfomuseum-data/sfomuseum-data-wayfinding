@@ -1,0 +1,42 @@
+{
+  "id": 1796889529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.392995,37.618518,-122.392995,37.618518",
+    "geom:latitude": 37.61851832981306,
+    "geom:longitude": -122.39299469438319,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674932,
+    "wof:geomhash": "4eb4e5dbc767da81e72ad9d9d8e780aa",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889529
+      }
+    ],
+    "wof:id": 1796889529,
+    "wof:lastmodified": 1671674932,
+    "wof:name": "Boarding Area G End Pier",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39299469438319,
+    37.61851832981306,
+    -122.39299469438319,
+    37.61851832981306
+  ],
+  "geometry": {"coordinates":[-122.39299469438319,37.61851832981306],"type":"Point"}
+}

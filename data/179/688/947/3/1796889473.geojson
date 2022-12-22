@@ -1,0 +1,42 @@
+{
+  "id": 1796889473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387311,37.614407,-122.387311,37.614407",
+    "geom:latitude": 37.61440675467496,
+    "geom:longitude": -122.38731134376764,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674912,
+    "wof:geomhash": "52849766c88ed0aedd8d8abf018cd6a5",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889473
+      }
+    ],
+    "wof:id": 1796889473,
+    "wof:lastmodified": 1671674912,
+    "wof:name": "Boarding Area B ITB",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38731134376764,
+    37.61440675467496,
+    -122.38731134376764,
+    37.61440675467496
+  ],
+  "geometry": {"coordinates":[-122.38731134376764,37.61440675467496],"type":"Point"}
+}

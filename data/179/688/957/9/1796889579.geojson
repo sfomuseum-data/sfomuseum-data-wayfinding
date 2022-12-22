@@ -1,0 +1,42 @@
+{
+  "id": 1796889579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383470,37.617599,-122.383470,37.617599",
+    "geom:latitude": 37.61759899312434,
+    "geom:longitude": -122.38346956796624,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674949,
+    "wof:geomhash": "0d82b3e189b7450e05703c2cf3ded25a",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889579
+      }
+    ],
+    "wof:id": 1796889579,
+    "wof:lastmodified": 1671674949,
+    "wof:name": "T2 - T3 Secure Connector Kadish Gallery",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38346956796624,
+    37.61759899312434,
+    -122.38346956796624,
+    37.61759899312434
+  ],
+  "geometry": {"coordinates":[-122.38346956796624,37.61759899312434],"type":"Point"}
+}

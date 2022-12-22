@@ -1,0 +1,42 @@
+{
+  "id": 1796889585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388703,37.614608,-122.388703,37.614608",
+    "geom:latitude": 37.61460825969784,
+    "geom:longitude": -122.38870315401282,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674952,
+    "wof:geomhash": "849e93f16c7a33ebbd1c1c4c2d9aa5b6",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889585
+      }
+    ],
+    "wof:id": 1796889585,
+    "wof:lastmodified": 1671674952,
+    "wof:name": "AirTrain International Terminal A",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38870315401282,
+    37.61460825969784,
+    -122.38870315401282,
+    37.61460825969784
+  ],
+  "geometry": {"coordinates":[-122.38870315401282,37.61460825969784],"type":"Point"}
+}

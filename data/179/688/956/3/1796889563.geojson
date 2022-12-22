@@ -1,0 +1,42 @@
+{
+  "id": 1796889563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.400780,37.628222,-122.400780,37.628222",
+    "geom:latitude": 37.62822178775514,
+    "geom:longitude": -122.40077957791956,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674944,
+    "wof:geomhash": "d16bbbc9da1b6f29ff055937d21d6090",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889563
+      }
+    ],
+    "wof:id": 1796889563,
+    "wof:lastmodified": 1671674944,
+    "wof:name": "Rental Car Center",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.40077957791956,
+    37.62822178775514,
+    -122.40077957791956,
+    37.62822178775514
+  ],
+  "geometry": {"coordinates":[-122.40077957791956,37.62822178775514],"type":"Point"}
+}

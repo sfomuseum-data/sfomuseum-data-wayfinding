@@ -1,0 +1,42 @@
+{
+  "id": 1796889561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.400335,37.635048,-122.400335,37.635048",
+    "geom:latitude": 37.63504790937685,
+    "geom:longitude": -122.4003352019827,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674943,
+    "wof:geomhash": "97ede635e78d6b3aee3965b8ef219224",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889561
+      }
+    ],
+    "wof:id": 1796889561,
+    "wof:lastmodified": 1671674943,
+    "wof:name": "AirTrain Long-Term Parking",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.4003352019827,
+    37.63504790937685,
+    -122.4003352019827,
+    37.63504790937685
+  ],
+  "geometry": {"coordinates":[-122.4003352019827,37.63504790937685],"type":"Point"}
+}

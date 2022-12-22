@@ -1,0 +1,42 @@
+{
+  "id": 1796889495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.382941,37.617161,-122.382941,37.617161",
+    "geom:latitude": 37.61716068743153,
+    "geom:longitude": -122.38294148881829,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674921,
+    "wof:geomhash": "4d8071138253d9b6af7efe233cfe8f83",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889495
+      }
+    ],
+    "wof:id": 1796889495,
+    "wof:lastmodified": 1671674921,
+    "wof:name": "Boarding Area D Start Pier",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38294148881829,
+    37.61716068743153,
+    -122.38294148881829,
+    37.61716068743153
+  ],
+  "geometry": {"coordinates":[-122.38294148881829,37.61716068743153],"type":"Point"}
+}

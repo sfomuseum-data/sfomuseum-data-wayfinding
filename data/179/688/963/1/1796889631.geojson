@@ -1,0 +1,42 @@
+{
+  "id": 1796889631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385779,37.614213,-122.385779,37.614213",
+    "geom:latitude": 37.61421327230711,
+    "geom:longitude": -122.38577900380645,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674969,
+    "wof:geomhash": "03da87776af10280f5c5be70f103be46",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889631
+      }
+    ],
+    "wof:id": 1796889631,
+    "wof:lastmodified": 1671674969,
+    "wof:name": "Terminal 1 TSA Security Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38577900380645,
+    37.61421327230711,
+    -122.38577900380645,
+    37.61421327230711
+  ],
+  "geometry": {"coordinates":[-122.38577900380645,37.61421327230711],"type":"Point"}
+}

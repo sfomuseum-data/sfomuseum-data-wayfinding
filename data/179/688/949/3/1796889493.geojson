@@ -1,0 +1,42 @@
+{
+  "id": 1796889493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.381014,37.617076,-122.381014,37.617076",
+    "geom:latitude": 37.61707619476786,
+    "geom:longitude": -122.38101399992826,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674920,
+    "wof:geomhash": "e7b409d62bef0f0fc8dcd8b09adbc739",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889493
+      }
+    ],
+    "wof:id": 1796889493,
+    "wof:lastmodified": 1671674920,
+    "wof:name": "Boarding Area D End Pier (C)",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38101399992826,
+    37.61707619476786,
+    -122.38101399992826,
+    37.61707619476786
+  ],
+  "geometry": {"coordinates":[-122.38101399992826,37.61707619476786],"type":"Point"}
+}

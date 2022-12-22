@@ -1,0 +1,42 @@
+{
+  "id": 1796889607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384238,37.615574,-122.384238,37.615574",
+    "geom:latitude": 37.61557449812734,
+    "geom:longitude": -122.38423784583756,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674961,
+    "wof:geomhash": "2cda9560ab53a291be8cf2c85665fcb0",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889607
+      }
+    ],
+    "wof:id": 1796889607,
+    "wof:lastmodified": 1671674961,
+    "wof:name": "Terminal 1 Pre Security Boarding Area C",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38423784583756,
+    37.61557449812734,
+    -122.38423784583756,
+    37.61557449812734
+  ],
+  "geometry": {"coordinates":[-122.38423784583756,37.61557449812734],"type":"Point"}
+}

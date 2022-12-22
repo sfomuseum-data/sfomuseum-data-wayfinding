@@ -1,0 +1,42 @@
+{
+  "id": 1796889479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383718,37.615693,-122.383718,37.615693",
+    "geom:latitude": 37.61569262740022,
+    "geom:longitude": -122.38371776516578,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674915,
+    "wof:geomhash": "a21aa743c09a5fb4c872ef379e81a3c4",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889479
+      }
+    ],
+    "wof:id": 1796889479,
+    "wof:lastmodified": 1671674915,
+    "wof:name": "T1-T2 Post-Security Connector (T1)",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38371776516578,
+    37.61569262740022,
+    -122.38371776516578,
+    37.61569262740022
+  ],
+  "geometry": {"coordinates":[-122.38371776516578,37.61569262740022],"type":"Point"}
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1796889511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387456,37.619986,-122.387456,37.619986",
+    "geom:latitude": 37.61998552310207,
+    "geom:longitude": -122.38745603971715,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674925,
+    "wof:geomhash": "b0e18b46a2dcfa768831918b63ec091e",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889511
+      }
+    ],
+    "wof:id": 1796889511,
+    "wof:lastmodified": 1671674925,
+    "wof:name": "Boarding Area F Mid Pier",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38745603971715,
+    37.61998552310207,
+    -122.38745603971715,
+    37.61998552310207
+  ],
+  "geometry": {"coordinates":[-122.38745603971715,37.61998552310207],"type":"Point"}
+}

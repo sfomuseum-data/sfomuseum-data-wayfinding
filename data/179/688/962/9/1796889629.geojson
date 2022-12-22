@@ -1,0 +1,42 @@
+{
+  "id": 1796889629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386209,37.614495,-122.386209,37.614495",
+    "geom:latitude": 37.61449490523544,
+    "geom:longitude": -122.38620927633582,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674968,
+    "wof:geomhash": "1ebab53095470c1c545d3055c375ed53",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889629
+      }
+    ],
+    "wof:id": 1796889629,
+    "wof:lastmodified": 1671674968,
+    "wof:name": "Harvey Milk Terminal 1 Pre Security ",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38620927633582,
+    37.61449490523544,
+    -122.38620927633582,
+    37.61449490523544
+  ],
+  "geometry": {"coordinates":[-122.38620927633582,37.61449490523544],"type":"Point"}
+}

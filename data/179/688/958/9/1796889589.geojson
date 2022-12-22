@@ -1,0 +1,42 @@
+{
+  "id": 1796889589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385208,37.617882,-122.385208,37.617882",
+    "geom:latitude": 37.617882323512205,
+    "geom:longitude": -122.38520791481288,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671674953,
+    "wof:geomhash": "982d3726ea61d6b552a76a138bc0b1d0",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796889589
+      }
+    ],
+    "wof:id": 1796889589,
+    "wof:lastmodified": 1671674953,
+    "wof:name": "Terminal 3 Pre Security East",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38520791481288,
+    37.617882323512205,
+    -122.38520791481288,
+    37.617882323512205
+  ],
+  "geometry": {"coordinates":[-122.38520791481288,37.617882323512205],"type":"Point"}
+}
