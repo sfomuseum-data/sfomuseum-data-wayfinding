@@ -13,8 +13,8 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889563,
-      1796889559
+      1796903635,
+      1796903637
     ],
     "wof:belongsto": [],
     "wof:country": "US",
@@ -26,7 +26,7 @@
       }
     ],
     "wof:id": 1796889561,
-    "wof:lastmodified": 1671675926,
+    "wof:lastmodified": 1671823098,
     "wof:name": "AirTrain Long-Term Parking",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

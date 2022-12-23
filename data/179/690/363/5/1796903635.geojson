@@ -11,7 +11,11 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903637,
+      1796889561,
+      1796903633
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820692,
@@ -22,7 +26,7 @@
       }
     ],
     "wof:id": 1796903635,
-    "wof:lastmodified": 1671820692,
+    "wof:lastmodified": 1671822432,
     "wof:name": "AirTrain Long Term Parking Southbound",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

@@ -11,7 +11,11 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889559,
+      1796889563,
+      1796889557
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820691,
@@ -22,7 +26,7 @@
       }
     ],
     "wof:id": 1796903633,
-    "wof:lastmodified": 1671820691,
+    "wof:lastmodified": 1671822489,
     "wof:name": "AirTrain Rental Car Center Southbound",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

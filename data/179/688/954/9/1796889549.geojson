@@ -13,6 +13,7 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796903621,
       1796889599,
       1796889539
     ],
@@ -26,7 +27,7 @@
       }
     ],
     "wof:id": 1796889549,
-    "wof:lastmodified": 1671730061,
+    "wof:lastmodified": 1671822812,
     "wof:name": "AirTrain Terminal 2",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

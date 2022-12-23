@@ -11,7 +11,10 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903639,
+      1796903637
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820695,
@@ -22,7 +25,7 @@
       }
     ],
     "wof:id": 1796903641,
-    "wof:lastmodified": 1671820695,
+    "wof:lastmodified": 1671822327,
     "wof:name": "Long Term Parking 1 - 2 Bridge",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

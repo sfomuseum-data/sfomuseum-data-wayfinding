@@ -13,6 +13,7 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796903605,
       1796889585
     ],
     "wof:belongsto": [],
@@ -25,7 +26,7 @@
       }
     ],
     "wof:id": 1796889565,
-    "wof:lastmodified": 1671729909,
+    "wof:lastmodified": 1671822663,
     "wof:name": "AirTrain Garage A",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

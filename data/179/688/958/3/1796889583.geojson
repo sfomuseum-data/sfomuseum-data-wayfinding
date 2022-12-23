@@ -13,7 +13,8 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889641,
+      1796903589,
+      1796903591,
       1796889543
     ],
     "wof:belongsto": [],
@@ -26,7 +27,7 @@
       }
     ],
     "wof:id": 1796889583,
-    "wof:lastmodified": 1671730238,
+    "wof:lastmodified": 1671822916,
     "wof:name": "Air Train International Terminal G",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
