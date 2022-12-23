@@ -11,7 +11,12 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889487,
+      1796889489,
+      1796889491,
+      1796889493
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820685,
@@ -22,7 +27,7 @@
       }
     ],
     "wof:id": 1796903615,
-    "wof:lastmodified": 1671820685,
+    "wof:lastmodified": 1671823283,
     "wof:name": "Boarding Area D Center Court",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
