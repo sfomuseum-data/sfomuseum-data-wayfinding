@@ -13,10 +13,12 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889583,
       1796889635,
       1796889639,
-      1796889619
+      1796889619,
+      1796903593,
+      1796903591,
+      1796903587
     ],
     "wof:belongsto": [],
     "wof:country": "US",
@@ -28,7 +30,7 @@
       }
     ],
     "wof:id": 1796889641,
-    "wof:lastmodified": 1671730612,
+    "wof:lastmodified": 1671824147,
     "wof:name": "ITB Pre Security G East",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

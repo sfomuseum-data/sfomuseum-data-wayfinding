@@ -11,7 +11,12 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903607,
+      1796889635,
+      1796903611,
+      1796889585
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820683,
@@ -22,7 +27,7 @@
       }
     ],
     "wof:id": 1796903609,
-    "wof:lastmodified": 1671820683,
+    "wof:lastmodified": 1671823575,
     "wof:name": "ITB A AirTrain Stairs",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

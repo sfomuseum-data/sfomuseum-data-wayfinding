@@ -11,7 +11,11 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903591,
+      1796889641,
+      1796889619
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820675,
@@ -22,7 +26,7 @@
       }
     ],
     "wof:id": 1796903587,
-    "wof:lastmodified": 1671820675,
+    "wof:lastmodified": 1671824296,
     "wof:name": "ITB G Stairs 3rd - 2nd floors",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

@@ -11,7 +11,9 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889639
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820680,
@@ -22,7 +24,7 @@
       }
     ],
     "wof:id": 1796903601,
-    "wof:lastmodified": 1671820680,
+    "wof:lastmodified": 1671823889,
     "wof:name": "ITB G Arrivals Stairs",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

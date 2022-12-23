@@ -11,7 +11,10 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889545,
+      1796889641
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820677,
@@ -22,7 +25,7 @@
       }
     ],
     "wof:id": 1796903593,
-    "wof:lastmodified": 1671820677,
+    "wof:lastmodified": 1671824072,
     "wof:name": "International Terminal G Security",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

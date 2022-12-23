@@ -14,7 +14,8 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796889527,
-      1796889541
+      1796889541,
+      1796903593
     ],
     "wof:belongsto": [],
     "wof:country": "US",
@@ -26,7 +27,7 @@
       }
     ],
     "wof:id": 1796889545,
-    "wof:lastmodified": 1671733043,
+    "wof:lastmodified": 1671824032,
     "wof:name": "Boarding Area G Start Pier",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

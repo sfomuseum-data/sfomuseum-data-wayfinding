@@ -12,7 +12,10 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903587,
+      1796889617
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671674965,
@@ -23,7 +26,7 @@
       }
     ],
     "wof:id": 1796889619,
-    "wof:lastmodified": 1671674965,
+    "wof:lastmodified": 1671824338,
     "wof:name": "T3 - ITB Pre Security Connector ITB",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
