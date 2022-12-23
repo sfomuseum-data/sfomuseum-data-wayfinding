@@ -11,7 +11,9 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889529
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820686,
@@ -22,7 +24,7 @@
       }
     ],
     "wof:id": 1796903619,
-    "wof:lastmodified": 1671820686,
+    "wof:lastmodified": 1671824884,
     "wof:name": "Boarding Area G Observation Deck",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

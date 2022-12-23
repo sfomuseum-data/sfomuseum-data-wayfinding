@@ -11,7 +11,9 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903627
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1671820688,
@@ -22,7 +24,7 @@
       }
     ],
     "wof:id": 1796903623,
-    "wof:lastmodified": 1671820688,
+    "wof:lastmodified": 1671824929,
     "wof:name": "Terminal 2 SkyTerrace",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
