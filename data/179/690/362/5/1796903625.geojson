@@ -1,0 +1,45 @@
+{
+  "id": 1796903625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393689,37.613374,-122.393689,37.613374",
+    "geom:latitude": 37.613373590207175,
+    "geom:longitude": -122.39368928787756,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796903599,
+      1796889551,
+      1796903629
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820689,
+    "wof:geomhash": "dc212d31796c7eb7bc84d50b8acc3a76",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903625
+      }
+    ],
+    "wof:id": 1796903625,
+    "wof:lastmodified": 1671821559,
+    "wof:name": "AirTrain Hotel Grand Hyatt Escalator",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39368928787756,
+    37.613373590207175,
+    -122.39368928787756,
+    37.613373590207175
+  ],
+  "geometry": {"coordinates":[-122.39368928787756,37.613373590207175],"type":"Point"}
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1796903627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383481,37.617275,-122.383481,37.617275",
+    "geom:latitude": 37.617274910801804,
+    "geom:longitude": -122.38348055026631,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820689,
+    "wof:geomhash": "e3302abe117103910026b2b30eb2d0ba",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903627
+      }
+    ],
+    "wof:id": 1796903627,
+    "wof:lastmodified": 1671820689,
+    "wof:name": "Terminal 2 SkyTerrace Elevator",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38348055026631,
+    37.617274910801804,
+    -122.38348055026631,
+    37.617274910801804
+  ],
+  "geometry": {"coordinates":[-122.38348055026631,37.617274910801804],"type":"Point"}
+}

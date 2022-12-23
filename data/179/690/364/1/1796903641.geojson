@@ -1,0 +1,41 @@
+{
+  "id": 1796903641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.400988,37.635990,-122.400988,37.635990",
+    "geom:latitude": 37.635989602437526,
+    "geom:longitude": -122.40098821173582,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820695,
+    "wof:geomhash": "f8169a87d56e67409b8b98a76bb38b51",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903641
+      }
+    ],
+    "wof:id": 1796903641,
+    "wof:lastmodified": 1671820695,
+    "wof:name": "Long Term Parking 1 - 2 Bridge",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.40098821173582,
+    37.635989602437526,
+    -122.40098821173582,
+    37.635989602437526
+  ],
+  "geometry": {"coordinates":[-122.40098821173582,37.635989602437526],"type":"Point"}
+}

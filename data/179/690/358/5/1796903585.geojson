@@ -1,0 +1,45 @@
+{
+  "id": 1796903585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386573,37.617480,-122.386573,37.617480",
+    "geom:latitude": 37.617479649273015,
+    "geom:longitude": -122.38657306086635,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796889539,
+      1796889587,
+      1796903621
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820674,
+    "wof:geomhash": "8eaab8f60c8d2682c518e572d13ed085",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903585
+      }
+    ],
+    "wof:id": 1796903585,
+    "wof:lastmodified": 1671822107,
+    "wof:name": "AirTrain Terminal 3 Red Line",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38657306086635,
+    37.617479649273015,
+    -122.38657306086635,
+    37.617479649273015
+  ],
+  "geometry": {"coordinates":[-122.38657306086635,37.617479649273015],"type":"Point"}
+}

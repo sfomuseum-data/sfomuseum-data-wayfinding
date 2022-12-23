@@ -1,0 +1,45 @@
+{
+  "id": 1796903599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393450,37.613476,-122.393450,37.613476",
+    "geom:latitude": 37.613475991725736,
+    "geom:longitude": -122.39345046682836,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796903597,
+      1796903625,
+      1796889551
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820679,
+    "wof:geomhash": "03812dd3cda1668600986f5a35f9fc84",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903599
+      }
+    ],
+    "wof:id": 1796903599,
+    "wof:lastmodified": 1671821857,
+    "wof:name": "AirTrain Grand Hyatt Hotel Red Line",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39345046682836,
+    37.613475991725736,
+    -122.39345046682836,
+    37.613475991725736
+  ],
+  "geometry": {"coordinates":[-122.39345046682836,37.613475991725736],"type":"Point"}
+}

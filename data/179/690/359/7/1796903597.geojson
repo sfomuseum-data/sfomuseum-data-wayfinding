@@ -1,0 +1,45 @@
+{
+  "id": 1796903597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.392395,37.615916,-122.392395,37.615916",
+    "geom:latitude": 37.615915515675276,
+    "geom:longitude": -122.39239459952302,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796889543,
+      1796889639,
+      1796903589
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820678,
+    "wof:geomhash": "d4a6cf723b1ead4637147411aa9e048f",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903597
+      }
+    ],
+    "wof:id": 1796903597,
+    "wof:lastmodified": 1671821940,
+    "wof:name": "AirTrain Gargage G / BART Red Line",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39239459952302,
+    37.615915515675276,
+    -122.39239459952302,
+    37.615915515675276
+  ],
+  "geometry": {"coordinates":[-122.39239459952302,37.615915515675276],"type":"Point"}
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1796903601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.390023,37.616323,-122.390023,37.616323",
+    "geom:latitude": 37.61632322351207,
+    "geom:longitude": -122.39002290263893,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820680,
+    "wof:geomhash": "3bc8ae72390d6cd276aabb3ac14542ca",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903601
+      }
+    ],
+    "wof:id": 1796903601,
+    "wof:lastmodified": 1671820680,
+    "wof:name": "ITB G Arrivals Stairs",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39002290263893,
+    37.61632322351207,
+    -122.39002290263893,
+    37.61632322351207
+  ],
+  "geometry": {"coordinates":[-122.39002290263893,37.61632322351207],"type":"Point"}
+}

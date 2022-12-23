@@ -1,0 +1,41 @@
+{
+  "id": 1796903637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.401665,37.635679,-122.401665,37.635679",
+    "geom:latitude": 37.63567900993292,
+    "geom:longitude": -122.40166514411766,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820693,
+    "wof:geomhash": "a665ffeab7baf6c833e5aeae5a58592e",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903637
+      }
+    ],
+    "wof:id": 1796903637,
+    "wof:lastmodified": 1671820693,
+    "wof:name": "Long Term Parking 2",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.40166514411766,
+    37.63567900993292,
+    -122.40166514411766,
+    37.63567900993292
+  ],
+  "geometry": {"coordinates":[-122.40166514411766,37.63567900993292],"type":"Point"}
+}

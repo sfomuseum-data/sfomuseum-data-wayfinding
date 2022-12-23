@@ -1,0 +1,41 @@
+{
+  "id": 1796903615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.381536,37.617515,-122.381536,37.617515",
+    "geom:latitude": 37.617514823601844,
+    "geom:longitude": -122.38153636064618,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820685,
+    "wof:geomhash": "9169d3e1dc4e32649f8ac24329ce3303",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903615
+      }
+    ],
+    "wof:id": 1796903615,
+    "wof:lastmodified": 1671820685,
+    "wof:name": "Boarding Area D Center Court",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38153636064618,
+    37.617514823601844,
+    -122.38153636064618,
+    37.617514823601844
+  ],
+  "geometry": {"coordinates":[-122.38153636064618,37.617514823601844],"type":"Point"}
+}

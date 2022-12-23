@@ -1,0 +1,45 @@
+{
+  "id": 1796903611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388715,37.614651,-122.388715,37.614651",
+    "geom:latitude": 37.614651405731145,
+    "geom:longitude": -122.38871487496922,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796889585,
+      1796903609,
+      1796903605
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820684,
+    "wof:geomhash": "647692197802a0a86147e8b461523960",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903611
+      }
+    ],
+    "wof:id": 1796903611,
+    "wof:lastmodified": 1671821818,
+    "wof:name": "AirTrain International Terminal A Red Line",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38871487496922,
+    37.614651405731145,
+    -122.38871487496922,
+    37.614651405731145
+  ],
+  "geometry": {"coordinates":[-122.38871487496922,37.614651405731145],"type":"Point"}
+}

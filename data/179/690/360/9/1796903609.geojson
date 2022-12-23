@@ -1,0 +1,41 @@
+{
+  "id": 1796903609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388268,37.614751,-122.388268,37.614751",
+    "geom:latitude": 37.61475134670191,
+    "geom:longitude": -122.38826785589016,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820683,
+    "wof:geomhash": "ec4699996c87e329c93a7180c3610255",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903609
+      }
+    ],
+    "wof:id": 1796903609,
+    "wof:lastmodified": 1671820683,
+    "wof:name": "ITB A AirTrain Stairs",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38826785589016,
+    37.61475134670191,
+    -122.38826785589016,
+    37.61475134670191
+  ],
+  "geometry": {"coordinates":[-122.38826785589016,37.61475134670191],"type":"Point"}
+}

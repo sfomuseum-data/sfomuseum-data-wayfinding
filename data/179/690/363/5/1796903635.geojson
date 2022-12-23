@@ -1,0 +1,41 @@
+{
+  "id": 1796903635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.400315,37.634926,-122.400315,37.634926",
+    "geom:latitude": 37.63492642040253,
+    "geom:longitude": -122.40031526130919,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820692,
+    "wof:geomhash": "3e1961b4456e288dc396a835ca02eb94",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903635
+      }
+    ],
+    "wof:id": 1796903635,
+    "wof:lastmodified": 1671820692,
+    "wof:name": "AirTrain Long Term Parking Southbound",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.40031526130919,
+    37.63492642040253,
+    -122.40031526130919,
+    37.63492642040253
+  ],
+  "geometry": {"coordinates":[-122.40031526130919,37.63492642040253],"type":"Point"}
+}

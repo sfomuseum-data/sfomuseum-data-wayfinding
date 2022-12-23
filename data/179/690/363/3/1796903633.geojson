@@ -1,0 +1,41 @@
+{
+  "id": 1796903633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.401247,37.628196,-122.401247,37.628196",
+    "geom:latitude": 37.62819592064727,
+    "geom:longitude": -122.40124703882299,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820691,
+    "wof:geomhash": "efa93ae98ce8f2b85ead11351ba6f3ae",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903633
+      }
+    ],
+    "wof:id": 1796903633,
+    "wof:lastmodified": 1671820691,
+    "wof:name": "AirTrain Rental Car Center Southbound",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.40124703882299,
+    37.62819592064727,
+    -122.40124703882299,
+    37.62819592064727
+  ],
+  "geometry": {"coordinates":[-122.40124703882299,37.62819592064727],"type":"Point"}
+}

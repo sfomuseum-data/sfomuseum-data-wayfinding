@@ -1,0 +1,44 @@
+{
+  "id": 1796903605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.391866,37.613879,-122.391866,37.613879",
+    "geom:latitude": 37.61387859416066,
+    "geom:longitude": -122.39186628023575,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796903599,
+      1796889565
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820681,
+    "wof:geomhash": "9a770456df88b58508d6ca89801bab95",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903605
+      }
+    ],
+    "wof:id": 1796903605,
+    "wof:lastmodified": 1671821829,
+    "wof:name": "AirTrain Garage A Red Line",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39186628023575,
+    37.61387859416066,
+    -122.39186628023575,
+    37.61387859416066
+  ],
+  "geometry": {"coordinates":[-122.39186628023575,37.61387859416066],"type":"Point"}
+}

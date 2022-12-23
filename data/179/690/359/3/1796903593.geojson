@@ -1,0 +1,41 @@
+{
+  "id": 1796903593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.389569,37.616819,-122.389569,37.616819",
+    "geom:latitude": 37.61681944298126,
+    "geom:longitude": -122.38956866978825,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671820677,
+    "wof:geomhash": "6c9451e5da7cb8d675d54f4135aa69af",
+    "wof:hierarchy": [
+      {
+        "waypoint_id": 1796903593
+      }
+    ],
+    "wof:id": 1796903593,
+    "wof:lastmodified": 1671820677,
+    "wof:name": "International Terminal G Security",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38956866978825,
+    37.61681944298126,
+    -122.38956866978825,
+    37.61681944298126
+  ],
+  "geometry": {"coordinates":[-122.38956866978825,37.61681944298126],"type":"Point"}
+}
