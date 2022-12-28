@@ -13,7 +13,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889503
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796935367,
-    "wof:lastmodified": 1672258102,
+    "wof:lastmodified": 1672263216,
     "wof:name": "Gate E6 Waiting Area",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
