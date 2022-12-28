@@ -13,7 +13,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889473
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796935479,
-    "wof:lastmodified": 1672258061,
+    "wof:lastmodified": 1672266141,
     "wof:name": "Gate B1 Waiting Area",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
