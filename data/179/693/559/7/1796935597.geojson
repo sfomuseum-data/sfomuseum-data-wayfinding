@@ -13,7 +13,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889493
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796935597,
-    "wof:lastmodified": 1672258093,
+    "wof:lastmodified": 1672262969,
     "wof:name": "Gate D5 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

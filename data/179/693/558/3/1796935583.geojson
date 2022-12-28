@@ -13,7 +13,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889489
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796935583,
-    "wof:lastmodified": 1672258087,
+    "wof:lastmodified": 1672263076,
     "wof:name": "Gate D12 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
