@@ -13,7 +13,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889491
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796935591,
-    "wof:lastmodified": 1672258095,
+    "wof:lastmodified": 1672261257,
     "wof:name": "Gate D8 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

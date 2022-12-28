@@ -16,7 +16,10 @@
     "wof:adjencies": [
       1796903615,
       1796889493,
-      1796889489
+      1796889489,
+      1796935591,
+      1796935589,
+      1796935587
     ],
     "wof:belongsto": [
       1763588121,
@@ -61,7 +64,7 @@
       }
     ],
     "wof:id": 1796889491,
-    "wof:lastmodified": 1672258040,
+    "wof:lastmodified": 1672261170,
     "wof:name": "Boarding Area D End Pier (B)",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

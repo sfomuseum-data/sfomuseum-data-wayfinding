@@ -13,7 +13,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903615
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796935575,
-    "wof:lastmodified": 1672258090,
+    "wof:lastmodified": 1672261105,
     "wof:name": "Gate D18 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
