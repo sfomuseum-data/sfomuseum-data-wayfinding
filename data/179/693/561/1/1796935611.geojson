@@ -13,7 +13,12 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796935613,
+      1796889635,
+      1796889641,
+      1796935609
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +62,7 @@
       }
     ],
     "wof:id": 1796935611,
-    "wof:lastmodified": 1672258135,
+    "wof:lastmodified": 1672258794,
     "wof:name": "ITB Pre Security A - G Connector East",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

@@ -13,7 +13,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796935615,
+      1796889639
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +60,7 @@
       }
     ],
     "wof:id": 1796935621,
-    "wof:lastmodified": 1672258132,
+    "wof:lastmodified": 1672258426,
     "wof:name": "ITB BART Entrance",
     "wof:parent_id": 1763588477,
     "wof:placetype": "venue",

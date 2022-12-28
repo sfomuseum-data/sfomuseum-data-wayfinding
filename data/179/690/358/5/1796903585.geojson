@@ -14,8 +14,8 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796889539,
-      1796889587,
-      1796903621
+      1796903621,
+      1796935381
     ],
     "wof:belongsto": [
       102527513,
@@ -44,7 +44,7 @@
       }
     ],
     "wof:id": 1796903585,
-    "wof:lastmodified": 1672258025,
+    "wof:lastmodified": 1672258921,
     "wof:name": "AirTrain Terminal 3 Red Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",

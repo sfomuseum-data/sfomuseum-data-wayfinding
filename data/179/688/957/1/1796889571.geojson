@@ -15,7 +15,8 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796889495,
-      1796889579
+      1796889579,
+      1796935571
     ],
     "wof:belongsto": [
       1763588121,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1796889571,
-    "wof:lastmodified": 1672258153,
+    "wof:lastmodified": 1672260028,
     "wof:name": "T2 - T3 Secure Connector T2",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

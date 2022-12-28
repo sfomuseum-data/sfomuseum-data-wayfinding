@@ -13,7 +13,13 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796935565,
+      1796889597,
+      1796889599,
+      1796935571,
+      1796935569
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +63,7 @@
       }
     ],
     "wof:id": 1796935567,
-    "wof:lastmodified": 1672258024,
+    "wof:lastmodified": 1672259746,
     "wof:name": "AirTrain Terminal 2 Stairs West",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

@@ -15,7 +15,7 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796903585,
-      1796889587,
+      1796935381,
       1796889583
     ],
     "wof:belongsto": [
@@ -45,7 +45,7 @@
       }
     ],
     "wof:id": 1796889539,
-    "wof:lastmodified": 1672258001,
+    "wof:lastmodified": 1672258966,
     "wof:name": "Air Train Terminal 3",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",

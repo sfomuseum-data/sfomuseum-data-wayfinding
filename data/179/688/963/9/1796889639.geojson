@@ -16,7 +16,9 @@
     "wof:adjencies": [
       1796889641,
       1796889637,
-      1796903601
+      1796903601,
+      1796935621,
+      1796935613
     ],
     "wof:belongsto": [
       102527513,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1796889639,
-    "wof:lastmodified": 1672258138,
+    "wof:lastmodified": 1672258465,
     "wof:name": "ITB Pre Security G West",
     "wof:parent_id": 1763588477,
     "wof:placetype": "venue",

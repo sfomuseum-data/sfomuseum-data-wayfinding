@@ -15,7 +15,8 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796889587,
-      1796889593
+      1796889593,
+      1796935373
     ],
     "wof:belongsto": [
       1763588121,
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1796889589,
-    "wof:lastmodified": 1672258169,
+    "wof:lastmodified": 1672259179,
     "wof:name": "Terminal 3 Pre Security East",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
