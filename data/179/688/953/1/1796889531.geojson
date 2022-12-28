@@ -14,8 +14,11 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889633,
-      1796889533
+      1796889533,
+      1796935459,
+      1796935469,
+      1796935461,
+      1796889633
     ],
     "wof:belongsto": [
       1763588121,
@@ -60,7 +63,7 @@
       }
     ],
     "wof:id": 1796889531,
-    "wof:lastmodified": 1672258030,
+    "wof:lastmodified": 1672265942,
     "wof:name": "Boarding Area A Start Pier",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
