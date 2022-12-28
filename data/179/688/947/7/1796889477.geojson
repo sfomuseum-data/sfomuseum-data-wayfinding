@@ -14,7 +14,12 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889567
+      1796889567,
+      1796935553,
+      1796935555,
+      1796935559,
+      1796935557,
+      1796935551
     ],
     "wof:belongsto": [
       1763588121,
@@ -59,7 +64,7 @@
       }
     ],
     "wof:id": 1796889477,
-    "wof:lastmodified": 1672258034,
+    "wof:lastmodified": 1672260661,
     "wof:name": "Boarding Area C End Pier",
     "wof:parent_id": 1763588233,
     "wof:placetype": "venue",
