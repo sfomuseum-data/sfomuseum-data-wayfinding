@@ -1,0 +1,41 @@
+{
+  "id": 1796935579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.381634,37.618135,-122.381634,37.618135",
+    "geom:latitude": 37.61813516687576,
+    "geom:longitude": -122.38163427901165,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257514,
+    "wof:geomhash": "48c368446948a8922c5e4c286a8cf6c8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935579
+      }
+    ],
+    "wof:id": 1796935579,
+    "wof:lastmodified": 1672257514,
+    "wof:name": "Gate D14 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38163427901165,
+    37.61813516687576,
+    -122.38163427901165,
+    37.61813516687576
+  ],
+  "geometry": {"coordinates":[-122.38163427901165,37.61813516687576],"type":"Point"}
+}

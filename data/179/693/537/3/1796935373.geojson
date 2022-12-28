@@ -1,0 +1,41 @@
+{
+  "id": 1796935373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385060,37.618021,-122.385060,37.618021",
+    "geom:latitude": 37.61802084471917,
+    "geom:longitude": -122.38505989742826,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257463,
+    "wof:geomhash": "cf2c17fdd0e748d845cea6cef81fa8ff",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935373
+      }
+    ],
+    "wof:id": 1796935373,
+    "wof:lastmodified": 1672257463,
+    "wof:name": "Terminal 3 Boarding Area E Meet and Greet",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38505989742826,
+    37.61802084471917,
+    -122.38505989742826,
+    37.61802084471917
+  ],
+  "geometry": {"coordinates":[-122.38505989742826,37.61802084471917],"type":"Point"}
+}

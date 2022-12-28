@@ -1,0 +1,41 @@
+{
+  "id": 1796935561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384283,37.616799,-122.384283,37.616799",
+    "geom:latitude": 37.61679883419518,
+    "geom:longitude": -122.38428297427988,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257510,
+    "wof:geomhash": "1bde4d4f7200abf8d95febe718135503",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935561
+      }
+    ],
+    "wof:id": 1796935561,
+    "wof:lastmodified": 1672257510,
+    "wof:name": "AirTrain Terminal 2 Bridge",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38428297427988,
+    37.61679883419518,
+    -122.38428297427988,
+    37.61679883419518
+  ],
+  "geometry": {"coordinates":[-122.38428297427988,37.61679883419518],"type":"Point"}
+}

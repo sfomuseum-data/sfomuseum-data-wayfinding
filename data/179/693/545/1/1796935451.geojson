@@ -1,0 +1,41 @@
+{
+  "id": 1796935451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393269,37.618418,-122.393269,37.618418",
+    "geom:latitude": 37.618417984259274,
+    "geom:longitude": -122.39326938047681,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257484,
+    "wof:geomhash": "e7352a7aa53d19719923eb01e1bc1ddc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935451
+      }
+    ],
+    "wof:id": 1796935451,
+    "wof:lastmodified": 1672257484,
+    "wof:name": "Gate G8 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39326938047681,
+    37.618417984259274,
+    -122.39326938047681,
+    37.618417984259274
+  ],
+  "geometry": {"coordinates":[-122.39326938047681,37.618417984259274],"type":"Point"}
+}

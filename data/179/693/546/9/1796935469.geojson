@@ -1,0 +1,41 @@
+{
+  "id": 1796935469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388950,37.613719,-122.388950,37.613719",
+    "geom:latitude": 37.61371898283914,
+    "geom:longitude": -122.38895012562426,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257488,
+    "wof:geomhash": "56ddc909ea51260b0a0b7552468cf75b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935469
+      }
+    ],
+    "wof:id": 1796935469,
+    "wof:lastmodified": 1672257488,
+    "wof:name": "Gate A3 - A4 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38895012562426,
+    37.61371898283914,
+    -122.38895012562426,
+    37.61371898283914
+  ],
+  "geometry": {"coordinates":[-122.38895012562426,37.61371898283914],"type":"Point"}
+}

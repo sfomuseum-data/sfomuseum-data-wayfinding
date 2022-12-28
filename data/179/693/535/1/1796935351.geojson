@@ -1,0 +1,41 @@
+{
+  "id": 1796935351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384376,37.619441,-122.384376,37.619441",
+    "geom:latitude": 37.61944127081161,
+    "geom:longitude": -122.38437577384089,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257457,
+    "wof:geomhash": "ec8d5f570d062a66669b1ac4dcc2a1e6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935351
+      }
+    ],
+    "wof:id": 1796935351,
+    "wof:lastmodified": 1672257457,
+    "wof:name": "Gate E10 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38437577384089,
+    37.61944127081161,
+    -122.38437577384089,
+    37.61944127081161
+  ],
+  "geometry": {"coordinates":[-122.38437577384089,37.61944127081161],"type":"Point"}
+}

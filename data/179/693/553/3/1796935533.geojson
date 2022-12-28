@@ -1,0 +1,41 @@
+{
+  "id": 1796935533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386048,37.611181,-122.386048,37.611181",
+    "geom:latitude": 37.61118084366581,
+    "geom:longitude": -122.38604777237154,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257503,
+    "wof:geomhash": "0db325d0985668bb29d135ce4f4457cb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935533
+      }
+    ],
+    "wof:id": 1796935533,
+    "wof:lastmodified": 1672257503,
+    "wof:name": "Gate B19 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38604777237154,
+    37.61118084366581,
+    -122.38604777237154,
+    37.61118084366581
+  ],
+  "geometry": {"coordinates":[-122.38604777237154,37.61118084366581],"type":"Point"}
+}

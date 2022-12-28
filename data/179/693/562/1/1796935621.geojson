@@ -1,0 +1,41 @@
+{
+  "id": 1796935621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.390419,37.616478,-122.390419,37.616478",
+    "geom:latitude": 37.616478434448695,
+    "geom:longitude": -122.39041923914803,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257524,
+    "wof:geomhash": "af0bb5feba0d8eddfd0d464a459a1682",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935621
+      }
+    ],
+    "wof:id": 1796935621,
+    "wof:lastmodified": 1672257524,
+    "wof:name": "ITB BART Entrance",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39041923914803,
+    37.616478434448695,
+    -122.39041923914803,
+    37.616478434448695
+  ],
+  "geometry": {"coordinates":[-122.39041923914803,37.616478434448695],"type":"Point"}
+}

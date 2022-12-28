@@ -1,0 +1,41 @@
+{
+  "id": 1796935429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388011,37.617818,-122.388011,37.617818",
+    "geom:latitude": 37.61781792670594,
+    "geom:longitude": -122.38801090510603,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257476,
+    "wof:geomhash": "79c94d2bcfafd356d0e3a5259f45e956",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935429
+      }
+    ],
+    "wof:id": 1796935429,
+    "wof:lastmodified": 1672257476,
+    "wof:name": "Gate F2 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38801090510603,
+    37.61781792670594,
+    -122.38801090510603,
+    37.61781792670594
+  ],
+  "geometry": {"coordinates":[-122.38801090510603,37.61781792670594],"type":"Point"}
+}

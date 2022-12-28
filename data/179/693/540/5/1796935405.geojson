@@ -1,0 +1,41 @@
+{
+  "id": 1796935405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388820,37.620323,-122.388820,37.620323",
+    "geom:latitude": 37.620322514754676,
+    "geom:longitude": -122.38881967833011,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257470,
+    "wof:geomhash": "ca47d8eed26386ec999e7544b9698a23",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935405
+      }
+    ],
+    "wof:id": 1796935405,
+    "wof:lastmodified": 1672257470,
+    "wof:name": "Gate F14 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38881967833011,
+    37.620322514754676,
+    -122.38881967833011,
+    37.620322514754676
+  ],
+  "geometry": {"coordinates":[-122.38881967833011,37.620322514754676],"type":"Point"}
+}

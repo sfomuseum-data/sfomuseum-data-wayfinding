@@ -1,0 +1,41 @@
+{
+  "id": 1796935511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385404,37.611302,-122.385404,37.611302",
+    "geom:latitude": 37.61130219226125,
+    "geom:longitude": -122.38540357612418,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257498,
+    "wof:geomhash": "a5d6a0b16abacc96450d554e3adf3898",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935511
+      }
+    ],
+    "wof:id": 1796935511,
+    "wof:lastmodified": 1672257498,
+    "wof:name": "Gate B17 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38540357612418,
+    37.61130219226125,
+    -122.38540357612418,
+    37.61130219226125
+  ],
+  "geometry": {"coordinates":[-122.38540357612418,37.61130219226125],"type":"Point"}
+}

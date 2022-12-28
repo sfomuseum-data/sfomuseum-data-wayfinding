@@ -1,0 +1,41 @@
+{
+  "id": 1796935607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387999,37.614401,-122.387999,37.614401",
+    "geom:latitude": 37.61440103182615,
+    "geom:longitude": -122.38799866996405,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257521,
+    "wof:geomhash": "d216a252a3c55d08e5fb664f1b354d66",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935607
+      }
+    ],
+    "wof:id": 1796935607,
+    "wof:lastmodified": 1672257521,
+    "wof:name": "Aviation Museum and Library",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38799866996405,
+    37.61440103182615,
+    -122.38799866996405,
+    37.61440103182615
+  ],
+  "geometry": {"coordinates":[-122.38799866996405,37.61440103182615],"type":"Point"}
+}

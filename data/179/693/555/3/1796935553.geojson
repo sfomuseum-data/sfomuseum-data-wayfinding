@@ -1,0 +1,41 @@
+{
+  "id": 1796935553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.382374,37.614908,-122.382374,37.614908",
+    "geom:latitude": 37.614908193115696,
+    "geom:longitude": -122.38237435563073,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257508,
+    "wof:geomhash": "0ec781dbded88de731844b0f6c1abb49",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935553
+      }
+    ],
+    "wof:id": 1796935553,
+    "wof:lastmodified": 1672257508,
+    "wof:name": "Gate C7 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38237435563073,
+    37.614908193115696,
+    -122.38237435563073,
+    37.614908193115696
+  ],
+  "geometry": {"coordinates":[-122.38237435563073,37.614908193115696],"type":"Point"}
+}

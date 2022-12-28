@@ -1,0 +1,41 @@
+{
+  "id": 1796935457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393307,37.618656,-122.393307,37.618656",
+    "geom:latitude": 37.6186556882176,
+    "geom:longitude": -122.3933070652507,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257485,
+    "wof:geomhash": "f7129b213ebe2a0a8397a2e9a4cad2d4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935457
+      }
+    ],
+    "wof:id": 1796935457,
+    "wof:lastmodified": 1672257485,
+    "wof:name": "Gate G11 - G14 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3933070652507,
+    37.6186556882176,
+    -122.3933070652507,
+    37.6186556882176
+  ],
+  "geometry": {"coordinates":[-122.3933070652507,37.6186556882176],"type":"Point"}
+}

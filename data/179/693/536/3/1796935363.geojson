@@ -1,0 +1,41 @@
+{
+  "id": 1796935363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384486,37.619186,-122.384486,37.619186",
+    "geom:latitude": 37.61918617388072,
+    "geom:longitude": -122.38448592933376,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257461,
+    "wof:geomhash": "297818d47f94b0f096da4542bfc28134",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935363
+      }
+    ],
+    "wof:id": 1796935363,
+    "wof:lastmodified": 1672257461,
+    "wof:name": "Gate E8 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38448592933376,
+    37.61918617388072,
+    -122.38448592933376,
+    37.61918617388072
+  ],
+  "geometry": {"coordinates":[-122.38448592933376,37.61918617388072],"type":"Point"}
+}

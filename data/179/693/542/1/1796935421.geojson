@@ -1,0 +1,41 @@
+{
+  "id": 1796935421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.390136,37.621154,-122.390136,37.621154",
+    "geom:latitude": 37.62115447860882,
+    "geom:longitude": -122.39013574658719,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257474,
+    "wof:geomhash": "f6ead2e9283ce1fd78816d59e3bdf73e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935421
+      }
+    ],
+    "wof:id": 1796935421,
+    "wof:lastmodified": 1672257474,
+    "wof:name": "Gate F21 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39013574658719,
+    37.62115447860882,
+    -122.39013574658719,
+    37.62115447860882
+  ],
+  "geometry": {"coordinates":[-122.39013574658719,37.62115447860882],"type":"Point"}
+}

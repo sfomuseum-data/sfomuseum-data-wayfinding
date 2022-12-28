@@ -1,0 +1,41 @@
+{
+  "id": 1796935477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.390168,37.611626,-122.390168,37.611626",
+    "geom:latitude": 37.61162578851575,
+    "geom:longitude": -122.39016763209307,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257490,
+    "wof:geomhash": "37aca93b4fc1d802c70438f656269123",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935477
+      }
+    ],
+    "wof:id": 1796935477,
+    "wof:lastmodified": 1672257490,
+    "wof:name": "Gates A11 - A15 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39016763209307,
+    37.61162578851575,
+    -122.39016763209307,
+    37.61162578851575
+  ],
+  "geometry": {"coordinates":[-122.39016763209307,37.61162578851575],"type":"Point"}
+}

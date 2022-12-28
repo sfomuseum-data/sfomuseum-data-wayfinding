@@ -1,0 +1,41 @@
+{
+  "id": 1796935501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384720,37.612351,-122.384720,37.612351",
+    "geom:latitude": 37.61235088382673,
+    "geom:longitude": -122.3847204284758,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257496,
+    "wof:geomhash": "4059b94a4e56b19b805c44db663cb98f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935501
+      }
+    ],
+    "wof:id": 1796935501,
+    "wof:lastmodified": 1672257496,
+    "wof:name": "Gate B12 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3847204284758,
+    37.61235088382673,
+    -122.3847204284758,
+    37.61235088382673
+  ],
+  "geometry": {"coordinates":[-122.3847204284758,37.61235088382673],"type":"Point"}
+}

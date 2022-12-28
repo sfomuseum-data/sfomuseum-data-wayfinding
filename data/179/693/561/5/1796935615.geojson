@@ -1,0 +1,41 @@
+{
+  "id": 1796935615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.391242,37.616268,-122.391242,37.616268",
+    "geom:latitude": 37.61626842084329,
+    "geom:longitude": -122.39124197285992,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257523,
+    "wof:geomhash": "c29913350d32f9e33ddaa7b8841b0869",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935615
+      }
+    ],
+    "wof:id": 1796935615,
+    "wof:lastmodified": 1672257523,
+    "wof:name": "San Francisco International Airport BART Station",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39124197285992,
+    37.61626842084329,
+    -122.39124197285992,
+    37.61626842084329
+  ],
+  "geometry": {"coordinates":[-122.39124197285992,37.61626842084329],"type":"Point"}
+}

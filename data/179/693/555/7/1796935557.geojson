@@ -1,0 +1,41 @@
+{
+  "id": 1796935557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.382299,37.614657,-122.382299,37.614657",
+    "geom:latitude": 37.61465650713998,
+    "geom:longitude": -122.38229944909034,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257509,
+    "wof:geomhash": "2011953f8492a279968694b3e778f6e2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935557
+      }
+    ],
+    "wof:id": 1796935557,
+    "wof:lastmodified": 1672257509,
+    "wof:name": "Gate C10 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38229944909034,
+    37.61465650713998,
+    -122.38229944909034,
+    37.61465650713998
+  ],
+  "geometry": {"coordinates":[-122.38229944909034,37.61465650713998],"type":"Point"}
+}

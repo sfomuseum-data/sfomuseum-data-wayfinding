@@ -1,0 +1,41 @@
+{
+  "id": 1796935517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385937,37.610501,-122.385937,37.610501",
+    "geom:latitude": 37.610500692279054,
+    "geom:longitude": -122.38593691069177,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257499,
+    "wof:geomhash": "d6ab701bbfc8cc887963c8a095898dae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935517
+      }
+    ],
+    "wof:id": 1796935517,
+    "wof:lastmodified": 1672257499,
+    "wof:name": "Gate B22 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38593691069177,
+    37.610500692279054,
+    -122.38593691069177,
+    37.610500692279054
+  ],
+  "geometry": {"coordinates":[-122.38593691069177,37.610500692279054],"type":"Point"}
+}

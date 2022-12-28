@@ -1,0 +1,41 @@
+{
+  "id": 1796935453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393040,37.618748,-122.393040,37.618748",
+    "geom:latitude": 37.618748450737925,
+    "geom:longitude": -122.39304037300477,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257484,
+    "wof:geomhash": "cceed809bab7dba8588a384880a9a32a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935453
+      }
+    ],
+    "wof:id": 1796935453,
+    "wof:lastmodified": 1672257484,
+    "wof:name": "Gate G10 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39304037300477,
+    37.618748450737925,
+    -122.39304037300477,
+    37.618748450737925
+  ],
+  "geometry": {"coordinates":[-122.39304037300477,37.618748450737925],"type":"Point"}
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1796935503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385781,37.611955,-122.385781,37.611955",
+    "geom:latitude": 37.61195537729346,
+    "geom:longitude": -122.38578110508774,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257496,
+    "wof:geomhash": "65360eb40b8c8886e2f1576d5f19e8de",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935503
+      }
+    ],
+    "wof:id": 1796935503,
+    "wof:lastmodified": 1672257496,
+    "wof:name": "Gate B15 - B16 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38578110508774,
+    37.61195537729346,
+    -122.38578110508774,
+    37.61195537729346
+  ],
+  "geometry": {"coordinates":[-122.38578110508774,37.61195537729346],"type":"Point"}
+}

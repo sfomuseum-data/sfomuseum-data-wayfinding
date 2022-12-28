@@ -1,0 +1,41 @@
+{
+  "id": 1796935601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.381359,37.617000,-122.381359,37.617000",
+    "geom:latitude": 37.61699958372343,
+    "geom:longitude": -122.381358622943,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257519,
+    "wof:geomhash": "c45b289fd83393a52db4e774cea7464c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935601
+      }
+    ],
+    "wof:id": 1796935601,
+    "wof:lastmodified": 1672257519,
+    "wof:name": "Gate D4 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.381358622943,
+    37.61699958372343,
+    -122.381358622943,
+    37.61699958372343
+  ],
+  "geometry": {"coordinates":[-122.381358622943,37.61699958372343],"type":"Point"}
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1796935531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386081,37.611133,-122.386081,37.611133",
+    "geom:latitude": 37.611132903479955,
+    "geom:longitude": -122.38608073124931,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257502,
+    "wof:geomhash": "32b803893534ec39c8b8880ebf93639a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935531
+      }
+    ],
+    "wof:id": 1796935531,
+    "wof:lastmodified": 1672257502,
+    "wof:name": "Gate B20 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38608073124931,
+    37.611132903479955,
+    -122.38608073124931,
+    37.611132903479955
+  ],
+  "geometry": {"coordinates":[-122.38608073124931,37.611132903479955],"type":"Point"}
+}

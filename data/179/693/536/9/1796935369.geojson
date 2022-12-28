@@ -1,0 +1,41 @@
+{
+  "id": 1796935369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384492,37.618499,-122.384492,37.618499",
+    "geom:latitude": 37.61849915146458,
+    "geom:longitude": -122.38449172699129,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257462,
+    "wof:geomhash": "467aa8ecef829f42a1ed452caa841889",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935369
+      }
+    ],
+    "wof:id": 1796935369,
+    "wof:lastmodified": 1672257462,
+    "wof:name": "Gate E5 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38449172699129,
+    37.61849915146458,
+    -122.38449172699129,
+    37.61849915146458
+  ],
+  "geometry": {"coordinates":[-122.38449172699129,37.61849915146458],"type":"Point"}
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1796935605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386762,37.617965,-122.386762,37.617965",
+    "geom:latitude": 37.61796499388848,
+    "geom:longitude": -122.3867622441541,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257520,
+    "wof:geomhash": "38c63b6c59158138e2ea7a567a05e1ba",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935605
+      }
+    ],
+    "wof:id": 1796935605,
+    "wof:lastmodified": 1672257520,
+    "wof:name": "AirTrain Terminal 3 Stairs",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3867622441541,
+    37.61796499388848,
+    -122.3867622441541,
+    37.61796499388848
+  ],
+  "geometry": {"coordinates":[-122.3867622441541,37.61796499388848],"type":"Point"}
+}

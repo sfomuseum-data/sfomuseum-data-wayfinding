@@ -1,0 +1,41 @@
+{
+  "id": 1796935525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386305,37.610812,-122.386305,37.610812",
+    "geom:latitude": 37.61081230348708,
+    "geom:longitude": -122.3863054508705,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257501,
+    "wof:geomhash": "ffa9b88bd1772fdcd4b1bd9756ca8393",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935525
+      }
+    ],
+    "wof:id": 1796935525,
+    "wof:lastmodified": 1672257501,
+    "wof:name": "Gate B26 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3863054508705,
+    37.61081230348708,
+    -122.3863054508705,
+    37.61081230348708
+  ],
+  "geometry": {"coordinates":[-122.3863054508705,37.61081230348708],"type":"Point"}
+}

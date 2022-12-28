@@ -1,0 +1,41 @@
+{
+  "id": 1796935463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.389182,37.612693,-122.389182,37.612693",
+    "geom:latitude": 37.61269279745806,
+    "geom:longitude": -122.38918203192507,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257487,
+    "wof:geomhash": "3ca770e32e8ecd74f045494226e1a2dd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935463
+      }
+    ],
+    "wof:id": 1796935463,
+    "wof:lastmodified": 1672257487,
+    "wof:name": "Gate A6 - A7 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38918203192507,
+    37.61269279745806,
+    -122.38918203192507,
+    37.61269279745806
+  ],
+  "geometry": {"coordinates":[-122.38918203192507,37.61269279745806],"type":"Point"}
+}

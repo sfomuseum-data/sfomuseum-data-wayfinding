@@ -1,0 +1,41 @@
+{
+  "id": 1796935575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.381877,37.617644,-122.381877,37.617644",
+    "geom:latitude": 37.61764377997079,
+    "geom:longitude": -122.3818769762025,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257513,
+    "wof:geomhash": "783a581a27d55f5d47ae0adeb9bd71d6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935575
+      }
+    ],
+    "wof:id": 1796935575,
+    "wof:lastmodified": 1672257513,
+    "wof:name": "Gate D18 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3818769762025,
+    37.61764377997079,
+    -122.3818769762025,
+    37.61764377997079
+  ],
+  "geometry": {"coordinates":[-122.3818769762025,37.61764377997079],"type":"Point"}
+}

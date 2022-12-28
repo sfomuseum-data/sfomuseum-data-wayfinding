@@ -1,0 +1,41 @@
+{
+  "id": 1796935467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.389599,37.612867,-122.389599,37.612867",
+    "geom:latitude": 37.61286672718367,
+    "geom:longitude": -122.38959946326652,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257488,
+    "wof:geomhash": "9e466d1c0b0e847c54a5e8e5c4ee8190",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935467
+      }
+    ],
+    "wof:id": 1796935467,
+    "wof:lastmodified": 1672257488,
+    "wof:name": "Gate A9 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38959946326652,
+    37.61286672718367,
+    -122.38959946326652,
+    37.61286672718367
+  ],
+  "geometry": {"coordinates":[-122.38959946326652,37.61286672718367],"type":"Point"}
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1796935589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.381092,37.617551,-122.381092,37.617551",
+    "geom:latitude": 37.61755089586071,
+    "geom:longitude": -122.3810919556592,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257516,
+    "wof:geomhash": "b8d73b2fd0ce679fc1eecacd8bad629d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935589
+      }
+    ],
+    "wof:id": 1796935589,
+    "wof:lastmodified": 1672257516,
+    "wof:name": "Gate D9 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3810919556592,
+    37.61755089586071,
+    -122.3810919556592,
+    37.61755089586071
+  ],
+  "geometry": {"coordinates":[-122.3810919556592,37.61755089586071],"type":"Point"}
+}

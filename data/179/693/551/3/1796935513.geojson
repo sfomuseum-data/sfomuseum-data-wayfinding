@@ -1,0 +1,41 @@
+{
+  "id": 1796935513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385595,37.611021,-122.385595,37.611021",
+    "geom:latitude": 37.611020543669376,
+    "geom:longitude": -122.38559533686758,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257498,
+    "wof:geomhash": "a5683cf882e7e5eba60dbfa5212dad66",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935513
+      }
+    ],
+    "wof:id": 1796935513,
+    "wof:lastmodified": 1672257498,
+    "wof:name": "Gate B18 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38559533686758,
+    37.611020543669376,
+    -122.38559533686758,
+    37.611020543669376
+  ],
+  "geometry": {"coordinates":[-122.38559533686758,37.611020543669376],"type":"Point"}
+}

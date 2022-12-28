@@ -1,0 +1,41 @@
+{
+  "id": 1796935529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386269,37.610845,-122.386269,37.610845",
+    "geom:latitude": 37.610845262364855,
+    "geom:longitude": -122.3862694957311,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257502,
+    "wof:geomhash": "f85e3675138f2eb932526a0a68e2495e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935529
+      }
+    ],
+    "wof:id": 1796935529,
+    "wof:lastmodified": 1672257502,
+    "wof:name": "Gate B27 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3862694957311,
+    37.610845262364855,
+    -122.3862694957311,
+    37.610845262364855
+  ],
+  "geometry": {"coordinates":[-122.3862694957311,37.610845262364855],"type":"Point"}
+}

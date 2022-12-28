@@ -1,0 +1,41 @@
+{
+  "id": 1796935547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.382995,37.615160,-122.382995,37.615160",
+    "geom:latitude": 37.615159879091415,
+    "geom:longitude": -122.38299458178517,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257506,
+    "wof:geomhash": "f40311f137e61bb9eec4b339afafd887",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935547
+      }
+    ],
+    "wof:id": 1796935547,
+    "wof:lastmodified": 1672257506,
+    "wof:name": "Gate C5 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38299458178517,
+    37.615159879091415,
+    -122.38299458178517,
+    37.615159879091415
+  ],
+  "geometry": {"coordinates":[-122.38299458178517,37.615159879091415],"type":"Point"}
+}

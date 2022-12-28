@@ -1,0 +1,41 @@
+{
+  "id": 1796935613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.389635,37.615543,-122.389635,37.615543",
+    "geom:latitude": 37.61554311612358,
+    "geom:longitude": -122.389635477033,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257522,
+    "wof:geomhash": "31f50ddd8443c7a4edee9ccd0c65b435",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935613
+      }
+    ],
+    "wof:id": 1796935613,
+    "wof:lastmodified": 1672257522,
+    "wof:name": "ITB Pre Security A - G Connector West",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.389635477033,
+    37.61554311612358,
+    -122.389635477033,
+    37.61554311612358
+  ],
+  "geometry": {"coordinates":[-122.389635477033,37.61554311612358],"type":"Point"}
+}

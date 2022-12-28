@@ -1,0 +1,41 @@
+{
+  "id": 1796935571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383405,37.617233,-122.383405,37.617233",
+    "geom:latitude": 37.61723329212945,
+    "geom:longitude": -122.38340506962649,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257512,
+    "wof:geomhash": "c1ce41986c33bed56c231707436791ae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935571
+      }
+    ],
+    "wof:id": 1796935571,
+    "wof:lastmodified": 1672257512,
+    "wof:name": "Terminal 2 Boarding Area D Meet and Greet",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38340506962649,
+    37.61723329212945,
+    -122.38340506962649,
+    37.61723329212945
+  ],
+  "geometry": {"coordinates":[-122.38340506962649,37.61723329212945],"type":"Point"}
+}

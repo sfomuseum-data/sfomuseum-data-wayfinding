@@ -1,0 +1,41 @@
+{
+  "id": 1796935371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384773,37.618172,-122.384773,37.618172",
+    "geom:latitude": 37.61817158381469,
+    "geom:longitude": -122.38477291338101,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257462,
+    "wof:geomhash": "043ad066a545484f31cf635361524715",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935371
+      }
+    ],
+    "wof:id": 1796935371,
+    "wof:lastmodified": 1672257462,
+    "wof:name": "Gate E4 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38477291338101,
+    37.61817158381469,
+    -122.38477291338101,
+    37.61817158381469
+  ],
+  "geometry": {"coordinates":[-122.38477291338101,37.61817158381469],"type":"Point"}
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1796935381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386686,37.617786,-122.386686,37.617786",
+    "geom:latitude": 37.61778603958959,
+    "geom:longitude": -122.38668614036268,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257465,
+    "wof:geomhash": "71f8e0f7967a04dce4b69167a06ddbb2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935381
+      }
+    ],
+    "wof:id": 1796935381,
+    "wof:lastmodified": 1672257465,
+    "wof:name": "Air Train Terminal 3 Bridge",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38668614036268,
+    37.61778603958959,
+    -122.38668614036268,
+    37.61778603958959
+  ],
+  "geometry": {"coordinates":[-122.38668614036268,37.61778603958959],"type":"Point"}
+}

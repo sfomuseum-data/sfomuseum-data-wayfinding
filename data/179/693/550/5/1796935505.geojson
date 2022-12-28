@@ -1,0 +1,41 @@
+{
+  "id": 1796935505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384954,37.611973,-122.384954,37.611973",
+    "geom:latitude": 37.61197335486315,
+    "geom:longitude": -122.38495413688183,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257497,
+    "wof:geomhash": "939f15012f6f417f79ca50f22662e194",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935505
+      }
+    ],
+    "wof:id": 1796935505,
+    "wof:lastmodified": 1672257497,
+    "wof:name": "Gate B13 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38495413688183,
+    37.61197335486315,
+    -122.38495413688183,
+    37.61197335486315
+  ],
+  "geometry": {"coordinates":[-122.38495413688183,37.61197335486315],"type":"Point"}
+}

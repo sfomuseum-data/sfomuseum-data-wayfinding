@@ -1,0 +1,41 @@
+{
+  "id": 1796935609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388893,37.615690,-122.388893,37.615690",
+    "geom:latitude": 37.61569034215625,
+    "geom:longitude": -122.38889285160357,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257521,
+    "wof:geomhash": "aa61400acaa2843366cb47ae76ef0cf2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935609
+      }
+    ],
+    "wof:id": 1796935609,
+    "wof:lastmodified": 1672257521,
+    "wof:name": "ITB Pre Security Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38889285160357,
+    37.61569034215625,
+    -122.38889285160357,
+    37.61569034215625
+  ],
+  "geometry": {"coordinates":[-122.38889285160357,37.61569034215625],"type":"Point"}
+}

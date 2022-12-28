@@ -1,0 +1,41 @@
+{
+  "id": 1796935385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387243,37.620172,-122.387243,37.620172",
+    "geom:latitude": 37.620171775659145,
+    "geom:longitude": -122.3872427154846,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257466,
+    "wof:geomhash": "d7fea2b470b8b11daf1212e167e5aaae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935385
+      }
+    ],
+    "wof:id": 1796935385,
+    "wof:lastmodified": 1672257466,
+    "wof:name": "Gate F5 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3872427154846,
+    37.620171775659145,
+    -122.3872427154846,
+    37.620171775659145
+  ],
+  "geometry": {"coordinates":[-122.3872427154846,37.620171775659145],"type":"Point"}
+}

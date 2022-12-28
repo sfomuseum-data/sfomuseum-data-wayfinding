@@ -1,0 +1,41 @@
+{
+  "id": 1796935441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.391753,37.618206,-122.391753,37.618206",
+    "geom:latitude": 37.6182063697598,
+    "geom:longitude": -122.3917532930353,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257481,
+    "wof:geomhash": "873380ab011f7bedcfd1495dcd88190d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935441
+      }
+    ],
+    "wof:id": 1796935441,
+    "wof:lastmodified": 1672257481,
+    "wof:name": "Gate G6 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3917532930353,
+    37.6182063697598,
+    -122.3917532930353,
+    37.6182063697598
+  ],
+  "geometry": {"coordinates":[-122.3917532930353,37.6182063697598],"type":"Point"}
+}

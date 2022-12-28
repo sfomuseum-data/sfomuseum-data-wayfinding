@@ -1,0 +1,41 @@
+{
+  "id": 1796935489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384535,37.613813,-122.384535,37.613813",
+    "geom:latitude": 37.613813059495165,
+    "geom:longitude": -122.38453466025564,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257493,
+    "wof:geomhash": "bc2aef410db45a6e3f36ac1f986c98ef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935489
+      }
+    ],
+    "wof:id": 1796935489,
+    "wof:lastmodified": 1672257493,
+    "wof:name": "Gate B3 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38453466025564,
+    37.613813059495165,
+    -122.38453466025564,
+    37.613813059495165
+  ],
+  "geometry": {"coordinates":[-122.38453466025564,37.613813059495165],"type":"Point"}
+}

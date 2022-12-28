@@ -1,0 +1,41 @@
+{
+  "id": 1796935357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383906,37.619354,-122.383906,37.619354",
+    "geom:latitude": 37.61935430594881,
+    "geom:longitude": -122.38390616358176,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672257459,
+    "wof:geomhash": "37b23e2ed9d81d65295d5043f0558269",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1796935357
+      }
+    ],
+    "wof:id": 1796935357,
+    "wof:lastmodified": 1672257459,
+    "wof:name": "Gate E11 Waiting Area",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38390616358176,
+    37.61935430594881,
+    -122.38390616358176,
+    37.61935430594881
+  ],
+  "geometry": {"coordinates":[-122.38390616358176,37.61935430594881],"type":"Point"}
+}
