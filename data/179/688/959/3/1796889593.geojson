@@ -14,7 +14,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889595,
+      1796942189,
       1796889589
     ],
     "wof:belongsto": [
@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1796889593,
-    "wof:lastmodified": 1672347156,
+    "wof:lastmodified": 1672347836,
     "wof:name": "T3 - T2 Pre Security Connector T3",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

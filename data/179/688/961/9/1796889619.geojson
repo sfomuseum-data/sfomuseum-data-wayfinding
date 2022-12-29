@@ -14,8 +14,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796903587,
-      1796889617
+      1796942191,
+      1796903587
     ],
     "wof:belongsto": [
       1763588121,
@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1796889619,
-    "wof:lastmodified": 1672347153,
+    "wof:lastmodified": 1672347930,
     "wof:name": "T3 - ITB Pre Security Connector ITB",
     "wof:parent_id": 1763588477,
     "wof:placetype": "venue",

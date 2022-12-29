@@ -12,7 +12,9 @@
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796935705
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -47,7 +49,7 @@
       }
     ],
     "wof:id": 1796942181,
-    "wof:lastmodified": 1672347106,
+    "wof:lastmodified": 1672347348,
     "wof:name": "Grand Hyatt Hotel Entrance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

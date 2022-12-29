@@ -13,7 +13,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889605,
+      1796889603
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +60,7 @@
       }
     ],
     "wof:id": 1796942185,
-    "wof:lastmodified": 1672347141,
+    "wof:lastmodified": 1672347670,
     "wof:name": "T1 - T2 Pre Security Connector",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

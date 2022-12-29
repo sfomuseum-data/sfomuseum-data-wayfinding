@@ -12,6 +12,8 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796942175,
+      1796942181,
       1796903629
     ],
     "wof:belongsto": [
@@ -51,8 +53,8 @@
       }
     ],
     "wof:id": 1796935705,
-    "wof:lastmodified": 1672347105,
-    "wof:name": "Grand Hyatt Hotel",
+    "wof:lastmodified": 1672347469,
+    "wof:name": "Grand Hyatt Hotel Level 1",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",
