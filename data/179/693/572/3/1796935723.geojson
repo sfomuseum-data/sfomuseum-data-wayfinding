@@ -13,7 +13,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889523,
+      1796889527
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -57,7 +60,7 @@
       }
     ],
     "wof:id": 1796935723,
-    "wof:lastmodified": 1672280963,
+    "wof:lastmodified": 1672340863,
     "wof:name": "T3 ITB Post Security Connector Mid Pier",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
