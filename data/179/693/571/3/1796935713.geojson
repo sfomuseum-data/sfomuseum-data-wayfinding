@@ -13,7 +13,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796935613
+    ],
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796935713,
-    "wof:lastmodified": 1672275392,
+    "wof:lastmodified": 1672280937,
     "wof:name": "International Terminal Departures Door 3",
     "wof:parent_id": 1745882445,
     "wof:placetype": "venue",

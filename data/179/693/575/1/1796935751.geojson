@@ -1,68 +1,59 @@
 {
-  "id": 1796889615,
+  "id": 1796935751,
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.387383,37.617961,-122.387383,37.617961",
-    "geom:latitude": 37.61796055488118,
-    "geom:longitude": -122.38738274687049,
+    "geom:bbox": "-122.392153,37.616055,-122.392153,37.616055",
+    "geom:latitude": 37.616054592624934,
+    "geom:longitude": -122.39215266007078,
     "mz:is_current": 1,
-    "sfo:level": 2,
+    "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
-    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889505,
-      1796889587
+      1796889543,
+      1796903597,
+      1796935619
     ],
     "wof:belongsto": [
-      1763588121,
       102527513,
-      1763588359,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      1763588269,
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1671674963,
-    "wof:geomhash": "f435ac6aa24995140408dad055ea7e97",
+    "wof:created": 1672280765,
+    "wof:geomhash": "0c57e220baa357f1503f85a66ee0b8e7",
     "wof:hierarchy": [
       {
-        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588359,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1796889615,
-        "wing_id": 1763588269
+        "venue_id": 1796935751
       },
       {
-        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588359,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1796889615,
-        "wing_id": 1763588269
+        "venue_id": 1796935751
       }
     ],
-    "wof:id": 1796889615,
-    "wof:lastmodified": 1672280986,
-    "wof:name": "Terminal 3 TSA West",
-    "wof:parent_id": 1763588359,
+    "wof:id": 1796935751,
+    "wof:lastmodified": 1672281081,
+    "wof:name": "AirTrain BART Entrance",
+    "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",
     "wof:repo": "sfomuseum-data-wayfinding",
@@ -70,10 +61,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38738274687049,
-    37.61796055488118,
-    -122.38738274687049,
-    37.61796055488118
+    -122.39215266007078,
+    37.616054592624934,
+    -122.39215266007078,
+    37.616054592624934
   ],
-  "geometry": {"coordinates":[-122.38738274687049,37.61796055488118],"type":"Point"}
+  "geometry": {"coordinates":[-122.39215266007078,37.616054592624934],"type":"Point"}
 }

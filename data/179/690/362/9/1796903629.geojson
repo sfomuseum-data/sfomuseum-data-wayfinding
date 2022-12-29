@@ -12,7 +12,8 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796903625
+      1796903625,
+      1796935705
     ],
     "wof:belongsto": [
       1477856005,
@@ -51,7 +52,7 @@
       }
     ],
     "wof:id": 1796903629,
-    "wof:lastmodified": 1672275374,
+    "wof:lastmodified": 1672280922,
     "wof:name": "Hotel Grand Hyatt Reception",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

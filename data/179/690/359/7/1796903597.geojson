@@ -12,6 +12,7 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796935751,
       1796889543,
       1796903589
     ],
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1796903597,
-    "wof:lastmodified": 1672275222,
+    "wof:lastmodified": 1672281081,
     "wof:name": "AirTrain Gargage G / BART Red Line",
     "wof:parent_id": 1477855991,
     "wof:placetype": "venue",

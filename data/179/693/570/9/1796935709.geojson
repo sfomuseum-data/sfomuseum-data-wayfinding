@@ -12,7 +12,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903599,
+      1796889551,
+      1796903625
+    ],
     "wof:belongsto": [
       1729791967,
       102527513,
@@ -50,7 +54,7 @@
       }
     ],
     "wof:id": 1796935709,
-    "wof:lastmodified": 1672275223,
+    "wof:lastmodified": 1672280794,
     "wof:name": "AirTrain Grand Hyatt Hotel Station",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",

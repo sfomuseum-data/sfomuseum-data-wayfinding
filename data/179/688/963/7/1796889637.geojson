@@ -14,6 +14,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796935717,
       1796889639,
       1796889635,
       1796903603,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1796889637,
-    "wof:lastmodified": 1672275386,
+    "wof:lastmodified": 1672280931,
     "wof:name": "ITB Pre Security A West",
     "wof:parent_id": 1745882445,
     "wof:placetype": "venue",

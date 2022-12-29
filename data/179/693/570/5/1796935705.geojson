@@ -11,7 +11,9 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903629
+    ],
     "wof:belongsto": [
       1477856005,
       102527513,
@@ -49,7 +51,7 @@
       }
     ],
     "wof:id": 1796935705,
-    "wof:lastmodified": 1672275372,
+    "wof:lastmodified": 1672280921,
     "wof:name": "Grand Hyatt Hotel",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
