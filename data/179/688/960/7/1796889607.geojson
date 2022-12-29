@@ -14,7 +14,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889605      
+      1796889605
     ],
     "wof:belongsto": [
       1763588121,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796889607,
-    "wof:lastmodified": 1672258159,
+    "wof:lastmodified": 1672275424,
     "wof:name": "Terminal 1 Pre Security Boarding Area C",
     "wof:parent_id": 1763588263,
     "wof:placetype": "venue",
