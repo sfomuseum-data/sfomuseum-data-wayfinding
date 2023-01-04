@@ -8,6 +8,8 @@
     "geom:bbox": "-122.388707,37.614616,-122.388707,37.614616",
     "geom:latitude": 37.614615881257876,
     "geom:longitude": -122.38870726626416,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1796982265,
-    "wof:lastmodified": 1672861205,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Internation Terminal A Station",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

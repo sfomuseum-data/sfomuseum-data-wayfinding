@@ -8,9 +8,12 @@
     "geom:bbox": "-122.391242,37.616268,-122.391242,37.616268",
     "geom:latitude": 37.61626842084329,
     "geom:longitude": -122.39124197285992,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "BART",
     "mz:is_current": 1,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796935619,
@@ -50,7 +53,7 @@
       }
     ],
     "wof:id": 1796935615,
-    "wof:lastmodified": 1672859035,
+    "wof:lastmodified": 1672870000,
     "wof:name": "San Francisco International Airport BART Station Platform",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

@@ -8,8 +8,11 @@
     "geom:bbox": "-122.400988,37.635990,-122.400988,37.635990",
     "geom:latitude": 37.635989602437526,
     "geom:longitude": -122.40098821173582,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "PRK",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796903639,
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1796903641,
-    "wof:lastmodified": 1672858951,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Long Term Parking 1 - 2 Bridge",
     "wof:parent_id": 1477855987,
     "wof:placetype": "venue",

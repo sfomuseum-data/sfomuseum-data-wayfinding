@@ -8,6 +8,8 @@
     "geom:bbox": "-122.383834,37.616931,-122.383834,37.616931",
     "geom:latitude": 37.61693066970627,
     "geom:longitude": -122.38383353503754,
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 1,
     "sfomuseum:placetype": "waypoint",
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1796935565,
-    "wof:lastmodified": 1672859020,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Terminal 2 Stairs",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

@@ -8,6 +8,8 @@
     "geom:bbox": "-122.401218,37.628200,-122.401218,37.628200",
     "geom:latitude": 37.62820048933336,
     "geom:longitude": -122.40121832540817,
+    "millsfield:wayfinding_detail": "RCC",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -54,7 +56,7 @@
       }
     ],
     "wof:id": 1796889559,
-    "wof:lastmodified": 1672860745,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Rental Car Center Blue Line (Outbound)",
     "wof:parent_id": 1729791943,
     "wof:placetype": "venue",

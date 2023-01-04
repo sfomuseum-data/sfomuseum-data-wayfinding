@@ -8,6 +8,8 @@
     "geom:bbox": "-122.387834,37.620224,-122.387834,37.620224",
     "geom:latitude": 37.62022395457683,
     "geom:longitude": -122.38783407655166,
+    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935397,
-    "wof:lastmodified": 1672858959,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate F11 Waiting Area",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

@@ -8,8 +8,11 @@
     "geom:bbox": "-122.392518,37.615984,-122.392518,37.615984",
     "geom:latitude": 37.615984071748514,
     "geom:longitude": -122.39251798560606,
+    "millsfield:wayfinding_detail": "PRK",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796889543,
@@ -53,7 +56,7 @@
       }
     ],
     "wof:id": 1796982277,
-    "wof:lastmodified": 1672861904,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Garage G / BART Station",
     "wof:parent_id": 1477855991,
     "wof:placetype": "venue",

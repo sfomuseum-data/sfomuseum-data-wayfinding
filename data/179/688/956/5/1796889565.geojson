@@ -8,6 +8,8 @@
     "geom:bbox": "-122.391843,37.613841,-122.391843,37.613841",
     "geom:latitude": 37.613841093371484,
     "geom:longitude": -122.39184276014207,
+    "millsfield:wayfinding_detail": "PRK",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -54,7 +56,7 @@
       }
     ],
     "wof:id": 1796889565,
-    "wof:lastmodified": 1672861061,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Garage A Blue Line",
     "wof:parent_id": 1729791949,
     "wof:placetype": "venue",

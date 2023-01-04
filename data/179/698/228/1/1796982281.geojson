@@ -8,6 +8,8 @@
     "geom:bbox": "-122.401207,37.628199,-122.401207,37.628199",
     "geom:latitude": 37.628199414930066,
     "geom:longitude": -122.40120745714829,
+    "millsfield:wayfinding_detail": "RCC",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -54,7 +56,7 @@
       }
     ],
     "wof:id": 1796982281,
-    "wof:lastmodified": 1672860611,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Rental Car Center Station",
     "wof:parent_id": 1729791943,
     "wof:placetype": "venue",

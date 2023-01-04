@@ -8,8 +8,11 @@
     "geom:bbox": "-122.394107,37.612783,-122.394107,37.612783",
     "geom:latitude": 37.61278318152187,
     "geom:longitude": -122.39410674405117,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "GHH",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796942177,
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1796942175,
-    "wof:lastmodified": 1672858913,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Grand Hyatt Hotel Level 2",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

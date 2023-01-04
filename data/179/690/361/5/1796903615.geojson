@@ -8,6 +8,8 @@
     "geom:bbox": "-122.381536,37.617515,-122.381536,37.617515",
     "geom:latitude": 37.617514823601844,
     "geom:longitude": -122.38153636064618,
+    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1796903615,
-    "wof:lastmodified": 1672858939,
+    "wof:lastmodified": 1672869999,
     "wof:name": "Boarding Area D Center Court",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

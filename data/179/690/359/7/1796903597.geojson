@@ -8,8 +8,11 @@
     "geom:bbox": "-122.392395,37.615916,-122.392395,37.615916",
     "geom:latitude": 37.615915515675276,
     "geom:longitude": -122.39239459952302,
+    "millsfield:wayfinding_detail": "PRK",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796903589,
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1796903597,
-    "wof:lastmodified": 1672862037,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Gargage G / BART Red Line",
     "wof:parent_id": 1477855991,
     "wof:placetype": "venue",

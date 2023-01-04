@@ -8,6 +8,8 @@
     "geom:bbox": "-122.385668,37.615190,-122.385668,37.615190",
     "geom:latitude": 37.61519048383055,
     "geom:longitude": -122.38566767480481,
+    "millsfield:wayfinding_detail": "T1",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -56,7 +58,7 @@
       }
     ],
     "wof:id": 1796982267,
-    "wof:lastmodified": 1672861367,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Terminal 1 Station",
     "wof:parent_id": 1729791955,
     "wof:placetype": "venue",

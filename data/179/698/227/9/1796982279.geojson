@@ -8,9 +8,12 @@
     "geom:bbox": "-122.400291,37.634972,-122.400291,37.634972",
     "geom:latitude": 37.634972022421096,
     "geom:longitude": -122.40029129399466,
+    "millsfield:wayfinding_detail": "PRK",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796903637,
@@ -51,7 +54,7 @@
       }
     ],
     "wof:id": 1796982279,
-    "wof:lastmodified": 1672860338,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Long-Term Parking Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

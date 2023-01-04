@@ -8,6 +8,8 @@
     "geom:bbox": "-122.385547,37.613813,-122.385547,37.613813",
     "geom:latitude": 37.61381305949517,
     "geom:longitude": -122.38554739668172,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935483,
-    "wof:lastmodified": 1672858998,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate B4 Waiting Area",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

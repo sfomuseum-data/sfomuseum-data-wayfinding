@@ -8,6 +8,8 @@
     "geom:bbox": "-122.383498,37.617536,-122.383498,37.617536",
     "geom:latitude": 37.61753572886657,
     "geom:longitude": -122.38349846906465,
+    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796903623,
-    "wof:lastmodified": 1672858941,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Terminal 2 SkyTerrace",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

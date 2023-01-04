@@ -8,6 +8,8 @@
     "geom:bbox": "-122.390136,37.621154,-122.390136,37.621154",
     "geom:latitude": 37.62115447860882,
     "geom:longitude": -122.39013574658719,
+    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935421,
-    "wof:lastmodified": 1672858988,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate F21 Waiting Area",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

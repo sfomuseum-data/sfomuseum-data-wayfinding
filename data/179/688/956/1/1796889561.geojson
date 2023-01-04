@@ -8,9 +8,12 @@
     "geom:bbox": "-122.400335,37.635048,-122.400335,37.635048",
     "geom:latitude": 37.63504790937685,
     "geom:longitude": -122.4003352019827,
+    "millsfield:wayfinding_detail": "PRK",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796982279
@@ -49,7 +52,7 @@
       }
     ],
     "wof:id": 1796889561,
-    "wof:lastmodified": 1672863326,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Long-Term Parking Blue Line (Outbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

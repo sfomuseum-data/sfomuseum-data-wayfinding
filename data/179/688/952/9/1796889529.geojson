@@ -8,6 +8,8 @@
     "geom:bbox": "-122.392995,37.618518,-122.392995,37.618518",
     "geom:latitude": 37.61851832981306,
     "geom:longitude": -122.39299469438319,
+    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1796889529,
-    "wof:lastmodified": 1672858867,
+    "wof:lastmodified": 1672869999,
     "wof:name": "Boarding Area G End Pier",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

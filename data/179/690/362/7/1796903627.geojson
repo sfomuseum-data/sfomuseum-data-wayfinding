@@ -8,6 +8,8 @@
     "geom:bbox": "-122.383481,37.617275,-122.383481,37.617275",
     "geom:latitude": 37.617274910801804,
     "geom:longitude": -122.38348055026631,
+    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
     "sfo:level": 1,
     "sfomuseum:placetype": "waypoint",
@@ -60,7 +62,7 @@
       }
     ],
     "wof:id": 1796903627,
-    "wof:lastmodified": 1672858943,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Terminal 2 SkyTerrace Elevator",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

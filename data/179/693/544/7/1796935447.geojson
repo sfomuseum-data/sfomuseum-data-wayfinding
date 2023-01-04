@@ -8,6 +8,8 @@
     "geom:bbox": "-122.392208,37.618418,-122.392208,37.618418",
     "geom:latitude": 37.618417984259274,
     "geom:longitude": -122.39220840915063,
+    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935447,
-    "wof:lastmodified": 1672858993,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate G9 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

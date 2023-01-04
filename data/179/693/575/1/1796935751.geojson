@@ -8,9 +8,12 @@
     "geom:bbox": "-122.392153,37.616055,-122.392153,37.616055",
     "geom:latitude": 37.616054592624934,
     "geom:longitude": -122.39215266007078,
+    "millsfield:wayfinding_detail": "BART",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796982277,
@@ -50,7 +53,7 @@
       }
     ],
     "wof:id": 1796935751,
-    "wof:lastmodified": 1672861923,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain BART Entrance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

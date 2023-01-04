@@ -8,6 +8,8 @@
     "geom:bbox": "-122.388715,37.614651,-122.388715,37.614651",
     "geom:latitude": 37.614651405731145,
     "geom:longitude": -122.38871487496922,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -60,7 +62,7 @@
       }
     ],
     "wof:id": 1796903611,
-    "wof:lastmodified": 1672861280,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain International Terminal A Red Line",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

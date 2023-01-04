@@ -8,6 +8,8 @@
     "geom:bbox": "-122.387999,37.614401,-122.387999,37.614401",
     "geom:latitude": 37.61440103182615,
     "geom:longitude": -122.38799866996405,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935607,
-    "wof:lastmodified": 1672859041,
+    "wof:lastmodified": 1672869999,
     "wof:name": "Aviation Museum and Library",
     "wof:parent_id": 1763588479,
     "wof:placetype": "venue",

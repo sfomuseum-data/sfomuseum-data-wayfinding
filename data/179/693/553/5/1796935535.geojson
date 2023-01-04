@@ -8,6 +8,8 @@
     "geom:bbox": "-122.384154,37.615427,-122.384154,37.615427",
     "geom:latitude": 37.61542654637521,
     "geom:longitude": -122.38415413503044,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796935535,
-    "wof:lastmodified": 1672859012,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Terminal 1 Boarding Area C Meet and Greet",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

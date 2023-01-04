@@ -8,6 +8,8 @@
     "geom:bbox": "-122.386573,37.617480,-122.386573,37.617480",
     "geom:latitude": 37.617479649273015,
     "geom:longitude": -122.38657306086635,
+    "millsfield:wayfinding_detail": "T3",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": -1,
@@ -43,7 +45,7 @@
       }
     ],
     "wof:id": 1796903585,
-    "wof:lastmodified": 1672861655,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Terminal 3 Red Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",

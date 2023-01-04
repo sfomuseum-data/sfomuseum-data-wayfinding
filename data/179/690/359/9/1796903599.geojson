@@ -8,6 +8,8 @@
     "geom:bbox": "-122.393450,37.613476,-122.393450,37.613476",
     "geom:latitude": 37.613475991725736,
     "geom:longitude": -122.39345046682836,
+    "millsfield:wayfinding_detail": "GHH",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -53,7 +55,7 @@
       }
     ],
     "wof:id": 1796903599,
-    "wof:lastmodified": 1672863003,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Grand Hyatt Hotel Red Line",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",

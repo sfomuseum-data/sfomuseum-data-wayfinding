@@ -8,6 +8,8 @@
     "geom:bbox": "-122.388916,37.620521,-122.388916,37.620521",
     "geom:latitude": 37.62052104865257,
     "geom:longitude": -122.38891589703972,
+    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 1796889513,
-    "wof:lastmodified": 1672858860,
+    "wof:lastmodified": 1672869999,
     "wof:name": "Boarding Area F West Mid Pier",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

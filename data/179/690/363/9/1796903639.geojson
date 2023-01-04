@@ -8,8 +8,11 @@
     "geom:bbox": "-122.400502,37.636619,-122.400502,37.636619",
     "geom:latitude": 37.63661875135711,
     "geom:longitude": -122.40050241320299,
+    "millsfield:wayfinding_detail": "LT1",
+    "millsfield:wayfinding_kind": "PRK",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796903641
@@ -51,7 +54,7 @@
       }
     ],
     "wof:id": 1796903639,
-    "wof:lastmodified": 1672858950,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Long Term Parking 1",
     "wof:parent_id": 1477855983,
     "wof:placetype": "venue",

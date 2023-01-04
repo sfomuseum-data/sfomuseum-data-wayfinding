@@ -8,6 +8,8 @@
     "geom:bbox": "-122.390002,37.620983,-122.390002,37.620983",
     "geom:latitude": 37.62098321453861,
     "geom:longitude": -122.39000162007359,
+    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1796889515,
-    "wof:lastmodified": 1672858860,
+    "wof:lastmodified": 1672869999,
     "wof:name": "Boarding Area F West End Pier",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

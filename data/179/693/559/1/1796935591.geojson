@@ -8,6 +8,8 @@
     "geom:bbox": "-122.380960,37.617410,-122.380960,37.617410",
     "geom:latitude": 37.61741007156477,
     "geom:longitude": -122.38096012014812,
+    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935591,
-    "wof:lastmodified": 1672859028,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate D8 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

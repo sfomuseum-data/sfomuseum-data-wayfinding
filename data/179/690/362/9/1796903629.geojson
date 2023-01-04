@@ -8,8 +8,11 @@
     "geom:bbox": "-122.393663,37.613279,-122.393663,37.613279",
     "geom:latitude": 37.61327901877148,
     "geom:longitude": -122.39366340516885,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "GHH",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796942179,
@@ -52,8 +55,8 @@
       }
     ],
     "wof:id": 1796903629,
-    "wof:lastmodified": 1672858944,
-    "wof:name": "Hotel Grand Hyatt Reception",
+    "wof:lastmodified": 1672870000,
+    "wof:name": "Grand Hyatt Hotel Reception",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",

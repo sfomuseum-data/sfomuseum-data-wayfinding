@@ -8,6 +8,8 @@
     "geom:bbox": "-122.384954,37.611973,-122.384954,37.611973",
     "geom:latitude": 37.61197335486315,
     "geom:longitude": -122.38495413688183,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935505,
-    "wof:lastmodified": 1672859001,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate B13 Waiting Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

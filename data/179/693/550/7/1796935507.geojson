@@ -8,6 +8,8 @@
     "geom:bbox": "-122.385170,37.611662,-122.385170,37.611662",
     "geom:latitude": 37.61166174365513,
     "geom:longitude": -122.38516986771815,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935507,
-    "wof:lastmodified": 1672859002,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate B14 Waiting Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

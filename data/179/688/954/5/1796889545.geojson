@@ -8,6 +8,8 @@
     "geom:bbox": "-122.389620,37.617051,-122.389620,37.617051",
     "geom:latitude": 37.61705113652405,
     "geom:longitude": -122.38962014981846,
+    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 1796889545,
-    "wof:lastmodified": 1672858875,
+    "wof:lastmodified": 1672869999,
     "wof:name": "Boarding Area G Start Pier",
     "wof:parent_id": 1763588479,
     "wof:placetype": "venue",

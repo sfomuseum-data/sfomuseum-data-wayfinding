@@ -8,6 +8,8 @@
     "geom:bbox": "-122.386576,37.617528,-122.386576,37.617528",
     "geom:latitude": 37.61752797434298,
     "geom:longitude": -122.38657572374376,
+    "millsfield:wayfinding_detail": "T3",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796889539,
-    "wof:lastmodified": 1672861685,
+    "wof:lastmodified": 1672869999,
     "wof:name": "Air Train Terminal 3 Blue Line",
     "wof:parent_id": 1763588269,
     "wof:placetype": "venue",

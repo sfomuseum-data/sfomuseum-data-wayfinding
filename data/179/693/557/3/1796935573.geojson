@@ -8,6 +8,8 @@
     "geom:bbox": "-122.381949,37.617566,-122.381949,37.617566",
     "geom:latitude": 37.617565877168786,
     "geom:longitude": -122.38194888648128,
+    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935573,
-    "wof:lastmodified": 1672859021,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate D17 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

@@ -8,6 +8,8 @@
     "geom:bbox": "-122.391023,37.617453,-122.391023,37.617453",
     "geom:latitude": 37.61745267428217,
     "geom:longitude": -122.39102278818774,
+    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935443,
-    "wof:lastmodified": 1672858990,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate G3 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

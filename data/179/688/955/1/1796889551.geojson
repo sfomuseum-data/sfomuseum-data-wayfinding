@@ -8,6 +8,8 @@
     "geom:bbox": "-122.393410,37.613453,-122.393410,37.613453",
     "geom:latitude": 37.61345346209515,
     "geom:longitude": -122.39341032398484,
+    "millsfield:wayfinding_detail": "GHH",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -54,7 +56,7 @@
       }
     ],
     "wof:id": 1796889551,
-    "wof:lastmodified": 1672863566,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Grand Hyatt Hotel Blue Line",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",

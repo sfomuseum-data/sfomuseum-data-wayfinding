@@ -8,6 +8,8 @@
     "geom:bbox": "-122.385641,37.615213,-122.385641,37.615213",
     "geom:latitude": 37.61521271173392,
     "geom:longitude": -122.38564065972069,
+    "millsfield:wayfinding_detail": "T1",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -56,7 +58,7 @@
       }
     ],
     "wof:id": 1796889547,
-    "wof:lastmodified": 1672861381,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Terminal 1 Blue Line",
     "wof:parent_id": 1729791955,
     "wof:placetype": "venue",

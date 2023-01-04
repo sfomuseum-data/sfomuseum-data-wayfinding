@@ -8,6 +8,8 @@
     "geom:bbox": "-122.386604,37.617524,-122.386604,37.617524",
     "geom:latitude": 37.61752445584399,
     "geom:longitude": -122.38660350961372,
+    "millsfield:wayfinding_detail": "T3",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": -1,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796982271,
-    "wof:lastmodified": 1672861583,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Terminal 3 Station",
     "wof:parent_id": 1763588269,
     "wof:placetype": "venue",

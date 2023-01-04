@@ -8,6 +8,8 @@
     "geom:bbox": "-122.384720,37.612351,-122.384720,37.612351",
     "geom:latitude": 37.61235088382673,
     "geom:longitude": -122.3847204284758,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935501,
-    "wof:lastmodified": 1672858997,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate B12 Waiting Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

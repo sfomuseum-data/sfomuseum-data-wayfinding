@@ -8,6 +8,8 @@
     "geom:bbox": "-122.384969,37.618143,-122.384969,37.618143",
     "geom:latitude": 37.618142914646725,
     "geom:longitude": -122.38496931274643,
+    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 1796889497,
-    "wof:lastmodified": 1672858856,
+    "wof:lastmodified": 1672869999,
     "wof:name": "Boarding Area E Start Pier",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",

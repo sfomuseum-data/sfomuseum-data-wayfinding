@@ -8,6 +8,8 @@
     "geom:bbox": "-122.385060,37.618021,-122.385060,37.618021",
     "geom:latitude": 37.61802084471917,
     "geom:longitude": -122.38505989742826,
+    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -60,7 +62,7 @@
       }
     ],
     "wof:id": 1796935373,
-    "wof:lastmodified": 1672858969,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Terminal 3 Boarding Area E Meet and Greet",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

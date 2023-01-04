@@ -8,6 +8,8 @@
     "geom:bbox": "-122.391932,37.613835,-122.391932,37.613835",
     "geom:latitude": 37.61383517949571,
     "geom:longitude": -122.3919316583105,
+    "millsfield:wayfinding_detail": "PRK",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -53,7 +55,7 @@
       }
     ],
     "wof:id": 1796982263,
-    "wof:lastmodified": 1672861035,
+    "wof:lastmodified": 1672869999,
     "wof:name": "AirTrain Garage A Station",
     "wof:parent_id": 1729791949,
     "wof:placetype": "venue",

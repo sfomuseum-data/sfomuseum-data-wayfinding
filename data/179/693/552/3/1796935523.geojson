@@ -8,6 +8,8 @@
     "geom:bbox": "-122.386353,37.610674,-122.386353,37.610674",
     "geom:latitude": 37.61067447545276,
     "geom:longitude": -122.38635339105633,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935523,
-    "wof:lastmodified": 1672859004,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate B25 Waiting Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

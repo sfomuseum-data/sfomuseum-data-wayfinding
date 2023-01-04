@@ -8,6 +8,8 @@
     "geom:bbox": "-122.389370,37.620560,-122.389370,37.620560",
     "geom:latitude": 37.620560218713,
     "geom:longitude": -122.38937045579453,
+    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796935407,
-    "wof:lastmodified": 1672858964,
+    "wof:lastmodified": 1672870000,
     "wof:name": "Gate F16 Waiting Area",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",
