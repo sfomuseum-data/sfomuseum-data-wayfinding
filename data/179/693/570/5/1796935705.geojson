@@ -13,8 +13,7 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796942175,
-      1796942181,
-      1796903629
+      1796942181
     ],
     "wof:belongsto": [
       1477856005,
@@ -53,7 +52,7 @@
       }
     ],
     "wof:id": 1796935705,
-    "wof:lastmodified": 1672859047,
+    "wof:lastmodified": 1672860993,
     "wof:name": "Grand Hyatt Hotel Level 1",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

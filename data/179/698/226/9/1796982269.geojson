@@ -11,7 +11,11 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903621,
+      1796935561,
+      1796889549
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -39,7 +43,7 @@
       }
     ],
     "wof:id": 1796982269,
-    "wof:lastmodified": 1672858924,
+    "wof:lastmodified": 1672862340,
     "wof:name": "AirTrain Terminal 2 Station",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",

@@ -13,7 +13,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796982267
+    ],
     "wof:belongsto": [
       1729791955,
       1477863281,
@@ -54,8 +56,8 @@
       }
     ],
     "wof:id": 1796889547,
-    "wof:lastmodified": 1672858875,
-    "wof:name": "AirTrain Terminal 1",
+    "wof:lastmodified": 1672861381,
+    "wof:name": "AirTrain Terminal 1 Blue Line",
     "wof:parent_id": 1729791955,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",

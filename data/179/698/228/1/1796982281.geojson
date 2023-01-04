@@ -12,7 +12,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889563,
+      1796889559,
+      1796903633
+    ],
     "wof:belongsto": [
       1729791943,
       102527513,
@@ -50,7 +54,7 @@
       }
     ],
     "wof:id": 1796982281,
-    "wof:lastmodified": 1672858928,
+    "wof:lastmodified": 1672860611,
     "wof:name": "AirTrain Rental Car Center Station",
     "wof:parent_id": 1729791943,
     "wof:placetype": "venue",

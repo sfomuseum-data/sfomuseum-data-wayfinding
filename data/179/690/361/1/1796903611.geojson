@@ -14,9 +14,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889585,
-      1796903609,
-      1796903605
+      1796903605,
+      1796982265
     ],
     "wof:belongsto": [
       1763588121,
@@ -61,7 +60,7 @@
       }
     ],
     "wof:id": 1796903611,
-    "wof:lastmodified": 1672858939,
+    "wof:lastmodified": 1672861280,
     "wof:name": "AirTrain International Terminal A Red Line",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

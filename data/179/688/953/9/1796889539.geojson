@@ -14,9 +14,8 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796903585,
-      1796935381,
-      1796889583
+      1796889583,
+      1796982271
     ],
     "wof:belongsto": [
       102527513,
@@ -58,8 +57,8 @@
       }
     ],
     "wof:id": 1796889539,
-    "wof:lastmodified": 1672858881,
-    "wof:name": "Air Train Terminal 3",
+    "wof:lastmodified": 1672861685,
+    "wof:name": "Air Train Terminal 3 Blue Line",
     "wof:parent_id": 1763588269,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",

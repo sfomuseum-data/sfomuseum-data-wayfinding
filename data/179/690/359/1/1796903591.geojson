@@ -14,10 +14,9 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796982275,
       1796903587,
-      1796889641,
-      1796889583,
-      1796903589
+      1796889641
     ],
     "wof:belongsto": [
       1763588121,
@@ -62,7 +61,7 @@
       }
     ],
     "wof:id": 1796903591,
-    "wof:lastmodified": 1672858933,
+    "wof:lastmodified": 1672861775,
     "wof:name": "ITB G AirTrain Stairs",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

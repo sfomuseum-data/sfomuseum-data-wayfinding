@@ -11,7 +11,11 @@
     "mz:is_current": 1,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796889543,
+      1796903597,
+      1796935751
+    ],
     "wof:belongsto": [
       1477855991,
       102527513,
@@ -49,7 +53,7 @@
       }
     ],
     "wof:id": 1796982277,
-    "wof:lastmodified": 1672858926,
+    "wof:lastmodified": 1672861904,
     "wof:name": "AirTrain Garage G / BART Station",
     "wof:parent_id": 1477855991,
     "wof:placetype": "venue",

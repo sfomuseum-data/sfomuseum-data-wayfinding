@@ -12,7 +12,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796903617,
+      1796889547
+    ],
     "wof:belongsto": [
       1729791955,
       1477863281,
@@ -53,7 +56,7 @@
       }
     ],
     "wof:id": 1796982267,
-    "wof:lastmodified": 1672858921,
+    "wof:lastmodified": 1672861367,
     "wof:name": "AirTrain Terminal 1 Station",
     "wof:parent_id": 1729791955,
     "wof:placetype": "venue",
