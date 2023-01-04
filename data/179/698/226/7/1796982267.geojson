@@ -1,0 +1,72 @@
+{
+  "id": 1796982267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385668,37.615190,-122.385668,37.615190",
+    "geom:latitude": 37.61519048383055,
+    "geom:longitude": -122.38566767480481,
+    "mz:is_current": 1,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [
+      1729791955,
+      1477863281,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1672858746,
+    "wof:geomhash": "5f9fb3181fd317db4936d5bcb7722c4a",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1729791955,
+        "building_id": 1477863281,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1796982267
+      },
+      {
+        "arcade_id": 1729791955,
+        "building_id": 1477863281,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1796982267
+      }
+    ],
+    "wof:id": 1796982267,
+    "wof:lastmodified": 1672858921,
+    "wof:name": "AirTrain Terminal 1 Station",
+    "wof:parent_id": 1729791955,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38566767480481,
+    37.61519048383055,
+    -122.38566767480481,
+    37.61519048383055
+  ],
+  "geometry": {"coordinates":[-122.38566767480481,37.61519048383055],"type":"Point"}
+}
