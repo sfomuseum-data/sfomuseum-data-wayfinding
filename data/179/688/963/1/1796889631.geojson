@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385779,37.614213,-122.385779,37.614213",
-    "geom:latitude": 37.61421327230711,
-    "geom:longitude": -122.38577900380645,
+    "geom:bbox": "-122.385720,37.614256,-122.385720,37.614256",
+    "geom:latitude": 37.61425576534722,
+    "geom:longitude": -122.38571970924926,
     "millsfield:wayfinding_detail": "TSA",
     "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674969,
-    "wof:geomhash": "03da87776af10280f5c5be70f103be46",
+    "wof:geomhash": "3c3c6db1563ffe1f9878c243dd58f7c8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796889631,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Terminal 1 TSA Security Checkpoint",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",
@@ -73,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38577900380645,
-    37.61421327230711,
-    -122.38577900380645,
-    37.61421327230711
+    -122.38571970924926,
+    37.61425576534722,
+    -122.38571970924926,
+    37.61425576534722
   ],
-  "geometry": {"coordinates":[-122.38577900380645,37.61421327230711],"type":"Point"}
+  "geometry": {"coordinates":[-122.38571970924926,37.61425576534722],"type":"Point"}
 }

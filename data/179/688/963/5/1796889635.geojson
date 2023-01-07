@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.388681,37.614706,-122.388681,37.614706",
-    "geom:latitude": 37.61470612993168,
-    "geom:longitude": -122.38868138759554,
+    "geom:bbox": "-122.388728,37.614739,-122.388728,37.614739",
+    "geom:latitude": 37.614738710546945,
+    "geom:longitude": -122.38872818363372,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -39,7 +39,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674971,
-    "wof:geomhash": "efed23471851aab76ccfcd4e60cc4ce2",
+    "wof:geomhash": "ff5cee3d1ad74abf325abc55b9255854",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1796889635,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "International Terminal Main Hall A Side East",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -77,10 +77,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38868138759554,
-    37.61470612993168,
-    -122.38868138759554,
-    37.61470612993168
+    -122.38872818363372,
+    37.614738710546945,
+    -122.38872818363372,
+    37.614738710546945
   ],
-  "geometry": {"coordinates":[-122.38868138759554,37.61470612993168],"type":"Point"}
+  "geometry": {"coordinates":[-122.38872818363372,37.614738710546945],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389901,37.621088,-122.389901,37.621088",
-    "geom:latitude": 37.62108780554734,
-    "geom:longitude": -122.38990094145763,
+    "geom:bbox": "-122.389721,37.621014,-122.389721,37.621014",
+    "geom:latitude": 37.62101362995127,
+    "geom:longitude": -122.38972079861861,
     "millsfield:wayfinding_detail": "F",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257475,
-    "wof:geomhash": "9a8177f8730e88211c50594315f3dc7f",
+    "wof:geomhash": "6aea8a2c72dd24871ab969fec80e7745",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935423,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Gate F22 Waiting Area",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38990094145763,
-    37.62108780554734,
-    -122.38990094145763,
-    37.62108780554734
+    -122.38972079861861,
+    37.62101362995127,
+    -122.38972079861861,
+    37.62101362995127
   ],
-  "geometry": {"coordinates":[-122.38990094145763,37.62108780554734],"type":"Point"}
+  "geometry": {"coordinates":[-122.38972079861861,37.62101362995127],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.380960,37.617410,-122.380960,37.617410",
-    "geom:latitude": 37.61741007156477,
-    "geom:longitude": -122.38096012014812,
+    "geom:bbox": "-122.380970,37.617303,-122.380970,37.617303",
+    "geom:latitude": 37.617303412575204,
+    "geom:longitude": -122.38096972216312,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257517,
-    "wof:geomhash": "1093897f292dc38af6c6fdefa664b2b7",
+    "wof:geomhash": "917add562004b4a9352a4a45652784d8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935591,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Gate D8 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38096012014812,
-    37.61741007156477,
-    -122.38096012014812,
-    37.61741007156477
+    -122.38096972216312,
+    37.617303412575204,
+    -122.38096972216312,
+    37.617303412575204
   ],
-  "geometry": {"coordinates":[-122.38096012014812,37.61741007156477],"type":"Point"}
+  "geometry": {"coordinates":[-122.38096972216312,37.617303412575204],"type":"Point"}
 }

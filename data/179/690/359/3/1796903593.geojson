@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389569,37.616819,-122.389569,37.616819",
-    "geom:latitude": 37.61681944298126,
-    "geom:longitude": -122.38956866978825,
+    "geom:bbox": "-122.389717,37.616771,-122.389717,37.616771",
+    "geom:latitude": 37.61677104268582,
+    "geom:longitude": -122.38971704125169,
     "millsfield:wayfinding_detail": "TSA",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820677,
-    "wof:geomhash": "6c9451e5da7cb8d675d54f4135aa69af",
+    "wof:geomhash": "cfcc2c3518516484aece8306f9cb81aa",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796903593,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "International Terminal G Side TSA Checkpoint",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -72,10 +72,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38956866978825,
-    37.61681944298126,
-    -122.38956866978825,
-    37.61681944298126
+    -122.38971704125169,
+    37.61677104268582,
+    -122.38971704125169,
+    37.61677104268582
   ],
-  "geometry": {"coordinates":[-122.38956866978825,37.61681944298126],"type":"Point"}
+  "geometry": {"coordinates":[-122.38971704125169,37.61677104268582],"type":"Point"}
 }

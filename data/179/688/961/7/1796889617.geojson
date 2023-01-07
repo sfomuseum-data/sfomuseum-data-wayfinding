@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.388259,37.616951,-122.388259,37.616951",
-    "geom:latitude": 37.61695137022136,
-    "geom:longitude": -122.38825893820304,
+    "geom:bbox": "-122.388178,37.616962,-122.388178,37.616962",
+    "geom:latitude": 37.616961688184254,
+    "geom:longitude": -122.3881782474558,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "",
     "mz:is_current": 1,
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674964,
-    "wof:geomhash": "79c5d987efea92fe969d8f826751fac5",
+    "wof:geomhash": "0bb6d91bb5cbe98505748fea0e7368c1",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796889617,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "T3 - International Terminal Pre-Security Connector T3",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -72,10 +72,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38825893820304,
-    37.61695137022136,
-    -122.38825893820304,
-    37.61695137022136
+    -122.3881782474558,
+    37.616961688184254,
+    -122.3881782474558,
+    37.616961688184254
   ],
-  "geometry": {"coordinates":[-122.38825893820304,37.61695137022136],"type":"Point"}
+  "geometry": {"coordinates":[-122.3881782474558,37.616961688184254],"type":"Point"}
 }

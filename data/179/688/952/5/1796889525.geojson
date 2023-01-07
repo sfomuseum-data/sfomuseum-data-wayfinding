@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.388142,37.617006,-122.388142,37.617006",
-    "geom:latitude": 37.61700613217964,
-    "geom:longitude": -122.38814159114958,
+    "geom:bbox": "-122.387521,37.617710,-122.387521,37.617710",
+    "geom:latitude": 37.617709907548004,
+    "geom:longitude": -122.38752057693226,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674931,
-    "wof:geomhash": "fc64996dfb0caf78ffa108d32aaeef29",
+    "wof:geomhash": "b5d73b829ce7a24e9fe1aeb72a68f807",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796889525,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Terminal 3 Main Hall F Side",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
@@ -72,10 +72,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38814159114958,
-    37.61700613217964,
-    -122.38814159114958,
-    37.61700613217964
+    -122.38752057693226,
+    37.617709907548004,
+    -122.38752057693226,
+    37.617709907548004
   ],
-  "geometry": {"coordinates":[-122.38814159114958,37.61700613217964],"type":"Point"}
+  "geometry": {"coordinates":[-122.38752057693226,37.617709907548004],"type":"Point"}
 }

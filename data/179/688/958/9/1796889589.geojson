@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385208,37.617882,-122.385208,37.617882",
-    "geom:latitude": 37.617882323512205,
-    "geom:longitude": -122.38520791481288,
+    "geom:bbox": "-122.385450,37.617987,-122.385450,37.617987",
+    "geom:latitude": 37.61798740667534,
+    "geom:longitude": -122.385450265805,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674953,
-    "wof:geomhash": "982d3726ea61d6b552a76a138bc0b1d0",
+    "wof:geomhash": "0606817e7a3b976d1a8bf888e4c38aba",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796889589,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Terminal 3 Main Hall E Side",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
@@ -73,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38520791481288,
-    37.617882323512205,
-    -122.38520791481288,
-    37.617882323512205
+    -122.385450265805,
+    37.61798740667534,
+    -122.385450265805,
+    37.61798740667534
   ],
-  "geometry": {"coordinates":[-122.38520791481288,37.617882323512205],"type":"Point"}
+  "geometry": {"coordinates":[-122.385450265805,37.61798740667534],"type":"Point"}
 }

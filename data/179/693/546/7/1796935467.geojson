@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389599,37.612867,-122.389599,37.612867",
-    "geom:latitude": 37.61286672718367,
-    "geom:longitude": -122.38959946326652,
+    "geom:bbox": "-122.389621,37.612717,-122.389621,37.612717",
+    "geom:latitude": 37.61271685546817,
+    "geom:longitude": -122.38962070281981,
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257488,
-    "wof:geomhash": "9e466d1c0b0e847c54a5e8e5c4ee8190",
+    "wof:geomhash": "92c97fa75ac2c40f3a714e016ec0152e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935467,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Gate A9 Waiting Area",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38959946326652,
-    37.61286672718367,
-    -122.38959946326652,
-    37.61286672718367
+    -122.38962070281981,
+    37.61271685546817,
+    -122.38962070281981,
+    37.61271685546817
   ],
-  "geometry": {"coordinates":[-122.38959946326652,37.61286672718367],"type":"Point"}
+  "geometry": {"coordinates":[-122.38962070281981,37.61271685546817],"type":"Point"}
 }

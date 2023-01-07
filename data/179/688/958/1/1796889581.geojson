@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385813,37.618452,-122.385813,37.618452",
-    "geom:latitude": 37.61845230611505,
-    "geom:longitude": -122.38581278323348,
+    "geom:bbox": "-122.385697,37.618415,-122.385697,37.618415",
+    "geom:latitude": 37.61841499866969,
+    "geom:longitude": -122.38569695349405,
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -38,7 +38,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674950,
-    "wof:geomhash": "8d477180f32280539142119585c42776",
+    "wof:geomhash": "c8bdfc501b51afa2258c105e2c515d83",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1796889581,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Terminal 3 Post-Security E Side",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",
@@ -76,10 +76,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38581278323348,
-    37.61845230611505,
-    -122.38581278323348,
-    37.61845230611505
+    -122.38569695349405,
+    37.61841499866969,
+    -122.38569695349405,
+    37.61841499866969
   ],
-  "geometry": {"coordinates":[-122.38581278323348,37.61845230611505],"type":"Point"}
+  "geometry": {"coordinates":[-122.38569695349405,37.61841499866969],"type":"Point"}
 }

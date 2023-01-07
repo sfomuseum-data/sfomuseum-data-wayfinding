@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.387999,37.614401,-122.387999,37.614401",
-    "geom:latitude": 37.61440103182615,
-    "geom:longitude": -122.38799866996405,
+    "geom:bbox": "-122.388170,37.614490,-122.388170,37.614490",
+    "geom:latitude": 37.61449024279646,
+    "geom:longitude": -122.38816969080713,
     "millsfield:wayfinding_detail": "ITB",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257521,
-    "wof:geomhash": "d216a252a3c55d08e5fb664f1b354d66",
+    "wof:geomhash": "6badd30f6b4ec4ef62c53126bf31bdf2",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935607,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Aviation Museum and Library",
     "wof:parent_id": 1763588479,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38799866996405,
-    37.61440103182615,
-    -122.38799866996405,
-    37.61440103182615
+    -122.38816969080713,
+    37.61449024279646,
+    -122.38816969080713,
+    37.61449024279646
   ],
-  "geometry": {"coordinates":[-122.38799866996405,37.61440103182615],"type":"Point"}
+  "geometry": {"coordinates":[-122.38816969080713,37.61449024279646],"type":"Point"}
 }

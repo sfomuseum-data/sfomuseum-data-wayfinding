@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384565,37.612886,-122.384565,37.612886",
-    "geom:latitude": 37.612885886728854,
-    "geom:longitude": -122.38456533219826,
+    "geom:bbox": "-122.384506,37.612861,-122.384506,37.612861",
+    "geom:latitude": 37.61286121211693,
+    "geom:longitude": -122.3845064703234,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674911,
-    "wof:geomhash": "1b5f5750d06447d159cc6a44dfb4f91f",
+    "wof:geomhash": "8254249977b8c228c5e1099460c48b2f",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1796889471,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Boarding Area B Mid Pier",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -78,10 +78,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38456533219826,
-    37.612885886728854,
-    -122.38456533219826,
-    37.612885886728854
+    -122.3845064703234,
+    37.61286121211693,
+    -122.3845064703234,
+    37.61286121211693
   ],
-  "geometry": {"coordinates":[-122.38456533219826,37.612885886728854],"type":"Point"}
+  "geometry": {"coordinates":[-122.3845064703234,37.61286121211693],"type":"Point"}
 }

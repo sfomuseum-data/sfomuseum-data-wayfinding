@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389319,37.617279,-122.389319,37.617279",
-    "geom:latitude": 37.617278551483835,
-    "geom:longitude": -122.38931937519419,
+    "geom:bbox": "-122.389326,37.617222,-122.389326,37.617222",
+    "geom:latitude": 37.6172221855798,
+    "geom:longitude": -122.38932592946864,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674931,
-    "wof:geomhash": "29c60c84af8be46c67702b807f28d7c7",
+    "wof:geomhash": "6296a0a8814a62f0aa030d3fab1e78d3",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796889527,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "T3 - International Terminal Post-Security Connector (ITB)",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -72,10 +72,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38931937519419,
-    37.617278551483835,
-    -122.38931937519419,
-    37.617278551483835
+    -122.38932592946864,
+    37.6172221855798,
+    -122.38932592946864,
+    37.6172221855798
   ],
-  "geometry": {"coordinates":[-122.38931937519419,37.617278551483835],"type":"Point"}
+  "geometry": {"coordinates":[-122.38932592946864,37.6172221855798],"type":"Point"}
 }

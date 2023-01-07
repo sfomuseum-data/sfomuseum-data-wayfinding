@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389933,37.616451,-122.389933,37.616451",
-    "geom:latitude": 37.6164506894599,
-    "geom:longitude": -122.3899330894992,
+    "geom:bbox": "-122.389952,37.616369,-122.389952,37.616369",
+    "geom:latitude": 37.61636901615531,
+    "geom:longitude": -122.38995170832153,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -38,7 +38,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674972,
-    "wof:geomhash": "b17b7bb4527f911de38640009da95610",
+    "wof:geomhash": "26d6e251aecc230100e19023d570ab1b",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1796889639,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "International Terminal Main Hall G Side West",
     "wof:parent_id": 1745882445,
     "wof:placetype": "venue",
@@ -76,10 +76,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3899330894992,
-    37.6164506894599,
-    -122.3899330894992,
-    37.6164506894599
+    -122.38995170832153,
+    37.61636901615531,
+    -122.38995170832153,
+    37.61636901615531
   ],
-  "geometry": {"coordinates":[-122.3899330894992,37.6164506894599],"type":"Point"}
+  "geometry": {"coordinates":[-122.38995170832153,37.61636901615531],"type":"Point"}
 }

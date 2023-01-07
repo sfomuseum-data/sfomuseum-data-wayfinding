@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385060,37.618021,-122.385060,37.618021",
-    "geom:latitude": 37.61802084471917,
-    "geom:longitude": -122.38505989742826,
+    "geom:bbox": "-122.385130,37.617996,-122.385130,37.617996",
+    "geom:latitude": 37.617995629598305,
+    "geom:longitude": -122.38512957180923,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257463,
-    "wof:geomhash": "cf2c17fdd0e748d845cea6cef81fa8ff",
+    "wof:geomhash": "5e7a5eeac8c4ddb7e8b030c4a5b8f5af",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796935373,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Terminal 3 Boarding Area E Meet and Greet",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -72,10 +72,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38505989742826,
-    37.61802084471917,
-    -122.38505989742826,
-    37.61802084471917
+    -122.38512957180923,
+    37.617995629598305,
+    -122.38512957180923,
+    37.617995629598305
   ],
-  "geometry": {"coordinates":[-122.38505989742826,37.61802084471917],"type":"Point"}
+  "geometry": {"coordinates":[-122.38512957180923,37.617995629598305],"type":"Point"}
 }

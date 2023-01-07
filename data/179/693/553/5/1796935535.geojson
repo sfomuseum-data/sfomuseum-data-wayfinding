@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384154,37.615427,-122.384154,37.615427",
-    "geom:latitude": 37.61542654637521,
-    "geom:longitude": -122.38415413503044,
+    "geom:bbox": "-122.383896,37.615545,-122.383896,37.615545",
+    "geom:latitude": 37.61554519855375,
+    "geom:longitude": -122.38389613336398,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
     "mz:is_current": 1,
@@ -31,7 +31,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257503,
-    "wof:geomhash": "5d28259efd3998ece8b4da765976eaf8",
+    "wof:geomhash": "39b2da9c7f69719f215d770192eec4fe",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796935535,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Terminal 1 Boarding Area C Meet and Greet",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38415413503044,
-    37.61542654637521,
-    -122.38415413503044,
-    37.61542654637521
+    -122.38389613336398,
+    37.61554519855375,
+    -122.38389613336398,
+    37.61554519855375
   ],
-  "geometry": {"coordinates":[-122.38415413503044,37.61542654637521],"type":"Point"}
+  "geometry": {"coordinates":[-122.38389613336398,37.61554519855375],"type":"Point"}
 }

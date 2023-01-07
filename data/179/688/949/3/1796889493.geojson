@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.381014,37.617076,-122.381014,37.617076",
-    "geom:latitude": 37.61707619476786,
-    "geom:longitude": -122.38101399992826,
+    "geom:bbox": "-122.381006,37.617077,-122.381006,37.617077",
+    "geom:latitude": 37.61707732930673,
+    "geom:longitude": -122.38100553733436,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -38,7 +38,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674920,
-    "wof:geomhash": "e7b409d62bef0f0fc8dcd8b09adbc739",
+    "wof:geomhash": "ca8aee93b8e6386de628bbcbb90faba5",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1796889493,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Boarding Area D End Pier (C)",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -76,10 +76,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38101399992826,
-    37.61707619476786,
-    -122.38101399992826,
-    37.61707619476786
+    -122.38100553733436,
+    37.61707732930673,
+    -122.38100553733436,
+    37.61707732930673
   ],
-  "geometry": {"coordinates":[-122.38101399992826,37.61707619476786],"type":"Point"}
+  "geometry": {"coordinates":[-122.38100553733436,37.61707732930673],"type":"Point"}
 }

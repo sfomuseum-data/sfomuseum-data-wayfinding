@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384969,37.618143,-122.384969,37.618143",
-    "geom:latitude": 37.618142914646725,
-    "geom:longitude": -122.38496931274643,
+    "geom:bbox": "-122.384884,37.618247,-122.384884,37.618247",
+    "geom:latitude": 37.618247214809884,
+    "geom:longitude": -122.38488381508918,
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -38,7 +38,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674921,
-    "wof:geomhash": "377ffd3a1d213aff84f0948c3d170932",
+    "wof:geomhash": "5d527598110beb056e4dbc3b5837d6db",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1796889497,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Boarding Area E Start Pier",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",
@@ -76,10 +76,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38496931274643,
-    37.618142914646725,
-    -122.38496931274643,
-    37.618142914646725
+    -122.38488381508918,
+    37.618247214809884,
+    -122.38488381508918,
+    37.618247214809884
   ],
-  "geometry": {"coordinates":[-122.38496931274643,37.618142914646725],"type":"Point"}
+  "geometry": {"coordinates":[-122.38488381508918,37.618247214809884],"type":"Point"}
 }

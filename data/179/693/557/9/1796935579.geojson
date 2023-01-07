@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.381634,37.618135,-122.381634,37.618135",
-    "geom:latitude": 37.61813516687576,
-    "geom:longitude": -122.38163427901165,
+    "geom:bbox": "-122.381532,37.618208,-122.381532,37.618208",
+    "geom:latitude": 37.61820774564911,
+    "geom:longitude": -122.38153157266201,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257514,
-    "wof:geomhash": "48c368446948a8922c5e4c286a8cf6c8",
+    "wof:geomhash": "f7725c28eae4b34b281db1148df852d8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935579,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Gate D14 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38163427901165,
-    37.61813516687576,
-    -122.38163427901165,
-    37.61813516687576
+    -122.38153157266201,
+    37.61820774564911,
+    -122.38153157266201,
+    37.61820774564911
   ],
-  "geometry": {"coordinates":[-122.38163427901165,37.61813516687576],"type":"Point"}
+  "geometry": {"coordinates":[-122.38153157266201,37.61820774564911],"type":"Point"}
 }

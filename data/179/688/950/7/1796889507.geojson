@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.386913,37.618452,-122.386913,37.618452",
-    "geom:latitude": 37.61845230611506,
-    "geom:longitude": -122.38691317820023,
+    "geom:bbox": "-122.386972,37.618534,-122.386972,37.618534",
+    "geom:latitude": 37.61853423105273,
+    "geom:longitude": -122.38697150655412,
     "millsfield:wayfinding_detail": "F",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -36,7 +36,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674924,
-    "wof:geomhash": "b01f07a1e4e1f6da741075c18a0da475",
+    "wof:geomhash": "676ffcdb785b9e6f09995efef3d128e6",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796889507,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Boarding Area F Start Pier",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",
@@ -74,10 +74,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38691317820023,
-    37.61845230611506,
-    -122.38691317820023,
-    37.61845230611506
+    -122.38697150655412,
+    37.61853423105273,
+    -122.38697150655412,
+    37.61853423105273
   ],
-  "geometry": {"coordinates":[-122.38691317820023,37.61845230611506],"type":"Point"}
+  "geometry": {"coordinates":[-122.38697150655412,37.61853423105273],"type":"Point"}
 }

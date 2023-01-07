@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.386256,37.618313,-122.386256,37.618313",
-    "geom:latitude": 37.618312596041584,
-    "geom:longitude": -122.38625621515719,
+    "geom:bbox": "-122.386433,37.618316,-122.386433,37.618316",
+    "geom:latitude": 37.61831632359407,
+    "geom:longitude": -122.3864329050997,
     "millsfield:wayfinding_detail": "TSA",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -36,7 +36,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674962,
-    "wof:geomhash": "13cae4f8c191c6a478ea8ab07fa6cf45",
+    "wof:geomhash": "1088705847816c96b13ec267139934eb",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796889613,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Terminal 3 Security TSA Checkpoint E Side",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -74,10 +74,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38625621515719,
-    37.618312596041584,
-    -122.38625621515719,
-    37.618312596041584
+    -122.3864329050997,
+    37.61831632359407,
+    -122.3864329050997,
+    37.61831632359407
   ],
-  "geometry": {"coordinates":[-122.38625621515719,37.618312596041584],"type":"Point"}
+  "geometry": {"coordinates":[-122.3864329050997,37.61831632359407],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.387311,37.614407,-122.387311,37.614407",
-    "geom:latitude": 37.61440675467496,
-    "geom:longitude": -122.38731134376764,
+    "geom:bbox": "-122.387177,37.614421,-122.387177,37.614421",
+    "geom:latitude": 37.614421410514225,
+    "geom:longitude": -122.38717693902923,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
@@ -36,7 +36,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674912,
-    "wof:geomhash": "52849766c88ed0aedd8d8abf018cd6a5",
+    "wof:geomhash": "5bb730561d8be548fbf73d082c356f38",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796889473,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Boarding Area B ITB",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
@@ -74,10 +74,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38731134376764,
-    37.61440675467496,
-    -122.38731134376764,
-    37.61440675467496
+    -122.38717693902923,
+    37.614421410514225,
+    -122.38717693902923,
+    37.614421410514225
   ],
-  "geometry": {"coordinates":[-122.38731134376764,37.61440675467496],"type":"Point"}
+  "geometry": {"coordinates":[-122.38717693902923,37.614421410514225],"type":"Point"}
 }

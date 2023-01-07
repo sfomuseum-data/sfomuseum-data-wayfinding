@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.381005,37.616871,-122.381005,37.616871",
-    "geom:latitude": 37.61687074447395,
-    "geom:longitude": -122.38100506407235,
+    "geom:bbox": "-122.380900,37.617010,-122.380900,37.617010",
+    "geom:latitude": 37.617010175860656,
+    "geom:longitude": -122.38090033026884,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257518,
-    "wof:geomhash": "0a394879765b6d51d71d1ccca16c1ef5",
+    "wof:geomhash": "1afe81e68c73e01fc0104e6a98852dc4",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935595,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Gate D6 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38100506407235,
-    37.61687074447395,
-    -122.38100506407235,
-    37.61687074447395
+    -122.38090033026884,
+    37.617010175860656,
+    -122.38090033026884,
+    37.617010175860656
   ],
-  "geometry": {"coordinates":[-122.38100506407235,37.61687074447395],"type":"Point"}
+  "geometry": {"coordinates":[-122.38090033026884,37.617010175860656],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389037,37.616807,-122.389037,37.616807",
-    "geom:latitude": 37.61680703106732,
-    "geom:longitude": -122.38903736873011,
+    "geom:bbox": "-122.389266,37.616695,-122.389266,37.616695",
+    "geom:latitude": 37.61669463945378,
+    "geom:longitude": -122.38926589835775,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820676,
-    "wof:geomhash": "7950c45d4c31339a49ffbc5e2d3a9b72",
+    "wof:geomhash": "ec92c2fb5664c18f2d34b5d831a2e961",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796903591,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "International Terminal Main Hall G Side AirTrain Stairs",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -73,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38903736873011,
-    37.61680703106732,
-    -122.38903736873011,
-    37.61680703106732
+    -122.38926589835775,
+    37.61669463945378,
+    -122.38926589835775,
+    37.61669463945378
   ],
-  "geometry": {"coordinates":[-122.38903736873011,37.61680703106732],"type":"Point"}
+  "geometry": {"coordinates":[-122.38926589835775,37.61669463945378],"type":"Point"}
 }

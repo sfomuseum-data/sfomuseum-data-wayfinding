@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389006,37.616731,-122.389006,37.616731",
-    "geom:latitude": 37.61673137391876,
-    "geom:longitude": -122.38900551308862,
+    "geom:bbox": "-122.389124,37.616731,-122.389124,37.616731",
+    "geom:latitude": 37.616731021945235,
+    "geom:longitude": -122.3891240066411,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820675,
-    "wof:geomhash": "61b148c14c08d48cd5ac79843ad50c4e",
+    "wof:geomhash": "c6d273f9eb4475dd29896e05663a5521",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796903587,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "International Terminal Main Hall G Side 3rd - 2nd Stairs",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -73,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38900551308862,
-    37.61673137391876,
-    -122.38900551308862,
-    37.61673137391876
+    -122.3891240066411,
+    37.616731021945235,
+    -122.3891240066411,
+    37.616731021945235
   ],
-  "geometry": {"coordinates":[-122.38900551308862,37.61673137391876],"type":"Point"}
+  "geometry": {"coordinates":[-122.3891240066411,37.616731021945235],"type":"Point"}
 }

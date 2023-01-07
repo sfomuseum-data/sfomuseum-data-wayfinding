@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389310,37.616881,-122.389310,37.616881",
-    "geom:latitude": 37.61688059270351,
-    "geom:longitude": -122.38930984223296,
+    "geom:bbox": "-122.389348,37.616789,-122.389348,37.616789",
+    "geom:latitude": 37.61678923393154,
+    "geom:longitude": -122.38934775896348,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672275098,
-    "wof:geomhash": "67c17e74080c96a86dfd5f3d41e3348c",
+    "wof:geomhash": "60b4d80970958e0c951bd323cc5e6d8a",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935721,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "International Terminal Main Hall G Side Meet and Greet",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38930984223296,
-    37.61688059270351,
-    -122.38930984223296,
-    37.61688059270351
+    -122.38934775896348,
+    37.61678923393154,
+    -122.38934775896348,
+    37.61678923393154
   ],
-  "geometry": {"coordinates":[-122.38930984223296,37.61688059270351],"type":"Point"}
+  "geometry": {"coordinates":[-122.38934775896348,37.61678923393154],"type":"Point"}
 }

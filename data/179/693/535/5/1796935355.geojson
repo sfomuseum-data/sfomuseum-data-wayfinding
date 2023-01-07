@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384051,37.619406,-122.384051,37.619406",
-    "geom:latitude": 37.61940648486649,
-    "geom:longitude": -122.38405110501975,
+    "geom:bbox": "-122.384074,37.619426,-122.384074,37.619426",
+    "geom:latitude": 37.61942554763961,
+    "geom:longitude": -122.38407401433788,
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257458,
-    "wof:geomhash": "053162da4cb32e71666af4f140519875",
+    "wof:geomhash": "fc9c3de230518219f045d7055d2060d4",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935355,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673051983,
     "wof:name": "Gate E13 Waiting Area",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38405110501975,
-    37.61940648486649,
-    -122.38405110501975,
-    37.61940648486649
+    -122.38407401433788,
+    37.61942554763961,
+    -122.38407401433788,
+    37.61942554763961
   ],
-  "geometry": {"coordinates":[-122.38405110501975,37.61940648486649],"type":"Point"}
+  "geometry": {"coordinates":[-122.38407401433788,37.61942554763961],"type":"Point"}
 }
