@@ -1,0 +1,44 @@
+{
+  "id": 1797018103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.389697,37.612542,-122.389697,37.612542",
+    "geom:latitude": 37.612541942817124,
+    "geom:longitude": -122.3896970094003,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "A",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312173,
+    "wof:geomhash": "aa021ae7594c614013563e9e9fc103b5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018103
+      }
+    ],
+    "wof:id": 1797018103,
+    "wof:lastmodified": 1673312173,
+    "wof:name": "Gate A9 - A10 Stairs Level 3",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3896970094003,
+    37.612541942817124,
+    -122.3896970094003,
+    37.612541942817124
+  ],
+  "geometry": {"coordinates":[-122.3896970094003,37.612541942817124],"type":"Point"}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1797018079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.392710,37.618289,-122.392710,37.618289",
+    "geom:latitude": 37.61828889300248,
+    "geom:longitude": -122.39270964004372,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 0,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312164,
+    "wof:geomhash": "73fc4746181ccbe3acf7ab4dae965d97",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018079
+      }
+    ],
+    "wof:id": 1797018079,
+    "wof:lastmodified": 1673312164,
+    "wof:name": "Gates G7 - G8 Stairs Level 3",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39270964004372,
+    37.61828889300248,
+    -122.39270964004372,
+    37.61828889300248
+  ],
+  "geometry": {"coordinates":[-122.39270964004372,37.61828889300248],"type":"Point"}
+}

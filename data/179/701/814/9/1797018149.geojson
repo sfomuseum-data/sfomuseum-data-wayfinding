@@ -1,0 +1,44 @@
+{
+  "id": 1797018149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383905,37.616899,-122.383905,37.616899",
+    "geom:latitude": 37.61689947491734,
+    "geom:longitude": -122.3839048389432,
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "ARR",
+    "mz:is_current": 1,
+    "sfo:level": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312189,
+    "wof:geomhash": "424b2ef41b36f626022f6c6dd6ba394f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018149
+      }
+    ],
+    "wof:id": 1797018149,
+    "wof:lastmodified": 1673312189,
+    "wof:name": "Terminal 2 Baggage Claim - Departures Stairs Level 1",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3839048389432,
+    37.61689947491734,
+    -122.3839048389432,
+    37.61689947491734
+  ],
+  "geometry": {"coordinates":[-122.3839048389432,37.61689947491734],"type":"Point"}
+}

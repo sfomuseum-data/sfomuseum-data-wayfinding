@@ -1,0 +1,44 @@
+{
+  "id": 1797018155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.389419,37.614765,-122.389419,37.614765",
+    "geom:latitude": 37.614764988894784,
+    "geom:longitude": -122.38941865738258,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "ARR",
+    "mz:is_current": 1,
+    "sfo:level": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312190,
+    "wof:geomhash": "77bc515db3f77cf395547938f0a796b1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018155
+      }
+    ],
+    "wof:id": 1797018155,
+    "wof:lastmodified": 1673312190,
+    "wof:name": "International Terminal Arrivals - Main Hall Stairs A Side Level 2",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38941865738258,
+    37.614764988894784,
+    -122.38941865738258,
+    37.614764988894784
+  ],
+  "geometry": {"coordinates":[-122.38941865738258,37.614764988894784],"type":"Point"}
+}

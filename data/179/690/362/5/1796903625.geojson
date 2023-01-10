@@ -11,6 +11,7 @@
     "millsfield:wayfinding_detail": "GHH",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
+    "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -57,7 +58,7 @@
       }
     ],
     "wof:id": 1796903625,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673312194,
     "wof:name": "AirTrain Hotel Grand Hyatt Escalator",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",

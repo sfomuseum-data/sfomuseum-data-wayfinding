@@ -11,6 +11,7 @@
     "millsfield:wayfinding_detail": "T3",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
+    "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1796935381,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673312194,
     "wof:name": "Air Train Terminal 3 Bridge",
     "wof:parent_id": 1763588269,
     "wof:placetype": "venue",

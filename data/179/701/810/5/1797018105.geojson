@@ -1,0 +1,44 @@
+{
+  "id": 1797018105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.389491,37.612447,-122.389491,37.612447",
+    "geom:latitude": 37.61244668690732,
+    "geom:longitude": -122.38949063623448,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "A",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312174,
+    "wof:geomhash": "adc3fbfbde02fd4b70a821969eae8a3d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018105
+      }
+    ],
+    "wof:id": 1797018105,
+    "wof:lastmodified": 1673312174,
+    "wof:name": "Gate A6 - A8 Stairs Level 3",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38949063623448,
+    37.61244668690732,
+    -122.38949063623448,
+    37.61244668690732
+  ],
+  "geometry": {"coordinates":[-122.38949063623448,37.61244668690732],"type":"Point"}
+}

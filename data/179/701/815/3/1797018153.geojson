@@ -1,0 +1,44 @@
+{
+  "id": 1797018153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383730,37.617033,-122.383730,37.617033",
+    "geom:latitude": 37.61703318246611,
+    "geom:longitude": -122.38373043380233,
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "ARR",
+    "mz:is_current": 1,
+    "sfo:level": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312190,
+    "wof:geomhash": "1af6aedc20e1955c5c80da461063c863",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018153
+      }
+    ],
+    "wof:id": 1797018153,
+    "wof:lastmodified": 1673312190,
+    "wof:name": "Terminal 2 Baggage Claim",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38373043380233,
+    37.61703318246611,
+    -122.38373043380233,
+    37.61703318246611
+  ],
+  "geometry": {"coordinates":[-122.38373043380233,37.61703318246611],"type":"Point"}
+}

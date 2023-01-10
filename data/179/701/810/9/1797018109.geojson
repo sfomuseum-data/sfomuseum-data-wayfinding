@@ -1,0 +1,44 @@
+{
+  "id": 1797018109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383726,37.616721,-122.383726,37.616721",
+    "geom:latitude": 37.61672108276204,
+    "geom:longitude": -122.38372622558082,
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "PRE",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312176,
+    "wof:geomhash": "6e3bbdb245dce56ddbf40a611eb98efd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018109
+      }
+    ],
+    "wof:id": 1797018109,
+    "wof:lastmodified": 1673312176,
+    "wof:name": "AirTrain Terminal 2 Stairs East Level 2",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38372622558082,
+    37.61672108276204,
+    -122.38372622558082,
+    37.61672108276204
+  ],
+  "geometry": {"coordinates":[-122.38372622558082,37.61672108276204],"type":"Point"}
+}

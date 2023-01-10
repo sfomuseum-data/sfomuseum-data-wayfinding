@@ -1,0 +1,44 @@
+{
+  "id": 1797018077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.392604,37.618461,-122.392604,37.618461",
+    "geom:latitude": 37.61846054221382,
+    "geom:longitude": -122.39260356632808,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 0,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312163,
+    "wof:geomhash": "7e53413806746e002d70d971cc334ec5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018077
+      }
+    ],
+    "wof:id": 1797018077,
+    "wof:lastmodified": 1673312163,
+    "wof:name": "Gates G9 - G10 Stairs Level 3",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39260356632808,
+    37.61846054221382,
+    -122.39260356632808,
+    37.61846054221382
+  ],
+  "geometry": {"coordinates":[-122.39260356632808,37.61846054221382],"type":"Point"}
+}

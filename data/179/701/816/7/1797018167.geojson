@@ -1,0 +1,44 @@
+{
+  "id": 1797018167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.390023,37.616051,-122.390023,37.616051",
+    "geom:latitude": 37.61605085978998,
+    "geom:longitude": -122.39002290956851,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "ARR",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312193,
+    "wof:geomhash": "cdc804c16dc76ea7ab76274dbfcb5f6b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018167
+      }
+    ],
+    "wof:id": 1797018167,
+    "wof:lastmodified": 1673312193,
+    "wof:name": "International Terminal Arrivals G Side",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39002290956851,
+    37.61605085978998,
+    -122.39002290956851,
+    37.61605085978998
+  ],
+  "geometry": {"coordinates":[-122.39002290956851,37.61605085978998],"type":"Point"}
+}

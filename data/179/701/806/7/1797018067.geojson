@@ -1,0 +1,44 @@
+{
+  "id": 1797018067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.391412,37.617742,-122.391412,37.617742",
+    "geom:latitude": 37.61774223745616,
+    "geom:longitude": -122.39141209410313,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 0,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312160,
+    "wof:geomhash": "04b903be3d5f90ae635e709d3e3a7be4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018067
+      }
+    ],
+    "wof:id": 1797018067,
+    "wof:lastmodified": 1673312160,
+    "wof:name": "Gate G3 - G4 Stairs Level 2",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39141209410313,
+    37.61774223745616,
+    -122.39141209410313,
+    37.61774223745616
+  ],
+  "geometry": {"coordinates":[-122.39141209410313,37.61774223745616],"type":"Point"}
+}

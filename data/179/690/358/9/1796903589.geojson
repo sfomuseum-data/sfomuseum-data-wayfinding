@@ -11,6 +11,7 @@
     "millsfield:wayfinding_detail": "ITB",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
+    "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1796903589,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673312194,
     "wof:name": "AirTrain International Terminal G Red Line",
     "wof:parent_id": 1729791965,
     "wof:placetype": "venue",

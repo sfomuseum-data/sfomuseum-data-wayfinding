@@ -1,0 +1,44 @@
+{
+  "id": 1797018163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386229,37.614619,-122.386229,37.614619",
+    "geom:latitude": 37.61461891135517,
+    "geom:longitude": -122.38622919173457,
+    "millsfield:wayfinding_detail": "HMT1",
+    "millsfield:wayfinding_kind": "ARR",
+    "mz:is_current": 1,
+    "sfo:level": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312193,
+    "wof:geomhash": "164e73ffa9a09e6ea73136b699fcb0ba",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018163
+      }
+    ],
+    "wof:id": 1797018163,
+    "wof:lastmodified": 1673312193,
+    "wof:name": "Harvey Milk Terminal 1 Baggage Claim",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38622919173457,
+    37.61461891135517,
+    -122.38622919173457,
+    37.61461891135517
+  ],
+  "geometry": {"coordinates":[-122.38622919173457,37.61461891135517],"type":"Point"}
+}

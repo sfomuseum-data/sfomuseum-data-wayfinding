@@ -11,6 +11,7 @@
     "millsfield:wayfinding_detail": "LT1",
     "millsfield:wayfinding_kind": "PRK",
     "mz:is_current": 1,
+    "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1796903639,
-    "wof:lastmodified": 1672870000,
+    "wof:lastmodified": 1673312194,
     "wof:name": "Long Term Parking 1",
     "wof:parent_id": 1477855983,
     "wof:placetype": "venue",

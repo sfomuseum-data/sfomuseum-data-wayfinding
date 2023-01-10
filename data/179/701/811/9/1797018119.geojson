@@ -1,0 +1,44 @@
+{
+  "id": 1797018119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383648,37.617297,-122.383648,37.617297",
+    "geom:latitude": 37.6172973604456,
+    "geom:longitude": -122.38364775904998,
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "ARR",
+    "mz:is_current": 1,
+    "sfo:level": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312179,
+    "wof:geomhash": "610fa3cff52ccb301efe850dcf2bacfa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018119
+      }
+    ],
+    "wof:id": 1797018119,
+    "wof:lastmodified": 1673312179,
+    "wof:name": "Terminal 2 Baggage Claim - Boarding Area D Meet and Greet Stairs Level 1",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38364775904998,
+    37.6172973604456,
+    -122.38364775904998,
+    37.6172973604456
+  ],
+  "geometry": {"coordinates":[-122.38364775904998,37.6172973604456],"type":"Point"}
+}

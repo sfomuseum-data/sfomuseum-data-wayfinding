@@ -1,0 +1,44 @@
+{
+  "id": 1797018087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.390014,37.611866,-122.390014,37.611866",
+    "geom:latitude": 37.61186592837856,
+    "geom:longitude": -122.39001350295818,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "A",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312168,
+    "wof:geomhash": "45092b815583ccd59cb23dd29184d987",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018087
+      }
+    ],
+    "wof:id": 1797018087,
+    "wof:lastmodified": 1673312168,
+    "wof:name": "Gate A11 - A15 Stairs Level 2",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39001350295818,
+    37.61186592837856,
+    -122.39001350295818,
+    37.61186592837856
+  ],
+  "geometry": {"coordinates":[-122.39001350295818,37.61186592837856],"type":"Point"}
+}

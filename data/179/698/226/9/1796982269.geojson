@@ -11,6 +11,7 @@
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
+    "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1796982269,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673312194,
     "wof:name": "AirTrain Terminal 2 Station",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",

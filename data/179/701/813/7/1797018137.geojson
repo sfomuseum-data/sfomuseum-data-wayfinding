@@ -1,0 +1,44 @@
+{
+  "id": 1797018137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386983,37.618329,-122.386983,37.618329",
+    "geom:latitude": 37.618328579149335,
+    "geom:longitude": -122.38698349153992,
+    "millsfield:wayfinding_detail": "T3",
+    "millsfield:wayfinding_kind": "F",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312186,
+    "wof:geomhash": "77c9c5710f8e8272c4ec6ca2ab2845ad",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018137
+      }
+    ],
+    "wof:id": 1797018137,
+    "wof:lastmodified": 1673312186,
+    "wof:name": "Terminal 2 Arrivals / Baggage Claim Stairs Level 2",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38698349153992,
+    37.618328579149335,
+    -122.38698349153992,
+    37.618328579149335
+  ],
+  "geometry": {"coordinates":[-122.38698349153992,37.618328579149335],"type":"Point"}
+}

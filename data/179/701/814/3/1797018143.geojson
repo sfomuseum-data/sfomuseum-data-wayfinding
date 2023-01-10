@@ -1,0 +1,44 @@
+{
+  "id": 1797018143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387963,37.617125,-122.387963,37.617125",
+    "geom:latitude": 37.6171254649905,
+    "geom:longitude": -122.38796330766155,
+    "millsfield:wayfinding_detail": "T3",
+    "millsfield:wayfinding_kind": "ARR",
+    "mz:is_current": 1,
+    "sfo:level": -17,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673312187,
+    "wof:geomhash": "98e155c657b14f654b435cc55fe4642a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1797018143
+      }
+    ],
+    "wof:id": 1797018143,
+    "wof:lastmodified": 1673312187,
+    "wof:name": "Terminal 3 Baggage Claim - Departures Staits F Side Level 1",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38796330766155,
+    37.6171254649905,
+    -122.38796330766155,
+    37.6171254649905
+  ],
+  "geometry": {"coordinates":[-122.38796330766155,37.6171254649905],"type":"Point"}
+}
