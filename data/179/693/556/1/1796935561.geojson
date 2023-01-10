@@ -16,8 +16,8 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796935567,
       1796935565,
+      1796935567,
       1796935569,
       1796982269
     ],
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935561,
-    "wof:lastmodified": 1673317347,
+    "wof:lastmodified": 1673383272,
     "wof:name": "AirTrain Terminal 2 Bridge",
     "wof:parent_id": 1763588123,
     "wof:placetype": "venue",

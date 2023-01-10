@@ -16,9 +16,11 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1797018117,
+      1796889597,
+      1797018115,
       1796903627,
-      1796889599,
-      1796889597
+      1796889599
     ],
     "wof:belongsto": [
       1763588121,
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1796935571,
-    "wof:lastmodified": 1673317352,
+    "wof:lastmodified": 1673383538,
     "wof:name": "Terminal 2 Boarding Area D Meet and Greet",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
