@@ -14,7 +14,11 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1797018105,
+      1796935475,
+      1796935463
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1673312169,
@@ -25,7 +29,7 @@
       }
     ],
     "wof:id": 1797018091,
-    "wof:lastmodified": 1673312169,
+    "wof:lastmodified": 1673313880,
     "wof:name": "Gate A6 - A8 Stairs Level 2",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

@@ -16,7 +16,9 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889533
+      1796889533,
+      1796935475,
+      1797018091
     ],
     "wof:belongsto": [
       1763588121,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1796935463,
-    "wof:lastmodified": 1673051983,
+    "wof:lastmodified": 1673313903,
     "wof:name": "Gate A6 - A7 Waiting Area",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

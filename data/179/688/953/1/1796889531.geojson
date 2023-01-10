@@ -18,10 +18,10 @@
     "wof:adjencies": [
       1796889633,
       1796935719,
+      1797018101,
+      1797018097,
       1796889533,
-      1796935459,
-      1796935469,
-      1796935461
+      1797018099
     ],
     "wof:belongsto": [
       1763588121,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1796889531,
-    "wof:lastmodified": 1672869999,
+    "wof:lastmodified": 1673314863,
     "wof:name": "Boarding Area A Start Pier",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
