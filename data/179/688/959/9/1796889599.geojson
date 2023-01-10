@@ -16,13 +16,15 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1797018123,
+      1796935381,
+      1797018113,
+      1796889597,
+      1796889601,
       1796889611,
       1796935571,
       1797018115,
-      1797018113,
-      1796889597,
-      1797018109,
-      1796889601
+      1797018109
     ],
     "wof:belongsto": [
       1763588121,
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1796889599,
-    "wof:lastmodified": 1673393349,
+    "wof:lastmodified": 1673393696,
     "wof:name": "Terminal 2 Main Hall",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

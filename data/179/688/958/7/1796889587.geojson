@@ -16,6 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1797018123,
       1796889615,
       1796889613,
       1796889589,
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1796889587,
-    "wof:lastmodified": 1673317204,
+    "wof:lastmodified": 1673393725,
     "wof:name": "Terminal 3 Main Hall",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",

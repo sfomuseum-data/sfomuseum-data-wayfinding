@@ -15,7 +15,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1797018135,
+      1796889507
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -59,7 +62,7 @@
       }
     ],
     "wof:id": 1797018137,
-    "wof:lastmodified": 1673317114,
+    "wof:lastmodified": 1673393791,
     "wof:name": "Terminal 2 Arrivals / Baggage Claim Stairs Level 2",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",
