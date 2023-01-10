@@ -11,7 +11,7 @@
     "millsfield:wayfinding_detail": "T3",
     "millsfield:wayfinding_kind": "ARR",
     "mz:is_current": 1,
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -19,7 +19,6 @@
     "wof:belongsto": [
       1763588121,
       102527513,
-      1763588365,
       102191575,
       85633793,
       102087579,
@@ -27,7 +26,8 @@
       554784711,
       85688637,
       1763588269,
-      102085387
+      102085387,
+      1763588359
     ],
     "wof:country": "US",
     "wof:created": 1673312184,
@@ -36,7 +36,7 @@
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588365,
+        "concourse_id": 1763588359,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -49,7 +49,7 @@
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588365,
+        "concourse_id": 1763588359,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
@@ -59,9 +59,9 @@
       }
     ],
     "wof:id": 1797018135,
-    "wof:lastmodified": 1673316758,
+    "wof:lastmodified": 1673317118,
     "wof:name": "Terminal 3 Arrivals / Baggage Claim Stairs Level 1",
-    "wof:parent_id": 1763588365,
+    "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",
     "wof:repo": "sfomuseum-data-wayfinding",

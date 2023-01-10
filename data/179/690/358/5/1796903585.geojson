@@ -26,29 +26,42 @@
       102087579,
       85922583,
       85688637,
-      1360665043
+      1763588121,
+      554784711,
+      1763588269,
+      102085387
     ],
     "wof:country": "US",
     "wof:created": 1671820674,
     "wof:geomhash": "8eaab8f60c8d2682c518e572d13ed085",
     "wof:hierarchy": [
       {
-        "building_id": -1,
+        "building_id": 1763588121,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
-        "neighbourhood_id": -1,
+        "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1796903585,
-        "wing_id": 1360665043
+        "wing_id": 1763588269
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1796903585,
+        "wing_id": 1763588269
       }
     ],
     "wof:id": 1796903585,
-    "wof:lastmodified": 1673316584,
+    "wof:lastmodified": 1673317033,
     "wof:name": "AirTrain Terminal 3 Red Line",
-    "wof:parent_id": 1360665043,
+    "wof:parent_id": 1763588269,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",
     "wof:repo": "sfomuseum-data-wayfinding",
