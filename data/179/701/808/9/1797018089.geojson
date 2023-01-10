@@ -14,7 +14,11 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796935467,
+      1797018103,
+      1796935471
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1673312168,
@@ -25,7 +29,7 @@
       }
     ],
     "wof:id": 1797018089,
-    "wof:lastmodified": 1673312168,
+    "wof:lastmodified": 1673313418,
     "wof:name": "Gate A9 - A10 Stairs Level 2",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
