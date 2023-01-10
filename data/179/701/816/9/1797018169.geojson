@@ -14,7 +14,10 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1797018155,
+      1797018167
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1673312194,
@@ -25,7 +28,7 @@
       }
     ],
     "wof:id": 1797018169,
-    "wof:lastmodified": 1673312194,
+    "wof:lastmodified": 1673315298,
     "wof:name": "Internation Terminal Arrivals A Side",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

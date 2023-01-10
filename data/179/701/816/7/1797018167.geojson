@@ -14,7 +14,10 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1797018157,
+      1797018169
+    ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1673312193,
@@ -25,7 +28,7 @@
       }
     ],
     "wof:id": 1797018167,
-    "wof:lastmodified": 1673312193,
+    "wof:lastmodified": 1673315360,
     "wof:name": "International Terminal Arrivals G Side",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

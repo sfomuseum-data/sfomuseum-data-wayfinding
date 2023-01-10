@@ -16,6 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1797018155,
       1796889637
     ],
     "wof:belongsto": [
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1796903603,
-    "wof:lastmodified": 1673312194,
+    "wof:lastmodified": 1673315203,
     "wof:name": "International Terminal Arrivals - Main Hall Stairs A Side Level 3",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
