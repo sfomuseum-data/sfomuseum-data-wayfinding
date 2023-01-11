@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389331,37.612603,-122.389331,37.612603",
-    "geom:latitude": 37.61260259640411,
-    "geom:longitude": -122.3893312465242,
+    "geom:bbox": "-122.389309,37.612622,-122.389309,37.612622",
+    "geom:latitude": 37.61262185841775,
+    "geom:longitude": -122.38930861671628,
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257487,
-    "wof:geomhash": "6d403eb5eecb011a10de39e5733b6c6a",
+    "wof:geomhash": "fa319e335a3d93e2ec6c8c15ba9b5968",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796935463,
-    "wof:lastmodified": 1673317312,
+    "wof:lastmodified": 1673402720,
     "wof:name": "Gate A6 - A7 Waiting Area",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -73,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3893312465242,
-    37.61260259640411,
-    -122.3893312465242,
-    37.61260259640411
+    -122.38930861671628,
+    37.61262185841775,
+    -122.38930861671628,
+    37.61262185841775
   ],
-  "geometry": {"coordinates":[-122.3893312465242,37.61260259640411],"type":"Point"}
+  "geometry": {"coordinates":[-122.38930861671628,37.61262185841775],"type":"Point"}
 }

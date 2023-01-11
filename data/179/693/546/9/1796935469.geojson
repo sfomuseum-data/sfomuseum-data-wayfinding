@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.388950,37.613719,-122.388950,37.613719",
-    "geom:latitude": 37.61371898283914,
-    "geom:longitude": -122.38895012562426,
+    "geom:bbox": "-122.388966,37.613772,-122.388966,37.613772",
+    "geom:latitude": 37.613772350010485,
+    "geom:longitude": -122.38896574805611,
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257488,
-    "wof:geomhash": "56ddc909ea51260b0a0b7552468cf75b",
+    "wof:geomhash": "8d9e1f2bfcd3a5740e1b6fe40a0ffb07",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796935469,
-    "wof:lastmodified": 1673317316,
+    "wof:lastmodified": 1673402720,
     "wof:name": "Gate A3 - A4 Waiting Area",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -72,10 +72,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38895012562426,
-    37.61371898283914,
-    -122.38895012562426,
-    37.61371898283914
+    -122.38896574805611,
+    37.613772350010485,
+    -122.38896574805611,
+    37.613772350010485
   ],
-  "geometry": {"coordinates":[-122.38895012562426,37.61371898283914],"type":"Point"}
+  "geometry": {"coordinates":[-122.38896574805611,37.613772350010485],"type":"Point"}
 }
