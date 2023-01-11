@@ -17,7 +17,6 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796935445,
-      1796889545,
       1797018067
     ],
     "wof:belongsto": [
@@ -63,7 +62,7 @@
       }
     ],
     "wof:id": 1796935443,
-    "wof:lastmodified": 1673402464,
+    "wof:lastmodified": 1673469234,
     "wof:name": "Gate G3 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

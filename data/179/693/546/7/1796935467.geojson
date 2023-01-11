@@ -17,8 +17,7 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796935471,
-      1797018089,
-      1796889533
+      1797018089
     ],
     "wof:belongsto": [
       1763588121,
@@ -63,7 +62,7 @@
       }
     ],
     "wof:id": 1796935467,
-    "wof:lastmodified": 1673402720,
+    "wof:lastmodified": 1673469664,
     "wof:name": "Gate A9 Waiting Area",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

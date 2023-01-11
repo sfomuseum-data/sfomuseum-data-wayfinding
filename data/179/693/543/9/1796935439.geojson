@@ -17,7 +17,6 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1797018069,
-      1796889541,
       1796935441
     ],
     "wof:belongsto": [
@@ -63,7 +62,7 @@
       }
     ],
     "wof:id": 1796935439,
-    "wof:lastmodified": 1673402424,
+    "wof:lastmodified": 1673469191,
     "wof:name": "Gate G5 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
