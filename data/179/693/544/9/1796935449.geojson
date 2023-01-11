@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.392452,37.618041,-122.392452,37.618041",
-    "geom:latitude": 37.61804113652047,
-    "geom:longitude": -122.39245191076648,
+    "geom:bbox": "-122.392600,37.618219,-122.392600,37.618219",
+    "geom:latitude": 37.61821933267102,
+    "geom:longitude": -122.39260046513095,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257483,
-    "wof:geomhash": "af9e59f1c793017ae4922fdeeba4750b",
+    "wof:geomhash": "0c1a0f00837f7af36fb8adaf7c4049e9",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935449,
-    "wof:lastmodified": 1673317308,
+    "wof:lastmodified": 1673401294,
     "wof:name": "Gate G7 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39245191076648,
-    37.61804113652047,
-    -122.39245191076648,
-    37.61804113652047
+    -122.39260046513095,
+    37.61821933267102,
+    -122.39260046513095,
+    37.61821933267102
   ],
-  "geometry": {"coordinates":[-122.39245191076648,37.61804113652047],"type":"Point"}
+  "geometry": {"coordinates":[-122.39260046513095,37.61821933267102],"type":"Point"}
 }

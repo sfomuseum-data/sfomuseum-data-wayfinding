@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.393247,37.618666,-122.393247,37.618666",
-    "geom:latitude": 37.61866560865095,
-    "geom:longitude": -122.39324729085179,
+    "geom:bbox": "-122.393367,37.618673,-122.393367,37.618673",
+    "geom:latitude": 37.61867286754234,
+    "geom:longitude": -122.39336686116329,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820686,
-    "wof:geomhash": "1763ce64628f2dce321fc970cd8adc8c",
+    "wof:geomhash": "39d5399e313f88fec0acbc7d24980332",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796903619,
-    "wof:lastmodified": 1673317048,
+    "wof:lastmodified": 1673401294,
     "wof:name": "Boarding Area G Observation Deck",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39324729085179,
-    37.61866560865095,
-    -122.39324729085179,
-    37.61866560865095
+    -122.39336686116329,
+    37.61867286754234,
+    -122.39336686116329,
+    37.61867286754234
   ],
-  "geometry": {"coordinates":[-122.39324729085179,37.61866560865095],"type":"Point"}
+  "geometry": {"coordinates":[-122.39336686116329,37.61867286754234],"type":"Point"}
 }
