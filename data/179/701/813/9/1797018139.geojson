@@ -19,7 +19,8 @@
       1797018131,
       1797018133,
       1797018135,
-      1797018141
+      1797018141,
+      1797018127
     ],
     "wof:belongsto": [
       1763588121,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1797018139,
-    "wof:lastmodified": 1673394003,
+    "wof:lastmodified": 1673396695,
     "wof:name": "Terminal 3 Baggage Claim E Side",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",

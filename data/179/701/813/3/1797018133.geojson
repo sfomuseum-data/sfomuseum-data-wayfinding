@@ -16,6 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1797018131,
       1796935373,
       1796889589,
       1796889593,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1797018133,
-    "wof:lastmodified": 1673394175,
+    "wof:lastmodified": 1673397125,
     "wof:name": "Terminal 3 Baggage Claim - Departures E Side Level 2",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
