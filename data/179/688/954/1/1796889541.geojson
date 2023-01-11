@@ -19,7 +19,11 @@
       1797018081,
       1797018083,
       1796889529,
-      1796889545
+      1796889545,
+      1797041275,
+      1797041273,
+      1797041271,
+      1797041279
     ],
     "wof:belongsto": [
       1763588121,
@@ -64,7 +68,7 @@
       }
     ],
     "wof:id": 1796889541,
-    "wof:lastmodified": 1673403238,
+    "wof:lastmodified": 1673471629,
     "wof:name": "Boarding Area G Mid Pier",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

@@ -11,7 +11,7 @@
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
-    "sfo:level": 2,
+    "sfo:level": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -31,7 +31,7 @@
       85688637,
       1763588123,
       102085387,
-      1763588165
+      1763588171
     ],
     "wof:country": "US",
     "wof:created": 1672257511,
@@ -40,7 +40,7 @@
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588165,
+        "concourse_id": 1763588171,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -53,7 +53,7 @@
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588165,
+        "concourse_id": 1763588171,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
@@ -63,9 +63,9 @@
       }
     ],
     "wof:id": 1796935567,
-    "wof:lastmodified": 1673384475,
+    "wof:lastmodified": 1673471050,
     "wof:name": "AirTrain Terminal 2 Stairs West Level 3",
-    "wof:parent_id": 1763588165,
+    "wof:parent_id": 1763588171,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",
     "wof:repo": "sfomuseum-data-wayfinding",

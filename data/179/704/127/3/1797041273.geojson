@@ -1,0 +1,81 @@
+{
+  "id": 1797041273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.391372,37.618003,-122.391372,37.618003",
+    "geom:latitude": 37.618003203602335,
+    "geom:longitude": -122.39137178781395,
+    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_kind": "ITB",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1797018081,
+      1796889541
+    ],
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588433,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1763588369,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1673470772,
+    "wof:geomhash": "ba1859ab1e8caed0b478388af1c8a266",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588433,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1797041273,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588433,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1797041273,
+        "wing_id": 1763588369
+      }
+    ],
+    "wof:id": 1797041273,
+    "wof:lastmodified": 1673471601,
+    "wof:name": "Gate G3 - G4 Waiting Area Level 3",
+    "wof:parent_id": 1763588433,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39137178781395,
+    37.618003203602335,
+    -122.39137178781395,
+    37.618003203602335
+  ],
+  "geometry": {"coordinates":[-122.39137178781395,37.618003203602335],"type":"Point"}
+}

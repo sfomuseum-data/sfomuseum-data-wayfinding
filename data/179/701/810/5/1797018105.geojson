@@ -16,6 +16,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1797041267,
       1796889533,
       1797018091
     ],
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1797018105,
-    "wof:lastmodified": 1673317099,
+    "wof:lastmodified": 1673471926,
     "wof:name": "Gate A6 - A8 Stairs Level 3",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

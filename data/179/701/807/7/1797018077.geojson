@@ -16,6 +16,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1797041275,
       1797018061,
       1796889529
     ],
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1797018077,
-    "wof:lastmodified": 1673402936,
+    "wof:lastmodified": 1673471514,
     "wof:name": "Gates G9 - G10 Stairs Level 3",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

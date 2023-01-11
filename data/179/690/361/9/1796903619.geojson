@@ -11,9 +11,9 @@
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
-    "sfo:level": 2,
+    "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
-    "sfomuseum:post_security": 1,
+    "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796889529
@@ -29,13 +29,15 @@
       554784711,
       85688637,
       1763588369,
-      102085387
+      102085387,
+      1763588435
     ],
     "wof:country": "US",
     "wof:created": 1671820686,
     "wof:geomhash": "39d5399e313f88fec0acbc7d24980332",
     "wof:hierarchy": [
       {
+        "arcade_id": 1763588435,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -49,6 +51,7 @@
         "wing_id": 1763588369
       },
       {
+        "arcade_id": 1763588435,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -61,9 +64,9 @@
       }
     ],
     "wof:id": 1796903619,
-    "wof:lastmodified": 1673401294,
+    "wof:lastmodified": 1673470892,
     "wof:name": "Boarding Area G Observation Deck",
-    "wof:parent_id": 1763588433,
+    "wof:parent_id": 1763588435,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",
     "wof:repo": "sfomuseum-data-wayfinding",

@@ -16,6 +16,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1797041279,
       1796889529,
       1797018063
     ],
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1797018079,
-    "wof:lastmodified": 1673402952,
+    "wof:lastmodified": 1673471562,
     "wof:name": "Gates G7 - G8 Stairs Level 3",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

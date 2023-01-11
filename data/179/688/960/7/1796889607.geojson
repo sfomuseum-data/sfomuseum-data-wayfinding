@@ -11,7 +11,7 @@
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "T1",
     "mz:is_current": 1,
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -29,7 +29,7 @@
       85688637,
       1763588175,
       102085387,
-      1763588263
+      1763588261
     ],
     "wof:country": "US",
     "wof:created": 1671674961,
@@ -38,7 +38,7 @@
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588263,
+        "concourse_id": 1763588261,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -51,7 +51,7 @@
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588263,
+        "concourse_id": 1763588261,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
@@ -61,9 +61,9 @@
       }
     ],
     "wof:id": 1796889607,
-    "wof:lastmodified": 1673317225,
+    "wof:lastmodified": 1673470937,
     "wof:name": "Terminal 1 Main Hall C Side",
-    "wof:parent_id": 1763588263,
+    "wof:parent_id": 1763588261,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",
     "wof:repo": "sfomuseum-data-wayfinding",
