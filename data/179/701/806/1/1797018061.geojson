@@ -15,7 +15,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1796935453,
+      1796935447
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -59,7 +62,7 @@
       }
     ],
     "wof:id": 1797018061,
-    "wof:lastmodified": 1673317054,
+    "wof:lastmodified": 1673402266,
     "wof:name": "Gate G9 - G10 Stairs Level 2",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

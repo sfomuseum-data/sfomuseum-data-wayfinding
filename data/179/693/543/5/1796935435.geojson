@@ -16,6 +16,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796935433,
+      1797018071,
       1796889545
     ],
     "wof:belongsto": [
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1796935435,
-    "wof:lastmodified": 1673402216,
+    "wof:lastmodified": 1673402556,
     "wof:name": "Gate G2 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

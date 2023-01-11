@@ -16,6 +16,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796935443,
+      1797018067,
       1796889541
     ],
     "wof:belongsto": [
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1796935445,
-    "wof:lastmodified": 1673402216,
+    "wof:lastmodified": 1673402464,
     "wof:name": "Gate G4 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

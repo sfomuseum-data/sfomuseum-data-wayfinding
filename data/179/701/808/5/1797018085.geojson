@@ -15,7 +15,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [],
+    "wof:adjencies": [
+      1797018071,
+      1796889545
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -59,7 +62,7 @@
       }
     ],
     "wof:id": 1797018085,
-    "wof:lastmodified": 1673317091,
+    "wof:lastmodified": 1673402545,
     "wof:name": "Gates G1 - G2 Stairs Level 3",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
