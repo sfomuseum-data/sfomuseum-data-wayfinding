@@ -29,5 +29,3 @@ current:
 
 update-geoms:
 	$(MERGE_FEATURECOLLECTION) -reader-uri repo://$(CWD) -writer-uri repo://$(CWD) -path geometry work/waypoints.geojson
-
-
