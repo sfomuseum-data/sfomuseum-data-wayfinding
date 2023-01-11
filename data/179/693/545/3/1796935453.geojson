@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.392863,37.618583,-122.392863,37.618583",
-    "geom:latitude": 37.618583274280255,
-    "geom:longitude": -122.39286327692096,
+    "geom:bbox": "-122.392907,37.618653,-122.392907,37.618653",
+    "geom:latitude": 37.61865337029227,
+    "geom:longitude": -122.39290738095785,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672257484,
-    "wof:geomhash": "39dea71538c6e41bd92e862677047393",
+    "wof:geomhash": "62cc4ca5b47fc07cd9934240f4abb793",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935453,
-    "wof:lastmodified": 1673401294,
+    "wof:lastmodified": 1673402216,
     "wof:name": "Gate G10 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -71,10 +71,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39286327692096,
-    37.618583274280255,
-    -122.39286327692096,
-    37.618583274280255
+    -122.39290738095785,
+    37.61865337029227,
+    -122.39290738095785,
+    37.61865337029227
   ],
-  "geometry": {"coordinates":[-122.39286327692096,37.618583274280255],"type":"Point"}
+  "geometry": {"coordinates":[-122.39290738095785,37.61865337029227],"type":"Point"}
 }
