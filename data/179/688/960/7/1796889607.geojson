@@ -16,7 +16,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889605
+      1796889605,
+      1796935535
     ],
     "wof:belongsto": [
       1763588121,
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1796889607,
-    "wof:lastmodified": 1673470937,
+    "wof:lastmodified": 1673477239,
     "wof:name": "Terminal 1 Main Hall C Side",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",
