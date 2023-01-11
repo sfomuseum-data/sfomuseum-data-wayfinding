@@ -17,7 +17,8 @@
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796935445,
-      1796935443
+      1796935443,
+      1797018083
     ],
     "wof:belongsto": [
       1763588121,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1797018067,
-    "wof:lastmodified": 1673402452,
+    "wof:lastmodified": 1673403002,
     "wof:name": "Gate G3 - G4 Stairs Level 2",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
