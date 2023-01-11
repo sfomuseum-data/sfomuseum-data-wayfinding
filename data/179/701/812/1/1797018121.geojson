@@ -16,6 +16,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796889505,
+      1796889525,
       1797018145
     ],
     "wof:belongsto": [
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1797018121,
-    "wof:lastmodified": 1673393955,
+    "wof:lastmodified": 1673398163,
     "wof:name": "Terminal 3 TSA Security Checkpoint F Side",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

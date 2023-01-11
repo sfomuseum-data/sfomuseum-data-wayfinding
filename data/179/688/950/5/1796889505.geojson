@@ -16,7 +16,6 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889615,
       1796889523,
       1796935425,
       1796935427,
@@ -67,7 +66,7 @@
       }
     ],
     "wof:id": 1796889505,
-    "wof:lastmodified": 1673317161,
+    "wof:lastmodified": 1673398308,
     "wof:name": "Terminal 3 Post-Security F Side",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",
