@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889569,
+      1797193829,
       1796889495
     ],
     "wof:belongsto": [
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796889485,
-    "wof:lastmodified": 1673470880,
+    "wof:lastmodified": 1675453585,
     "wof:name": "T1 - T2 Post-Security Connector (T2)",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

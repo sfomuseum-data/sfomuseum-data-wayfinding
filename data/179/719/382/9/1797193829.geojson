@@ -13,6 +13,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "unknown",
+    "wof:adjencies": [
+      1796889485,
+      1796889569
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -56,7 +60,7 @@
       }
     ],
     "wof:id": 1797193829,
-    "wof:lastmodified": 1675452598,
+    "wof:lastmodified": 1675453585,
     "wof:name": "T1 - T2 Post-Security Connector Elbow (T2)",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
