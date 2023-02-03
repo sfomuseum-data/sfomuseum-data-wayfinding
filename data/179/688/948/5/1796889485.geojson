@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.382973,37.616955,-122.382973,37.616955",
-    "geom:latitude": 37.616954736563834,
-    "geom:longitude": -122.38297317356717,
+    "geom:bbox": "-122.382928,37.616828,-122.382928,37.616828",
+    "geom:latitude": 37.616828,
+    "geom:longitude": -122.382928,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674917,
-    "wof:geomhash": "f4947f59d2216c45dcf6c8387a633529",
+    "wof:geomhash": "acc0e9bbeed7976adbfbd33bd4de67d8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796889485,
-    "wof:lastmodified": 1675453585,
+    "wof:lastmodified": 1675454139,
     "wof:name": "T1 - T2 Post-Security Connector (T2)",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -72,10 +72,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38297317356717,
-    37.616954736563834,
-    -122.38297317356717,
-    37.616954736563834
+    -122.382928,
+    37.616828,
+    -122.382928,
+    37.616828
   ],
-  "geometry": {"coordinates":[-122.38297317356717,37.616954736563834],"type":"Point"}
+  "geometry": {"coordinates":[-122.382928,37.616828],"type":"Point"}
 }
