@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383264,37.616237,-122.383264,37.616237",
-    "geom:latitude": 37.616236548922615,
-    "geom:longitude": -122.38326361709854,
+    "geom:bbox": "-122.383374,37.616186,-122.383374,37.616186",
+    "geom:latitude": 37.616186,
+    "geom:longitude": -122.383374,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
     "mz:is_current": 1,
@@ -16,8 +16,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1796889479,
-      1796889485
+      1797193829,
+      1796889479
     ],
     "wof:belongsto": [
       1763588121,
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674946,
-    "wof:geomhash": "04555c96bc1ce74f4c0fd8a879ed5911",
+    "wof:geomhash": "57a5919117867f028a6ce12d3e6fedab",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,8 +62,8 @@
       }
     ],
     "wof:id": 1796889569,
-    "wof:lastmodified": 1673470925,
-    "wof:name": "T1 - T2 Post-Security Connector",
+    "wof:lastmodified": 1675454083,
+    "wof:name": "T1 - T2 Post-Security Connector Elbow (T1)",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",
@@ -72,10 +72,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38326361709854,
-    37.616236548922615,
-    -122.38326361709854,
-    37.616236548922615
+    -122.383374,
+    37.616186,
+    -122.383374,
+    37.616186
   ],
-  "geometry": {"coordinates":[-122.38326361709854,37.616236548922615],"type":"Point"}
+  "geometry": {"coordinates":[-122.383374,37.616186],"type":"Point"}
 }
