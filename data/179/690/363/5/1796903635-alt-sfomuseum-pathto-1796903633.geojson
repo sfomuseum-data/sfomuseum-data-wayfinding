@@ -4,7 +4,7 @@
 		      "wof:id": 1796903635,
 		      "wof:placetype": "custom",
 		      "wof:repo": "sfomuseum-data-wayfinding",
-		      "src:alt_label": "path-to"
+		      "src:alt_label": "sfomuseum-pathto"
 		     },
 "geometry": {
     "type": "LineString",
