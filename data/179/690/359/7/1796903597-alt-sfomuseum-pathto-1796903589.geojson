@@ -1,0 +1,14 @@
+{
+"type": "Feature",
+"properties": {
+	      "wof:id": 1796903597,
+	      "wof:name": "AirTrain Gargage G / BART Red Line (path to) AirTrain International Terminal G Red Line",
+	      "wof:repo": "sfomuseum-data-wayfinding",
+	      "src:alt_label": "sfomuseum-pathto-1796903589",
+	      "wof:placetype": "custom"
+	      },
+	      "geometry": {
+	      "type": "LineString",
+	      "coordinates": [[-122.39239459952302,37.615915515675276], [-122.3894699473521,37.616597317499924] ]
+	      }
+	      }

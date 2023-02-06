@@ -1,0 +1,14 @@
+{
+	"type": "Feature",
+	"properties": {
+		      "wof:id": 1796903589,
+		      "wof:repo": "sfomuseum-data-wayfinding",
+		      "wof:placetype": "custom",
+		      "src:alt_label": "sfomuseum-pathto-1796903585",
+		      "wof:name": "AirTrain International Terminal G Red Line (path to AirTrain Terminal 3 Red Line)"
+      },
+     "geometry": {
+	     "type": "LineString",
+	     "coordinates": [ [-122.3894699473521,37.616597317499924], [-122.38657306086635,37.617479649273015] ]
+     }
+}
