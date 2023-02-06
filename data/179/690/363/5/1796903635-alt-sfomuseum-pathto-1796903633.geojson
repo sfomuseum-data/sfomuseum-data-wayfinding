@@ -4,7 +4,8 @@
 		      "wof:id": 1796903635,
 		      "wof:placetype": "custom",
 		      "wof:repo": "sfomuseum-data-wayfinding",
-		      "src:alt_label": "sfomuseum-pathto"
+		      "src:alt_label": "sfomuseum-pathto",
+		      "wof:name": "AirTrain Long Term Parking Blue Line (Inbound) (path to AirTrain Rental Car Center Blue Line (Inbound))"
 		     },
 "geometry": {
     "type": "LineString",

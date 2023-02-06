@@ -1,0 +1,15 @@
+{
+	"type": "Feature",
+	"properties": {
+		      "wof:id":1796889539,
+		      "wof:repo": "sfomuseum-data-wayfinding",
+		      "wof:name": "Air Train Terminal 3 Blue Line (path to Air Train International Terminal G Blue Line)",
+		      "wof:placetype": "custom",
+		      "src:alt_label": "sfomuseum-pathto-1796889583"
+		      },
+		      "geometry": {
+		      "type": "LineString",
+		      "coordinates": [ [-122.38657572374376,37.61752797434298], [-122.38947343048955,37.61663298643668]]
+		      }
+		      }
+	

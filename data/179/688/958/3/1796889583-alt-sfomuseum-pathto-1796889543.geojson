@@ -1,0 +1,16 @@
+{
+	"type": "Feature",
+	"properties": {
+		      "wof:id": 1796889583,
+		      "wof:placetype": "custom",
+		      "wof:name": "Air Train International Terminal G Blue Line (path to AirTrain Garage G / BART Blue Line)",
+		      "src:alt_label": "sfomuseum-pathto-1796889543",
+		      "wof:repo": "sfomuseum-data-wayfinding"
+		      },
+		      "geometry": {
+		      "type": "LineString",
+		      "coordinates": [ [-122.38947343048955,37.61663298643668], [-122.39237096100216,37.616013532392714]]
+		      }
+		      }
+		      
+		      

@@ -1,1 +1,3 @@
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-122.384589,37.61673],[-122.384782,37.617197],[-122.38592,37.617656],[-122.386607,37.61752]]},"properties":{"src:alt_label":"sfomuseum-pathto-1796889539","wof:id":1796889549,"wof:name":"test","wof:placetype":"custom","wof:repo":"sfomuseum-data-wayfinding"}}
+{"type":"Feature",
+	"geometry":{"type":"LineString","coordinates":[[-122.384589,37.61673],[-122.384782,37.617197],[-122.38592,37.617656],[-122.386607,37.61752]]},
+	"properties":{"src:alt_label":"sfomuseum-pathto-1796889539","wof:id":1796889549,"wof:name":"AirTrain Terminal 2 Blue Line (path to Air Train Terminal 3 Blue Line)","wof:placetype":"custom","wof:repo":"sfomuseum-data-wayfinding"}}
