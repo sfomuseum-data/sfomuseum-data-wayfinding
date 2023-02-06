@@ -1,0 +1,3 @@
+{"type":"Feature",
+	"geometry":{"type":"LineString","coordinates":[[-122.40124703882299,37.62819592064727], [-122.399574087247,37.621649094794826]]},
+	"properties":{"src:alt_label":"sfomuseum-pathto-1796889557","wof:id":1796903633,"wof:placetype":"custom","wof:repo":"sfomuseum-data-wayfinding"}}
