@@ -1,0 +1,14 @@
+{
+"type": "Feature",
+"properties": {
+	      "wof:id": 1796889551,
+	      "wof:placetype": "custom",
+	      "src:alt_label": "sfomuseum-pathto-1796889565",
+	      "wof:repo": "sfomuseum-data-wayfinding",
+	      "wof:name": "AirTrain Grand Hyatt Hotel Blue Line (path to AirTrain Garage A Blue Line)"
+	      },
+	      "geometry": {
+	      		  "type": "LineString",
+			  "coordinates": [ [-122.39341032398484,37.61345346209515], [-122.39184276014207,37.613841093371484]]
+			  }
+			  }

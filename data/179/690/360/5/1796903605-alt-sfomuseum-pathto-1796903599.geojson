@@ -1,0 +1,14 @@
+{
+	"type": "Feature",
+	"properties": {
+		      "wof:id": 1796903605,
+		      "wof:repo": "sfomuseum-data-wayfinding",
+		      "wof:placetype": "custom",
+		      "src:alt_label": "sfomuseum-pathto-1796903599",
+		      "wof:name": "AirTrain Garage A Red Line (path to AirTrain Grand Hyatt Hotel Red Line)"
+		     },
+		     "geometry": {
+		     "type": "LineString",
+		     "coordinates": [ [-122.39186628023575,37.61387859416066], [-122.39345046682836,37.613475991725736]]
+		     }
+		     }

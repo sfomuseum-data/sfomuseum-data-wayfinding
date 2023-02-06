@@ -15,6 +15,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "src:geom_alt": [
+    		    "sfomuseum-pathto-1796903605"
+    ]
     "wof:adjencies": [
       1796903605,
       1796982265

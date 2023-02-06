@@ -1,0 +1,15 @@
+{
+"type": "Feature",
+"properties": {
+	      "wof:id": 1796889565,
+	      "wof:placetype": "custom",
+	      "wof:name": "AirTrain Garage A Blue Line (path to AirTrain International Terminal A Blue Line)",
+	      "wof:repo": "sfomuseum-data-wayfinding",
+	      "src:alt_label": "sfomuseum-pathto-1796889585"
+	      },
+	      "geometry": {
+	      "type": "LineString",
+	      "coordinates": [ [-122.39184276014207,37.613841093371484], [-122.38870315401282,37.61460825969784]]
+	      }
+	      }
+	      
