@@ -1,15 +1,1 @@
-{
-"type": "Feature",
-"properties": {
-	      "wof:id": 1796903611,
-	      "wof:name": "AirTrain International Terminal A Red Line (path to AirTrain Garage A Red Line)",
-	      "wof:repo": "sfomuseum-data-wayfinding",
-	      "src:alt_label": "sfomuseum-pathto-1796903605",
-	      "wof:placetype": "custom"
-	      },
-	      "geometry": {
-	      		  "type": "LineString",
-			  "coordinates": [ [-122.38871487496922,37.614651405731145], [-122.39186628023575,37.61387859416066]]
-			  }
-			  }
-	      
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-122.3887789967537,37.61465196503613],[-122.3904168651994,37.61425370716931],[-122.39186628023575,37.61387859416066]]},"properties":{"src:alt_label":"sfomuseum-pathto-1796903605","wof:id":1796903611,"wof:name":"AirTrain International Terminal A Red Line (path to AirTrain Garage A Red Line)","wof:placetype":"custom","wof:repo":"sfomuseum-data-wayfinding"}}
