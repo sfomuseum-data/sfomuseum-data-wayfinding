@@ -5,7 +5,7 @@
     "wof:name": "test",
     "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-wayfinding",
-    "src:alt_label": "sfomuseum-pathto-1796889549",
+    "src:alt_label": "sfomuseum-pathto-1796889549"
    },
    "geometry": {
     "type": "LineString",
