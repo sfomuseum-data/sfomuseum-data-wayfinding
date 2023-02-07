@@ -8,7 +8,7 @@
     "geom:bbox": "-122.387799,37.614823,-122.387799,37.614823",
     "geom:latitude": 37.6148231789593,
     "geom:longitude": -122.38779872007551,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 2,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796942183,
-    "wof:lastmodified": 1673470868,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal - Terminal 1 Pre-Security Connector",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

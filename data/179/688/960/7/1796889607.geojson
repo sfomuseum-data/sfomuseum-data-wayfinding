@@ -8,7 +8,7 @@
     "geom:bbox": "-122.384238,37.615574,-122.384238,37.615574",
     "geom:latitude": 37.61557449812734,
     "geom:longitude": -122.38423784583756,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T1",
     "mz:is_current": 1,
     "sfo:level": 2,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796889607,
-    "wof:lastmodified": 1673477239,
+    "wof:lastmodified": 1675805245,
     "wof:name": "Terminal 1 Main Hall C Side",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

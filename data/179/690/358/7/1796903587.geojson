@@ -8,7 +8,7 @@
     "geom:bbox": "-122.389124,37.616731,-122.389124,37.616731",
     "geom:latitude": 37.616731021945235,
     "geom:longitude": -122.3891240066411,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 3,
@@ -57,7 +57,7 @@
       }
     ],
     "wof:id": 1796903587,
-    "wof:lastmodified": 1673470871,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Main Hall G Side 3rd - 2nd Stairs",
     "wof:parent_id": 1729791965,
     "wof:placetype": "venue",

@@ -8,7 +8,7 @@
     "geom:bbox": "-122.389266,37.616695,-122.389266,37.616695",
     "geom:latitude": 37.61669463945378,
     "geom:longitude": -122.38926589835775,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 3,
@@ -57,7 +57,7 @@
       }
     ],
     "wof:id": 1796903591,
-    "wof:lastmodified": 1673470875,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Main Hall G Side AirTrain Stairs",
     "wof:parent_id": 1729791965,
     "wof:placetype": "venue",

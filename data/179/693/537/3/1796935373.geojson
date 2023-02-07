@@ -8,7 +8,7 @@
     "geom:bbox": "-122.385130,37.617996,-122.385130,37.617996",
     "geom:latitude": 37.617995629598305,
     "geom:longitude": -122.38512957180923,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 1,
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1796935373,
-    "wof:lastmodified": 1673471000,
+    "wof:lastmodified": 1675805245,
     "wof:name": "Terminal 3 Boarding Area E Meet and Greet",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",

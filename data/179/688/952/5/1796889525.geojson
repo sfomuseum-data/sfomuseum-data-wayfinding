@@ -8,7 +8,7 @@
     "geom:bbox": "-122.387521,37.617710,-122.387521,37.617710",
     "geom:latitude": 37.617709907548004,
     "geom:longitude": -122.38752057693226,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "mz:is_current": 1,
     "sfo:level": 2,
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1796889525,
-    "wof:lastmodified": 1673470910,
+    "wof:lastmodified": 1675805245,
     "wof:name": "Terminal 3 Main Hall F Side",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

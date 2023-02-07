@@ -9,7 +9,7 @@
     "geom:latitude": 37.618123409045864,
     "geom:longitude": -122.39164773398932,
     "millsfield:wayfinding_detail": "G",
-    "millsfield:wayfinding_kind": "ITG",
+    "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796935441,
-    "wof:lastmodified": 1675796464,
+    "wof:lastmodified": 1675804530,
     "wof:name": "Gate G6 Waiting Area",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

@@ -8,6 +8,8 @@
     "geom:bbox": "-122.382917,37.616439,-122.382917,37.616439",
     "geom:latitude": 37.616439,
     "geom:longitude": -122.382917,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "SFO",
     "mz:is_current": "1",
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -60,7 +62,7 @@
       }
     ],
     "wof:id": 1797193829,
-    "wof:lastmodified": 1675453585,
+    "wof:lastmodified": 1675804530,
     "wof:name": "T1 - T2 Post-Security Connector Elbow (T2)",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

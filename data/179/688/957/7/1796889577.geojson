@@ -9,7 +9,7 @@
     "geom:latitude": 37.61776797845168,
     "geom:longitude": -122.38410326294378,
     "millsfield:wayfinding_detail": "",
-    "millsfield:wayfinding_kind": "",
+    "millsfield:wayfinding_kind": "SFO",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796889577,
-    "wof:lastmodified": 1673470927,
+    "wof:lastmodified": 1675804530,
     "wof:name": "T2 - T3 Post-Security Connector",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",

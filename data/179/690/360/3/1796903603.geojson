@@ -8,7 +8,7 @@
     "geom:bbox": "-122.389358,37.614621,-122.389358,37.614621",
     "geom:latitude": 37.61462119201631,
     "geom:longitude": -122.38935830680278,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 1,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796903603,
-    "wof:lastmodified": 1673470884,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Arrivals - Main Hall Stairs A Side Level 3",
     "wof:parent_id": 1745882445,
     "wof:placetype": "venue",

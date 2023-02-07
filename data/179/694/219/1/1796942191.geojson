@@ -8,7 +8,7 @@
     "geom:bbox": "-122.388519,37.616877,-122.388519,37.616877",
     "geom:latitude": 37.61687669403899,
     "geom:longitude": -122.3885189456314,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "SFO",
     "mz:is_current": 1,
     "sfo:level": 2,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796942191,
-    "wof:lastmodified": 1675796766,
+    "wof:lastmodified": 1675805245,
     "wof:name": "T3 - International Terminal Pre-Security Connector",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

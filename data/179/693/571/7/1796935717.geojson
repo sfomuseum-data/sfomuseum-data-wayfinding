@@ -8,7 +8,7 @@
     "geom:bbox": "-122.389656,37.614836,-122.389656,37.614836",
     "geom:latitude": 37.61483583196338,
     "geom:longitude": -122.38965618607168,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 1,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935717,
-    "wof:lastmodified": 1673471075,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Main Hall Departures Door 1",
     "wof:parent_id": 1763588477,
     "wof:placetype": "venue",

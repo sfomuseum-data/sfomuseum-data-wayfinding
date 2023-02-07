@@ -8,7 +8,7 @@
     "geom:bbox": "-122.389292,37.615581,-122.389292,37.615581",
     "geom:latitude": 37.61558148629526,
     "geom:longitude": -122.38929227258076,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 3,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935609,
-    "wof:lastmodified": 1673471064,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Main Hall",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

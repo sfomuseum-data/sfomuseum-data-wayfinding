@@ -8,7 +8,7 @@
     "geom:bbox": "-122.383917,37.617350,-122.383917,37.617350",
     "geom:latitude": 37.61735035020315,
     "geom:longitude": -122.38391709722474,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
     "sfo:level": 1,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796889597,
-    "wof:lastmodified": 1673470934,
+    "wof:lastmodified": 1675805245,
     "wof:name": "Terminal 2 Main Hall West",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

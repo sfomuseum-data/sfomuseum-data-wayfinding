@@ -8,7 +8,7 @@
     "geom:bbox": "-122.389256,37.614625,-122.389256,37.614625",
     "geom:latitude": 37.61462454968861,
     "geom:longitude": -122.38925645740954,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 3,
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1796889637,
-    "wof:lastmodified": 1673470946,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Main Hall A Side West",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

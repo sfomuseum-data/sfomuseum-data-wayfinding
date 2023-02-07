@@ -8,7 +8,7 @@
     "geom:bbox": "-122.384574,37.617644,-122.384574,37.617644",
     "geom:latitude": 37.61764427006395,
     "geom:longitude": -122.38457390391878,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "SFO",
     "mz:is_current": 1,
     "sfo:level": 2,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796942189,
-    "wof:lastmodified": 1675796766,
+    "wof:lastmodified": 1675805245,
     "wof:name": "T2 - T3 Pre-Security Connector",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

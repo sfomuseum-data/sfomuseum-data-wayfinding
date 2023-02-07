@@ -8,7 +8,7 @@
     "geom:bbox": "-122.390419,37.616478,-122.390419,37.616478",
     "geom:latitude": 37.616478434448695,
     "geom:longitude": -122.39041923914803,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 1,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1796935621,
-    "wof:lastmodified": 1673471072,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Main Hall BART Entrance",
     "wof:parent_id": 1763588477,
     "wof:placetype": "venue",

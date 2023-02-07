@@ -8,7 +8,7 @@
     "geom:bbox": "-122.389057,37.615637,-122.389057,37.615637",
     "geom:latitude": 37.61563744750033,
     "geom:longitude": -122.38905723551947,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 3,
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796935611,
-    "wof:lastmodified": 1673471065,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Main Hall A - G Side Connector East",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

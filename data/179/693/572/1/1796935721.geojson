@@ -8,7 +8,7 @@
     "geom:bbox": "-122.389348,37.616789,-122.389348,37.616789",
     "geom:latitude": 37.61678923393154,
     "geom:longitude": -122.38934775896348,
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 3,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935721,
-    "wof:lastmodified": 1673471075,
+    "wof:lastmodified": 1675805245,
     "wof:name": "International Terminal Main Hall G Side Meet and Greet",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
