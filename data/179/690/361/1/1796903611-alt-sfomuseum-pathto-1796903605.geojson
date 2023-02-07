@@ -1,1 +1,26 @@
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-122.38877238550087,37.61465481561797],[-122.3904168651994,37.61425370716931],[-122.39186628023575,37.61387859416066]]},"properties":{"src:alt_label":"sfomuseum-pathto-1796903605","wof:id":1796903611,"wof:name":"AirTrain International Terminal A Red Line (path to AirTrain Garage A Red Line)","wof:placetype":"custom","wof:repo":"sfomuseum-data-wayfinding"}}
+{
+  "id": 1796903611,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.391866,37.613879,-122.388772,37.614655",
+    "geom:latitude": 37.61427210062948,
+    "geom:longitude": -122.39032068905763,
+    "src:alt_label": "sfomuseum-pathto-1796903605",
+    "src:geom": "unknown",
+    "wof:created": 1675735105,
+    "wof:geomhash": "927ef4db6b00f7f7dde66bb8728a5c25",
+    "wof:id": 1796903611,
+    "wof:lastmodified": 1675735105,
+    "wof:name": "AirTrain International Terminal A Red Line (path to AirTrain Garage A Red Line)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.39186628023575,
+    37.61387859416066,
+    -122.38877238550087,
+    37.61465481561797
+  ],
+  "geometry": {"coordinates":[[-122.38877238550087,37.61465481561797],[-122.3904168651994,37.61425370716931],[-122.39186628023575,37.61387859416066]],"type":"LineString"}
+}

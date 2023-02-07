@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384573,37.616754,-122.384573,37.616754",
-    "geom:latitude": 37.616754066487616,
-    "geom:longitude": -122.38457325338547,
+    "geom:bbox": "-122.384522,37.616797,-122.384522,37.616797",
+    "geom:latitude": 37.616796550535916,
+    "geom:longitude": -122.3845219551329,
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796889539"
+      "sfomuseum-pathto-1796889539"
     ],
     "wof:adjencies": [
       1796889539,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674939,
-    "wof:geomhash": "5ad9216dc20b8ecfdb207c91bd905e9a",
+    "wof:geomhash": "a892d2a9382b1dddc76a035a36a97fd1",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1796889549,
-    "wof:lastmodified": 1673470918,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Terminal 2 Blue Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",
@@ -59,10 +59,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38457325338547,
-    37.616754066487616,
-    -122.38457325338547,
-    37.616754066487616
+    -122.3845219551329,
+    37.616796550535916,
+    -122.3845219551329,
+    37.616796550535916
   ],
   "geometry": {"coordinates":[-122.3845219551329,37.616796550535916],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389470,37.616597,-122.389470,37.616597",
-    "geom:latitude": 37.616597317499924,
-    "geom:longitude": -122.3894699473521,
+    "geom:bbox": "-122.389470,37.616589,-122.389470,37.616589",
+    "geom:latitude": 37.61658853110363,
+    "geom:longitude": -122.38947028176744,
     "millsfield:wayfinding_detail": "ITB",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796903585"
+      "sfomuseum-pathto-1796903585"
     ],
     "wof:adjencies": [
       1796982275,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820676,
-    "wof:geomhash": "b18ae26c540527fcd888149b843922cd",
+    "wof:geomhash": "ecf9ca4f3a379e36bb448e4b4f1942fb",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791965,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796903589,
-    "wof:lastmodified": 1673470871,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain International Terminal G Red Line",
     "wof:parent_id": 1729791965,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3894699473521,
-    37.616597317499924,
-    -122.3894699473521,
-    37.616597317499924
+    -122.38947028176744,
+    37.61658853110363,
+    -122.38947028176744,
+    37.61658853110363
   ],
   "geometry": {"coordinates":[-122.38947028176744,37.61658853110363],"type":"Point"}
 }

@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389473,37.616633,-122.389473,37.616633",
-    "geom:latitude": 37.61663298643668,
-    "geom:longitude": -122.38947343048955,
+    "geom:bbox": "-122.389540,37.616697,-122.389540,37.616697",
+    "geom:latitude": 37.616696820978746,
+    "geom:longitude": -122.3895404706656,
     "millsfield:wayfinding_detail": "ITB",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		"sfomuseum-pathto-1796889543"
+      "sfomuseum-pathto-1796889543"
     ],
     "wof:adjencies": [
       1796982275,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674951,
-    "wof:geomhash": "ae8736367195ce6c1eff8c5211f31927",
+    "wof:geomhash": "6c3543354ae767bbe67aa16bee44a2d9",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791965,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796889583,
-    "wof:lastmodified": 1673470929,
+    "wof:lastmodified": 1675735105,
     "wof:name": "Air Train International Terminal G Blue Line",
     "wof:parent_id": 1729791965,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38947343048955,
-    37.61663298643668,
-    -122.38947343048955,
-    37.61663298643668
+    -122.3895404706656,
+    37.616696820978746,
+    -122.3895404706656,
+    37.616696820978746
   ],
   "geometry": {"coordinates":[-122.3895404706656,37.616696820978746],"type":"Point"}
 }

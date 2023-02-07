@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.392371,37.616014,-122.392371,37.616014",
-    "geom:latitude": 37.616013532392714,
-    "geom:longitude": -122.39237096100216,
+    "geom:bbox": "-122.392543,37.616064,-122.392543,37.616064",
+    "geom:latitude": 37.61606385174821,
+    "geom:longitude": -122.39254277183558,
     "millsfield:wayfinding_detail": "PRK",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796889553"
+      "sfomuseum-pathto-1796889553"
     ],
     "wof:adjencies": [
       1796982277,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674937,
-    "wof:geomhash": "d968acea36682888c9c939f914fae714",
+    "wof:geomhash": "ba2ed09bc0f455b5cdc02df3fbe95c75",
     "wof:hierarchy": [
       {
         "building_id": 1477855991,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796889543,
-    "wof:lastmodified": 1673470915,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Garage G / BART Blue Line",
     "wof:parent_id": 1477855991,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39237096100216,
-    37.616013532392714,
-    -122.39237096100216,
-    37.616013532392714
+    -122.39254277183558,
+    37.61606385174821,
+    -122.39254277183558,
+    37.61606385174821
   ],
   "geometry": {"coordinates":[-122.39254277183558,37.61606385174821],"type":"Point"}
 }

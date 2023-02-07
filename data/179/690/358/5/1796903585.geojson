@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.386573,37.617480,-122.386573,37.617480",
-    "geom:latitude": 37.617479649273015,
-    "geom:longitude": -122.38657306086635,
+    "geom:bbox": "-122.386575,37.617469,-122.386575,37.617469",
+    "geom:latitude": 37.617469389770456,
+    "geom:longitude": -122.38657478595175,
     "millsfield:wayfinding_detail": "T3",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    	"sfomuseum-pathto-1796903621"
+      "sfomuseum-pathto-1796903621"
     ],
     "wof:adjencies": [
       1796982271,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820674,
-    "wof:geomhash": "8eaab8f60c8d2682c518e572d13ed085",
+    "wof:geomhash": "67e7817bb43ad2dada0f4de8bdf896ff",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1796903585,
-    "wof:lastmodified": 1673470871,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Terminal 3 Red Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",
@@ -59,10 +59,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38657306086635,
-    37.617479649273015,
-    -122.38657306086635,
-    37.617479649273015
+    -122.38657478595175,
+    37.617469389770456,
+    -122.38657478595175,
+    37.617469389770456
   ],
   "geometry": {"coordinates":[-122.38657478595175,37.617469389770456],"type":"Point"}
 }

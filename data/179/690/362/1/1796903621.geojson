@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384629,37.616720,-122.384629,37.616720",
-    "geom:latitude": 37.6167199492761,
-    "geom:longitude": -122.38462869163543,
+    "geom:bbox": "-122.384658,37.616734,-122.384658,37.616734",
+    "geom:latitude": 37.616734358596375,
+    "geom:longitude": -122.38465800000064,
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796903611"
+      "sfomuseum-pathto-1796903611"
     ],
     "wof:adjencies": [
       1796982269,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820687,
-    "wof:geomhash": "ea516ea025f832805d47b8be73939470",
+    "wof:geomhash": "7d1ff43a51bba6bfea626dbb04196e19",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1796903621,
-    "wof:lastmodified": 1673470898,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Terminal 2 Red Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",
@@ -59,10 +59,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38462869163543,
-    37.6167199492761,
-    -122.38462869163543,
-    37.6167199492761
+    -122.38465800000064,
+    37.616734358596375,
+    -122.38465800000064,
+    37.616734358596375
   ],
   "geometry": {"coordinates":[-122.38465800000064,37.616734358596375],"type":"Point"}
 }

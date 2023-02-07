@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.401218,37.628200,-122.401218,37.628200",
-    "geom:latitude": 37.62820048933336,
-    "geom:longitude": -122.40121832540817,
+    "geom:bbox": "-122.401169,37.628154,-122.401169,37.628154",
+    "geom:latitude": 37.628154234836764,
+    "geom:longitude": -122.40116888909837,
     "millsfield:wayfinding_detail": "RCC",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674943,
-    "wof:geomhash": "8a00199ff69b587879cc1bc7e0a7bae3",
+    "wof:geomhash": "420b741181949fb200fba85b426fe60b",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791943,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796889559,
-    "wof:lastmodified": 1675473616,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Rental Car Center Blue Line (Outbound)",
     "wof:parent_id": 1729791943,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.40121832540817,
-    37.62820048933336,
-    -122.40121832540817,
-    37.62820048933336
+    -122.40116888909837,
+    37.628154234836764,
+    -122.40116888909837,
+    37.628154234836764
   ],
   "geometry": {"coordinates":[-122.40116888909837,37.628154234836764],"type":"Point"}
 }

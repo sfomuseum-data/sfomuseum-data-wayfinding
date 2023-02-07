@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.400315,37.634926,-122.400315,37.634926",
-    "geom:latitude": 37.63492642040253,
-    "geom:longitude": -122.40031526130919,
+    "geom:bbox": "-122.400334,37.634871,-122.400334,37.634871",
+    "geom:latitude": 37.63487108296516,
+    "geom:longitude": -122.4003342557613,
     "millsfield:wayfinding_detail": "PRK",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796903633"
+      "sfomuseum-pathto-1796903633"
     ],
     "wof:adjencies": [
       1796982279,
@@ -34,10 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820692,
-    "src:geom_alt": [
-      "sfomuseum-pathto-1796903633"
-    ],
-    "wof:geomhash": "3e1961b4456e288dc396a835ca02eb94",
+    "wof:geomhash": "06c6c23d773fc9aaaad73f62db97f1d2",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -59,7 +56,7 @@
       }
     ],
     "wof:id": 1796903635,
-    "wof:lastmodified": 1675469119,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Long Term Parking Blue Line (Inbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -69,10 +66,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.40031526130919,
-    37.63492642040253,
-    -122.40031526130919,
-    37.63492642040253
+    -122.4003342557613,
+    37.63487108296516,
+    -122.4003342557613,
+    37.63487108296516
   ],
   "geometry": {"coordinates":[-122.4003342557613,37.63487108296516],"type":"Point"}
 }

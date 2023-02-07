@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.393410,37.613453,-122.393410,37.613453",
-    "geom:latitude": 37.61345346209515,
-    "geom:longitude": -122.39341032398484,
+    "geom:bbox": "-122.393430,37.613392,-122.393430,37.613392",
+    "geom:latitude": 37.61339241103115,
+    "geom:longitude": -122.39342999096262,
     "millsfield:wayfinding_detail": "GHH",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796889565"
+      "sfomuseum-pathto-1796889565"
     ],
     "wof:adjencies": [
       1796889565,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674940,
-    "wof:geomhash": "d5981687e642bedfbb61882e03f7012f",
+    "wof:geomhash": "a1f261894d240341716fb63292369ab6",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791967,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796889551,
-    "wof:lastmodified": 1673470918,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Grand Hyatt Hotel Blue Line",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39341032398484,
-    37.61345346209515,
-    -122.39341032398484,
-    37.61345346209515
+    -122.39342999096262,
+    37.61339241103115,
+    -122.39342999096262,
+    37.61339241103115
   ],
   "geometry": {"coordinates":[-122.39342999096262,37.61339241103115],"type":"Point"}
 }

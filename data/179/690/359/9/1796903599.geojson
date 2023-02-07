@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.393450,37.613476,-122.393450,37.613476",
-    "geom:latitude": 37.613475991725736,
-    "geom:longitude": -122.39345046682836,
+    "geom:bbox": "-122.393457,37.613498,-122.393457,37.613498",
+    "geom:latitude": 37.61349825513496,
+    "geom:longitude": -122.39345678762706,
     "millsfield:wayfinding_detail": "GHH",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,8 +16,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796903597"
-		    ],
+      "sfomuseum-pathto-1796903597"
+    ],
     "wof:adjencies": [
       1796935709,
       1796903597
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820679,
-    "wof:geomhash": "03812dd3cda1668600986f5a35f9fc84",
+    "wof:geomhash": "eb3c7dd27991df42a1c59fa447453257",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791967,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796903599,
-    "wof:lastmodified": 1673470878,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Grand Hyatt Hotel Red Line",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39345046682836,
-    37.613475991725736,
-    -122.39345046682836,
-    37.613475991725736
+    -122.39345678762706,
+    37.61349825513496,
+    -122.39345678762706,
+    37.61349825513496
   ],
   "geometry": {"coordinates":[-122.39345678762706,37.61349825513496],"type":"Point"}
 }

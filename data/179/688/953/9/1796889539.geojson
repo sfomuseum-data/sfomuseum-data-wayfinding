@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.386576,37.617528,-122.386576,37.617528",
-    "geom:latitude": 37.61752797434298,
-    "geom:longitude": -122.38657572374376,
+    "geom:bbox": "-122.386636,37.617580,-122.386636,37.617580",
+    "geom:latitude": 37.61757978027452,
+    "geom:longitude": -122.38663648107729,
     "millsfield:wayfinding_detail": "T3",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796889583"
+      "sfomuseum-pathto-1796889583"
     ],
     "wof:adjencies": [
       1796889583,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674935,
-    "wof:geomhash": "dacb808a7da108f0df0a368dd8852d88",
+    "wof:geomhash": "c276c5fd4542aa79e298a46e6b3255f5",
     "wof:hierarchy": [
       {
         "building_id": -1,
@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1796889539,
-    "wof:lastmodified": 1673470916,
+    "wof:lastmodified": 1675735105,
     "wof:name": "Air Train Terminal 3 Blue Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",
@@ -59,10 +59,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38657572374376,
-    37.61752797434298,
-    -122.38657572374376,
-    37.61752797434298
+    -122.38663648107729,
+    37.61757978027452,
+    -122.38663648107729,
+    37.61757978027452
   ],
   "geometry": {"coordinates":[-122.38663648107729,37.61757978027452],"type":"Point"}
 }

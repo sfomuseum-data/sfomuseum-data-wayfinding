@@ -1,1 +1,26 @@
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-122.39182669700823,37.613788971933225],[-122.38873679724462,37.61453855385551]]},"properties":{"src:alt_label":"sfomuseum-pathto-1796889585","wof:id":1796889565,"wof:name":"AirTrain Garage A Blue Line (path to AirTrain International Terminal A Blue Line)","wof:placetype":"custom","wof:repo":"sfomuseum-data-wayfinding"}}
+{
+  "id": 1796889565,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.391827,37.613789,-122.388737,37.614539",
+    "geom:latitude": 37.61416376289437,
+    "geom:longitude": -122.39028174712642,
+    "src:alt_label": "sfomuseum-pathto-1796889585",
+    "src:geom": "unknown",
+    "wof:created": 1675735105,
+    "wof:geomhash": "db482f132e14ab82c4855ea9b26f8827",
+    "wof:id": 1796889565,
+    "wof:lastmodified": 1675735105,
+    "wof:name": "AirTrain Garage A Blue Line (path to AirTrain International Terminal A Blue Line)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.39182669700823,
+    37.613788971933225,
+    -122.38873679724462,
+    37.61453855385551
+  ],
+  "geometry": {"coordinates":[[-122.39182669700823,37.613788971933225],[-122.38873679724462,37.61453855385551]],"type":"LineString"}
+}

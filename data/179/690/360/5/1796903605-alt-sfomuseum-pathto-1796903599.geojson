@@ -1,1 +1,26 @@
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-122.39186628023575,37.61387859416066],[-122.39345678762706,37.61349825513496]]},"properties":{"src:alt_label":"sfomuseum-pathto-1796903599","wof:id":1796903605,"wof:name":"AirTrain Garage A Red Line (path to AirTrain Grand Hyatt Hotel Red Line)","wof:placetype":"custom","wof:repo":"sfomuseum-data-wayfinding"}}
+{
+  "id": 1796903605,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.393457,37.613498,-122.391866,37.613879",
+    "geom:latitude": 37.61368842464781,
+    "geom:longitude": -122.3926615339314,
+    "src:alt_label": "sfomuseum-pathto-1796903599",
+    "src:geom": "unknown",
+    "wof:created": 1675735105,
+    "wof:geomhash": "5e54f5a33176e36749ac0e71e29922f1",
+    "wof:id": 1796903605,
+    "wof:lastmodified": 1675735105,
+    "wof:name": "AirTrain Garage A Red Line (path to AirTrain Grand Hyatt Hotel Red Line)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.39345678762706,
+    37.61349825513496,
+    -122.39186628023575,
+    37.61387859416066
+  ],
+  "geometry": {"coordinates":[[-122.39186628023575,37.61387859416066],[-122.39345678762706,37.61349825513496]],"type":"LineString"}
+}

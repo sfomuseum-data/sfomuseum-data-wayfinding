@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.399382,37.621709,-122.399382,37.621709",
-    "geom:latitude": 37.6217087303758,
-    "geom:longitude": -122.399382401451,
+    "geom:bbox": "-122.399470,37.621676,-122.399470,37.621676",
+    "geom:latitude": 37.62167590883182,
+    "geom:longitude": -122.39947023374233,
     "millsfield:wayfinding_detail": "WFR",
     "millsfield:wayfinding_kind": "WTR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796889559"
+      "sfomuseum-pathto-1796889559"
     ],
     "wof:adjencies": [
       1796889559
@@ -34,7 +34,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674941,
-    "wof:geomhash": "08fac489bbbf77d037b07a5de74cd2e5",
+    "wof:geomhash": "0b44cd115b5396c3739497b71c097743",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791951,
@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1796889553,
-    "wof:lastmodified": 1673470918,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Westfield Road Station (Outbound)",
     "wof:parent_id": 1729791951,
     "wof:placetype": "venue",
@@ -68,10 +68,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.399382401451,
-    37.6217087303758,
-    -122.399382401451,
-    37.6217087303758
+    -122.39947023374233,
+    37.62167590883182,
+    -122.39947023374233,
+    37.62167590883182
   ],
   "geometry": {"coordinates":[-122.39947023374233,37.62167590883182],"type":"Point"}
 }

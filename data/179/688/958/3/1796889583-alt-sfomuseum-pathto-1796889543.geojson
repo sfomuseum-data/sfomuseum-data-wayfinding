@@ -1,1 +1,26 @@
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-122.3895404706656,37.616696820978746],[-122.39036022345731,37.61650502581933],[-122.39091412041884,37.61636898095158],[-122.39105988277714,37.61634954597047],[-122.3914893958596,37.6163184500007],[-122.39178480757242,37.61624848406871],[-122.39254277183558,37.61606385174821]]},"properties":{"src:alt_label":"sfomuseum-pathto-1796889543","wof:id":1796889583,"wof:name":"Air Train International Terminal G Blue Line (path to AirTrain Garage G / BART Blue Line)","wof:placetype":"custom","wof:repo":"sfomuseum-data-wayfinding"}}
+{
+  "id": 1796889583,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.392543,37.616064,-122.389540,37.616697",
+    "geom:latitude": 37.61637730704978,
+    "geom:longitude": -122.39104133234865,
+    "src:alt_label": "sfomuseum-pathto-1796889543",
+    "src:geom": "unknown",
+    "wof:created": 1675735105,
+    "wof:geomhash": "3de444dd83ab80f878888db045775cf3",
+    "wof:id": 1796889583,
+    "wof:lastmodified": 1675735105,
+    "wof:name": "Air Train International Terminal G Blue Line (path to AirTrain Garage G / BART Blue Line)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.39254277183558,
+    37.61606385174821,
+    -122.3895404706656,
+    37.616696820978746
+  ],
+  "geometry": {"coordinates":[[-122.3895404706656,37.616696820978746],[-122.39036022345731,37.61650502581933],[-122.39091412041884,37.61636898095158],[-122.39105988277714,37.61634954597047],[-122.3914893958596,37.6163184500007],[-122.39178480757242,37.61624848406871],[-122.39254277183558,37.61606385174821]],"type":"LineString"}
+}

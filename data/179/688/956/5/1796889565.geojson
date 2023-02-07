@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.391843,37.613841,-122.391843,37.613841",
-    "geom:latitude": 37.613841093371484,
-    "geom:longitude": -122.39184276014207,
+    "geom:bbox": "-122.391827,37.613789,-122.391827,37.613789",
+    "geom:latitude": 37.613788971933225,
+    "geom:longitude": -122.39182669700823,
     "millsfield:wayfinding_detail": "PRK",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796889585"
+      "sfomuseum-pathto-1796889585"
     ],
     "wof:adjencies": [
       1796982263,
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674945,
-    "wof:geomhash": "39d2d273ef385ea93931c542532cfec4",
+    "wof:geomhash": "1ebf677b7e9670fc12eadc9b2eafc236",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791949,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796889565,
-    "wof:lastmodified": 1673470924,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Garage A Blue Line",
     "wof:parent_id": 1729791949,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39184276014207,
-    37.613841093371484,
-    -122.39184276014207,
-    37.613841093371484
+    -122.39182669700823,
+    37.613788971933225,
+    -122.39182669700823,
+    37.613788971933225
   ],
   "geometry": {"coordinates":[-122.39182669700823,37.613788971933225],"type":"Point"}
 }

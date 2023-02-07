@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.400335,37.635048,-122.400335,37.635048",
-    "geom:latitude": 37.63504790937685,
-    "geom:longitude": -122.4003352019827,
+    "geom:bbox": "-122.400202,37.634957,-122.400202,37.634957",
+    "geom:latitude": 37.63495659688203,
+    "geom:longitude": -122.40020209788976,
     "millsfield:wayfinding_detail": "PRK",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -30,7 +30,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674943,
-    "wof:geomhash": "97ede635e78d6b3aee3965b8ef219224",
+    "wof:geomhash": "ebbd9f395116555d67c9c7bc209283da",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -52,7 +52,7 @@
       }
     ],
     "wof:id": 1796889561,
-    "wof:lastmodified": 1673470923,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Long-Term Parking Blue Line (Outbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -62,10 +62,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.4003352019827,
-    37.63504790937685,
-    -122.4003352019827,
-    37.63504790937685
+    -122.40020209788976,
+    37.63495659688203,
+    -122.40020209788976,
+    37.63495659688203
   ],
   "geometry": {"coordinates":[-122.40020209788976,37.63495659688203],"type":"Point"}
 }

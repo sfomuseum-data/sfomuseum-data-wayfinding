@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.401247,37.628196,-122.401247,37.628196",
-    "geom:latitude": 37.62819592064727,
-    "geom:longitude": -122.40124703882299,
+    "geom:bbox": "-122.401286,37.628183,-122.401286,37.628183",
+    "geom:latitude": 37.628183439058354,
+    "geom:longitude": -122.40128570598473,
     "millsfield:wayfinding_detail": "RCC",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
@@ -16,8 +16,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-    		    "sfomuseum-pathto-1796889557"
-		    ],
+      "sfomuseum-pathto-1796889557"
+    ],
     "wof:adjencies": [
       1796982281,
       1796889557
@@ -35,7 +35,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820691,
-    "wof:geomhash": "efa93ae98ce8f2b85ead11351ba6f3ae",
+    "wof:geomhash": "338b822afa17d531de6c09308a9212f7",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791943,
@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1796903633,
-    "wof:lastmodified": 1673470903,
+    "wof:lastmodified": 1675735105,
     "wof:name": "AirTrain Rental Car Center Blue Line (Inbound)",
     "wof:parent_id": 1729791943,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.40124703882299,
-    37.62819592064727,
-    -122.40124703882299,
-    37.62819592064727
+    -122.40128570598473,
+    37.628183439058354,
+    -122.40128570598473,
+    37.628183439058354
   ],
   "geometry": {"coordinates":[-122.40128570598473,37.628183439058354],"type":"Point"}
 }
