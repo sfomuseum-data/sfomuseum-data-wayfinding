@@ -3,24 +3,24 @@
   "type": "Feature",
   "properties": {
     "geom:area": 0,
-    "geom:bbox": "-122.385781,37.611955,-122.384506,37.612861",
-    "geom:latitude": 37.6124082947052,
-    "geom:longitude": -122.38514378770557,
+    "geom:bbox": "-122.385781,37.611737,-122.384506,37.612861",
+    "geom:latitude": 37.61216737961526,
+    "geom:longitude": -122.38507272784678,
     "src:alt_label": "sfomuseum-pathto-1796889471",
     "src:geom": "unknown",
     "wof:created": 1675907748,
-    "wof:geomhash": "79435f8b3c76da11251fb245adc11469",
+    "wof:geomhash": "8724622db284d212c9d7d2e6e79e4176",
     "wof:id": 1796935503,
-    "wof:lastmodified": 1675907748,
+    "wof:lastmodified": 1675910298,
     "wof:name": "Gate B15 - B16 Waiting Area (path to Boarding Area B Mid Pier)",
     "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-wayfinding"
   },
   "bbox": [
     -122.38578110508774,
-    37.61195537729346,
+    37.61173731670696,
     -122.3845064703234,
     37.61286121211693
   ],
-  "geometry": {"coordinates":[[-122.38578110508774,37.61195537729346],[-122.3845064703234,37.61286121211693]],"type":"LineString"}
+  "geometry": {"coordinates":[[-122.38578110508774,37.61195537729346],[-122.38526782510475,37.61173731670696],[-122.3845064703234,37.61286121211693]],"type":"LineString"}
 }
