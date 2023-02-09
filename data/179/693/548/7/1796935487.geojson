@@ -15,6 +15,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1796889471"
+    ],
     "wof:adjencies": [
       1796889471
     ],
@@ -61,7 +64,7 @@
       }
     ],
     "wof:id": 1796935487,
-    "wof:lastmodified": 1673471030,
+    "wof:lastmodified": 1675907551,
     "wof:name": "Gate B10 - B11 Waiting Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

@@ -1,0 +1,26 @@
+{
+  "id": 1796889471,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.385781,37.611955,-122.384506,37.612861",
+    "geom:latitude": 37.6124082947052,
+    "geom:longitude": -122.38514378770557,
+    "src:alt_label": "sfomuseum-pathto-1796935503",
+    "src:geom": "unknown",
+    "wof:created": 1675907748,
+    "wof:geomhash": "f7a56d730c7a8143180ffc0308cad3c8",
+    "wof:id": 1796889471,
+    "wof:lastmodified": 1675907748,
+    "wof:name": "Boarding Area B Mid Pier (path to Gate B15 - B16 Waiting Area)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.38578110508774,
+    37.61195537729346,
+    -122.3845064703234,
+    37.61286121211693
+  ],
+  "geometry": {"coordinates":[[-122.3845064703234,37.61286121211693],[-122.38578110508774,37.61195537729346]],"type":"LineString"}
+}
