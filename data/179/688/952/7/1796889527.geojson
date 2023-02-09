@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.389326,37.617222,-122.389326,37.617222",
-    "geom:latitude": 37.6172221855798,
-    "geom:longitude": -122.38932592946864,
+    "geom:bbox": "-122.389409,37.617184,-122.389409,37.617184",
+    "geom:latitude": 37.61718354071702,
+    "geom:longitude": -122.38940949529083,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
@@ -15,6 +15,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1796935723"
+    ],
     "wof:adjencies": [
       1796935723,
       1796889545
@@ -34,7 +37,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671674931,
-    "wof:geomhash": "6296a0a8814a62f0aa030d3fab1e78d3",
+    "wof:geomhash": "e1fa2af086d4f8513675a08332081dd7",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +65,7 @@
       }
     ],
     "wof:id": 1796889527,
-    "wof:lastmodified": 1675804530,
+    "wof:lastmodified": 1675900814,
     "wof:name": "T3 - International Terminal Post-Security Connector (ITB)",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -72,10 +75,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38932592946864,
-    37.6172221855798,
-    -122.38932592946864,
-    37.6172221855798
+    -122.38940949529083,
+    37.61718354071702,
+    -122.38940949529083,
+    37.61718354071702
   ],
-  "geometry": {"coordinates":[-122.38932592946864,37.6172221855798],"type":"Point"}
+  "geometry": {"coordinates":[-122.38940949529083,37.61718354071702],"type":"Point"}
 }
