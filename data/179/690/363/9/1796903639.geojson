@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.400502,37.636619,-122.400502,37.636619",
-    "geom:latitude": 37.63661875135711,
-    "geom:longitude": -122.40050241320299,
+    "geom:bbox": "-122.400320,37.636211,-122.400320,37.636211",
+    "geom:latitude": 37.636211,
+    "geom:longitude": -122.40032,
     "millsfield:wayfinding_detail": "LT1",
     "millsfield:wayfinding_kind": "PRK",
     "mz:is_current": 1,
@@ -31,7 +31,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820694,
-    "wof:geomhash": "f5187bde79f81ada4e0b4256fb29a897",
+    "wof:geomhash": "4783813dc9163cfe281652b79c17cbca",
     "wof:hierarchy": [
       {
         "building_id": 1477855983,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1796903639,
-    "wof:lastmodified": 1673470908,
+    "wof:lastmodified": 1675965792,
     "wof:name": "Long Term Parking 1",
     "wof:parent_id": 1477855983,
     "wof:placetype": "venue",
@@ -65,10 +65,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.40050241320299,
-    37.63661875135711,
-    -122.40050241320299,
-    37.63661875135711
+    -122.40032,
+    37.636211,
+    -122.40032,
+    37.636211
   ],
-  "geometry": {"coordinates":[-122.40050241320299,37.63661875135711],"type":"Point"}
+  "geometry": {"coordinates":[-122.40032,37.636211],"type":"Point"}
 }
