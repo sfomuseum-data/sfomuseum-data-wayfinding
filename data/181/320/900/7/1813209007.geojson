@@ -2,17 +2,22 @@
   "id": 1813209007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "edtf:cessation": "..",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.386963,37.614889,-122.386963,37.614889",
     "geom:latitude": 37.614889,
     "geom:longitude": -122.386963,
-    "mz:is_current": "1",
+    "millsfield:wayfinding_detail": "ARR",
+    "millsfield:wayfinding_kind": "HMT1",
+    "mz:is_current": 1,
     "sfo:level": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1797018159
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -56,7 +61,7 @@
       }
     ],
     "wof:id": 1813209007,
-    "wof:lastmodified": 1676489855,
+    "wof:lastmodified": 1676490952,
     "wof:name": "Harvey Milk Terminal 1 Arrivals Door 1",
     "wof:parent_id": 1763588263,
     "wof:placetype": "venue",

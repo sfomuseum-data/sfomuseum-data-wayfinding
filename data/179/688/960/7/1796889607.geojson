@@ -15,10 +15,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
-      1796889605,
-      1796935535
-    ],
+    "wof:adjencies": [],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -62,7 +59,7 @@
       }
     ],
     "wof:id": 1796889607,
-    "wof:lastmodified": 1675805245,
+    "wof:lastmodified": 1676491345,
     "wof:name": "Terminal 1 Main Hall C Side",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",
