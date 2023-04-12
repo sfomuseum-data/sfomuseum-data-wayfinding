@@ -16,6 +16,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1847562719,
       1796935479,
       1796935481,
       1796889631,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1796889473,
-    "wof:lastmodified": 1673470872,
+    "wof:lastmodified": 1681261089,
     "wof:name": "Boarding Area B ITB",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

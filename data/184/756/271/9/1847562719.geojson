@@ -15,6 +15,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796935479,
+      1796889473,
+      1847562721
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -58,8 +63,8 @@
       }
     ],
     "wof:id": 1847562719,
-    "wof:lastmodified": 1681260294,
-    "wof:name": "Harvey Milk Terminal 1 - International Terminal A Stairs 2nd Floor",
+    "wof:lastmodified": 1681261109,
+    "wof:name": "Harvey Milk Terminal 1 - International Terminal A Stairs",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
     "wof:repo": "sfomuseum-data-wayfinding",

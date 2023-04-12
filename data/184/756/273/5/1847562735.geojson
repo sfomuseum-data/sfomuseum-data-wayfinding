@@ -11,10 +11,14 @@
     "geom:latitude": 37.614226,
     "geom:longitude": -122.388225,
     "mz:is_current": "1",
-    "sfo:level": 2,
+    "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796889531,
+      1847562721
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -58,7 +62,7 @@
       }
     ],
     "wof:id": 1847562735,
-    "wof:lastmodified": 1681260779,
+    "wof:lastmodified": 1681260975,
     "wof:name": "Harvey Milk Terminal 1 to International Terminal A Connector (International Terminal A)",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
