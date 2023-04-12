@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.393898,37.612985,-122.393898,37.612985",
-    "geom:latitude": 37.612985399776704,
-    "geom:longitude": -122.39389795505068,
+    "geom:bbox": "-122.393915,37.612968,-122.393915,37.612968",
+    "geom:latitude": 37.612968092026584,
+    "geom:longitude": -122.39391501731967,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
     "mz:is_current": 1,
@@ -22,14 +22,14 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1681333290,
-    "wof:geomhash": "1e26aa16b72b713799acd2eb46a27622",
+    "wof:geomhash": "2e3e87cbc4382cbb8c4384a105ad7e22",
     "wof:hierarchy": [
       {
         "venue_id": 1847571937
       }
     ],
     "wof:id": 1847571937,
-    "wof:lastmodified": 1681333581,
+    "wof:lastmodified": 1681335463,
     "wof:name": "Grand Hyatt Hotel 3rd - 4th Floor Stairs (3rd Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -39,10 +39,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39389795505068,
-    37.612985399776704,
-    -122.39389795505068,
-    37.612985399776704
+    -122.39391501731967,
+    37.612968092026584,
+    -122.39391501731967,
+    37.612968092026584
   ],
-  "geometry": {"coordinates":[-122.39389795505068,37.612985399776704],"type":"Point"}
+  "geometry": {"coordinates":[-122.39391501731967,37.612968092026584],"type":"Point"}
 }

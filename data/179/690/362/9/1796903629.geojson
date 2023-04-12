@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.393663,37.613279,-122.393663,37.613279",
-    "geom:latitude": 37.61327901877148,
-    "geom:longitude": -122.39366340516885,
+    "geom:bbox": "-122.393583,37.613144,-122.393583,37.613144",
+    "geom:latitude": 37.61314385025084,
+    "geom:longitude": -122.39358330627176,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
     "mz:is_current": 1,
@@ -32,7 +32,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1671820690,
-    "wof:geomhash": "2975b14a875529384672c4278615b4be",
+    "wof:geomhash": "c5d6da96c6134a5ed2b0c6d3965aac2e",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -56,7 +56,7 @@
       }
     ],
     "wof:id": 1796903629,
-    "wof:lastmodified": 1681334336,
+    "wof:lastmodified": 1681335463,
     "wof:name": "Grand Hyatt Hotel Reception",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -66,10 +66,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39366340516885,
-    37.61327901877148,
-    -122.39366340516885,
-    37.61327901877148
+    -122.39358330627176,
+    37.61314385025084,
+    -122.39358330627176,
+    37.61314385025084
   ],
-  "geometry": {"coordinates":[-122.39366340516885,37.61327901877148],"type":"Point"}
+  "geometry": {"coordinates":[-122.39358330627176,37.61314385025084],"type":"Point"}
 }

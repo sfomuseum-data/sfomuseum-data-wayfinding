@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.393807,37.613067,-122.393807,37.613067",
-    "geom:latitude": 37.61306714623272,
-    "geom:longitude": -122.39380709551922,
+    "geom:bbox": "-122.393783,37.613044,-122.393783,37.613044",
+    "geom:latitude": 37.61304404559966,
+    "geom:longitude": -122.39378291557414,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
     "mz:is_current": 1,
@@ -20,14 +20,14 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1681333290,
-    "wof:geomhash": "ffe7b1fe8e67d23e7e646fbfb2be516e",
+    "wof:geomhash": "cd03ee15adc41534c262479cb59b25f3",
     "wof:hierarchy": [
       {
         "venue_id": 1847571935
       }
     ],
     "wof:id": 1847571935,
-    "wof:lastmodified": 1681333515,
+    "wof:lastmodified": 1681335463,
     "wof:name": "Grand Hyatt Hotel Restaurant",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -37,10 +37,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39380709551922,
-    37.61306714623272,
-    -122.39380709551922,
-    37.61306714623272
+    -122.39378291557414,
+    37.61304404559966,
+    -122.39378291557414,
+    37.61304404559966
   ],
-  "geometry": {"coordinates":[-122.39380709551922,37.61306714623272],"type":"Point"}
+  "geometry": {"coordinates":[-122.39378291557414,37.61304404559966],"type":"Point"}
 }

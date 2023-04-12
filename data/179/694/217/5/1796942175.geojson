@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.394107,37.612783,-122.394107,37.612783",
-    "geom:latitude": 37.61278318152187,
-    "geom:longitude": -122.39410674405117,
+    "geom:bbox": "-122.393932,37.612919,-122.393932,37.612919",
+    "geom:latitude": 37.61291902490805,
+    "geom:longitude": -122.39393213803626,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
     "mz:is_current": 1,
@@ -33,7 +33,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672346851,
-    "wof:geomhash": "49927dc5186fdbbe2352e7d2d691a659",
+    "wof:geomhash": "b6c897e3315c1edb791082fa610892df",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -57,7 +57,7 @@
       }
     ],
     "wof:id": 1796942175,
-    "wof:lastmodified": 1681333672,
+    "wof:lastmodified": 1681335463,
     "wof:name": "Grand Hyatt Hotel Level 2",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -67,10 +67,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39410674405117,
-    37.61278318152187,
-    -122.39410674405117,
-    37.61278318152187
+    -122.39393213803626,
+    37.61291902490805,
+    -122.39393213803626,
+    37.61291902490805
   ],
-  "geometry": {"coordinates":[-122.39410674405117,37.61278318152187],"type":"Point"}
+  "geometry": {"coordinates":[-122.39393213803626,37.61291902490805],"type":"Point"}
 }

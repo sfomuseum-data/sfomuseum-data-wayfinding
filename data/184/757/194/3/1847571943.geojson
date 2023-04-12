@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.394052,37.612894,-122.394052,37.612894",
-    "geom:latitude": 37.61289441079286,
-    "geom:longitude": -122.39405184919832,
+    "geom:bbox": "-122.394089,37.612827,-122.394089,37.612827",
+    "geom:latitude": 37.6128266228363,
+    "geom:longitude": -122.3940891744668,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
     "mz:is_current": 1,
@@ -20,14 +20,14 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1681333291,
-    "wof:geomhash": "e6db02bb6a86ac9895572a16e82a6a8d",
+    "wof:geomhash": "b8c2cad34828c6a345f74ba4fb7429f4",
     "wof:hierarchy": [
       {
         "venue_id": 1847571943
       }
     ],
     "wof:id": 1847571943,
-    "wof:lastmodified": 1681333652,
+    "wof:lastmodified": 1681335463,
     "wof:name": "Grand Hyatt Hotel Conference Rooms (West)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -37,10 +37,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39405184919832,
-    37.61289441079286,
-    -122.39405184919832,
-    37.61289441079286
+    -122.3940891744668,
+    37.6128266228363,
+    -122.3940891744668,
+    37.6128266228363
   ],
-  "geometry": {"coordinates":[-122.39405184919832,37.61289441079286],"type":"Point"}
+  "geometry": {"coordinates":[-122.3940891744668,37.6128266228363],"type":"Point"}
 }

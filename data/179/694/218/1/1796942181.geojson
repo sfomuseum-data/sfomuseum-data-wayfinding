@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.393921,37.612850,-122.393921,37.612850",
-    "geom:latitude": 37.61284984485878,
-    "geom:longitude": -122.39392133664539,
+    "geom:bbox": "-122.393850,37.612936,-122.393850,37.612936",
+    "geom:latitude": 37.61293647580603,
+    "geom:longitude": -122.39384964140598,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
     "mz:is_current": 1,
@@ -31,7 +31,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1672346854,
-    "wof:geomhash": "7178e86387f3d5fdd5e65d0db729efa7",
+    "wof:geomhash": "a447b64c1849e959bc9081ca3c951ce0",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -53,7 +53,7 @@
       }
     ],
     "wof:id": 1796942181,
-    "wof:lastmodified": 1681334766,
+    "wof:lastmodified": 1681335463,
     "wof:name": "Grand Hyatt Hotel Entrance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -63,10 +63,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39392133664539,
-    37.61284984485878,
-    -122.39392133664539,
-    37.61284984485878
+    -122.39384964140598,
+    37.61293647580603,
+    -122.39384964140598,
+    37.61293647580603
   ],
-  "geometry": {"coordinates":[-122.39392133664539,37.61284984485878],"type":"Point"}
+  "geometry": {"coordinates":[-122.39384964140598,37.61293647580603],"type":"Point"}
 }

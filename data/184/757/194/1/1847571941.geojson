@@ -5,9 +5,9 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "geom:area": 0,
-    "geom:bbox": "-122.393941,37.612982,-122.393941,37.612982",
-    "geom:latitude": 37.61298240716437,
-    "geom:longitude": -122.39394093710506,
+    "geom:bbox": "-122.393935,37.612978,-122.393935,37.612978",
+    "geom:latitude": 37.612977737653196,
+    "geom:longitude": -122.39393538030919,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
     "mz:is_current": 1,
@@ -23,14 +23,14 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1681333291,
-    "wof:geomhash": "dd129872892ed174836de2ff5f594eae",
+    "wof:geomhash": "5cc50c041b6cee688029d48b7a1f055c",
     "wof:hierarchy": [
       {
         "venue_id": 1847571941
       }
     ],
     "wof:id": 1847571941,
-    "wof:lastmodified": 1681333672,
+    "wof:lastmodified": 1681335463,
     "wof:name": "Grand Hyatt Hotel 2nd - 1st Floor Stairs (2nd Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -40,10 +40,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39394093710506,
-    37.61298240716437,
-    -122.39394093710506,
-    37.61298240716437
+    -122.39393538030919,
+    37.612977737653196,
+    -122.39393538030919,
+    37.612977737653196
   ],
-  "geometry": {"coordinates":[-122.39394093710506,37.61298240716437],"type":"Point"}
+  "geometry": {"coordinates":[-122.39393538030919,37.612977737653196],"type":"Point"}
 }
