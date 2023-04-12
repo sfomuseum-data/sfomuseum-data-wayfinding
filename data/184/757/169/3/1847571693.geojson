@@ -15,6 +15,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sflomuseum",
+    "wof:adjencies": [
+      1796889475,
+      1847571707
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -58,7 +62,7 @@
       }
     ],
     "wof:id": 1847571693,
-    "wof:lastmodified": 1681324321,
+    "wof:lastmodified": 1681324737,
     "wof:name": "Alley Gallery Entrance",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

@@ -15,6 +15,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796889475,
+      1796935483
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -58,7 +62,7 @@
       }
     ],
     "wof:id": 1847571717,
-    "wof:lastmodified": 1681325120,
+    "wof:lastmodified": 1681325192,
     "wof:name": "Gate B4-B5 Corridor",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
