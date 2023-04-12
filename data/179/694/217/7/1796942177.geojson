@@ -16,9 +16,10 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1847571937,
       1796942179,
-      1796942175
+      1796935705,
+      1796942175,
+      1847571937
     ],
     "wof:belongsto": [
       1477856005,
@@ -57,8 +58,8 @@
       }
     ],
     "wof:id": 1796942177,
-    "wof:lastmodified": 1681335463,
-    "wof:name": "Grand Hyatt Hotel Level 3",
+    "wof:lastmodified": 1681338332,
+    "wof:name": "Grand Hyatt Hotel 1st - 4th Floor Elevators (3rd Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
     "wof:placetype_alt": "waypoint",

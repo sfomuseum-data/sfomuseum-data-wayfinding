@@ -11,7 +11,7 @@
     "millsfield:wayfinding_detail": "GHH",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
-    "sfo:level": 0,
+    "sfo:level": 5,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -57,7 +57,7 @@
       }
     ],
     "wof:id": 1796935709,
-    "wof:lastmodified": 1675806586,
+    "wof:lastmodified": 1681339470,
     "wof:name": "AirTrain Grand Hyatt Hotel Station",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",

@@ -2,8 +2,10 @@
   "id": 1796903629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2019-01-01",
+    "date:inception_upper": "2019-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2019",
     "geom:area": 0,
     "geom:bbox": "-122.393583,37.613144,-122.393583,37.613144",
     "geom:latitude": 37.61314385025084,
@@ -56,7 +58,7 @@
       }
     ],
     "wof:id": 1796903629,
-    "wof:lastmodified": 1681335463,
+    "wof:lastmodified": 1681338678,
     "wof:name": "Grand Hyatt Hotel Reception",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

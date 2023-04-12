@@ -9,7 +9,7 @@
     "geom:latitude": 37.612968092026584,
     "geom:longitude": -122.39391501731967,
     "millsfield:wayfinding_detail": "",
-    "millsfield:wayfinding_kind": "",
+    "millsfield:wayfinding_kind": "GHH",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
@@ -19,17 +19,44 @@
       1847571931,
       1796942177
     ],
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1477856005,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1681333290,
     "wof:geomhash": "2e3e87cbc4382cbb8c4384a105ad7e22",
     "wof:hierarchy": [
       {
+        "building_id": 1477856005,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1847571937
+      },
+      {
+        "building_id": 1477856005,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
         "venue_id": 1847571937
       }
     ],
     "wof:id": 1847571937,
-    "wof:lastmodified": 1681335463,
+    "wof:lastmodified": 1681339391,
     "wof:name": "Grand Hyatt Hotel 3rd - 4th Floor Stairs (3rd Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
