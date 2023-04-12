@@ -10,6 +10,8 @@
     "geom:bbox": "-122.387528,37.614392,-122.387528,37.614392",
     "geom:latitude": 37.614392,
     "geom:longitude": -122.387528,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
     "mz:is_current": "1",
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1847562721,
-    "wof:lastmodified": 1681261014,
+    "wof:lastmodified": 1681333293,
     "wof:name": "Harvey Milk Terminal 1 to International Terminal A Connector (Harvey Milk Terminal)",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

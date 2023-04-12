@@ -1,0 +1,46 @@
+{
+  "id": 1847571945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393874,37.613054,-122.393874,37.613054",
+    "geom:latitude": 37.61305436253065,
+    "geom:longitude": -122.39387402319757,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1847571941
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1681333292,
+    "wof:geomhash": "914776c0a5943a6483cbbd1632d8c502",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1847571945
+      }
+    ],
+    "wof:id": 1847571945,
+    "wof:lastmodified": 1681333643,
+    "wof:name": "Grand Hyatt Hotel Conference Rooms (East)",
+    "wof:parent_id": 1477856005,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39387402319757,
+    37.61305436253065,
+    -122.39387402319757,
+    37.61305436253065
+  ],
+  "geometry": {"coordinates":[-122.39387402319757,37.61305436253065],"type":"Point"}
+}

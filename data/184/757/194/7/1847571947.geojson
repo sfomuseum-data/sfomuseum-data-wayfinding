@@ -1,0 +1,48 @@
+{
+  "id": 1847571947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393870,37.612970,-122.393870,37.612970",
+    "geom:latitude": 37.61296967861261,
+    "geom:longitude": -122.3938701586256,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 1,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1796935705,
+      1796942181,
+      1847571941
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1681333292,
+    "wof:geomhash": "6267aa5a3a671cdbeab8961eed535b32",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1847571947
+      }
+    ],
+    "wof:id": 1847571947,
+    "wof:lastmodified": 1681334775,
+    "wof:name": "Grand Hyatt Hotel 1st - 2nd Floor Stairs (1st Floor)",
+    "wof:parent_id": 1477856005,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3938701586256,
+    37.61296967861261,
+    -122.3938701586256,
+    37.61296967861261
+  ],
+  "geometry": {"coordinates":[-122.3938701586256,37.61296967861261],"type":"Point"}
+}

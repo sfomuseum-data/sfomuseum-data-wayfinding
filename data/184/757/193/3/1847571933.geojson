@@ -1,0 +1,48 @@
+{
+  "id": 1847571933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393752,37.613081,-122.393752,37.613081",
+    "geom:latitude": 37.61308109922574,
+    "geom:longitude": -122.39375210431147,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 4,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1847571931,
+      1847571929,
+      1796903629
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1681333289,
+    "wof:geomhash": "23260ac494f2253767bbf52baa8e4df0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1847571933
+      }
+    ],
+    "wof:id": 1847571933,
+    "wof:lastmodified": 1681333462,
+    "wof:name": "Grand Hyatt Hotel Lobby",
+    "wof:parent_id": 1477856005,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39375210431147,
+    37.61308109922574,
+    -122.39375210431147,
+    37.61308109922574
+  ],
+  "geometry": {"coordinates":[-122.39375210431147,37.61308109922574],"type":"Point"}
+}

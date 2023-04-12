@@ -1,0 +1,46 @@
+{
+  "id": 1847571943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.394052,37.612894,-122.394052,37.612894",
+    "geom:latitude": 37.61289441079286,
+    "geom:longitude": -122.39405184919832,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1847571941
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1681333291,
+    "wof:geomhash": "e6db02bb6a86ac9895572a16e82a6a8d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1847571943
+      }
+    ],
+    "wof:id": 1847571943,
+    "wof:lastmodified": 1681333652,
+    "wof:name": "Grand Hyatt Hotel Conference Rooms (West)",
+    "wof:parent_id": 1477856005,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39405184919832,
+    37.61289441079286,
+    -122.39405184919832,
+    37.61289441079286
+  ],
+  "geometry": {"coordinates":[-122.39405184919832,37.61289441079286],"type":"Point"}
+}

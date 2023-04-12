@@ -1,0 +1,47 @@
+{
+  "id": 1847571929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.393806,37.613136,-122.393806,37.613136",
+    "geom:latitude": 37.61313609043349,
+    "geom:longitude": -122.39380627475495,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1847571931,
+      1847571933
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1681333288,
+    "wof:geomhash": "ba9f8f8400c8c36ff569449332eacda2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1847571929
+      }
+    ],
+    "wof:id": 1847571929,
+    "wof:lastmodified": 1681333487,
+    "wof:name": "Grand Hyatt Hotel Bar",
+    "wof:parent_id": 1477856005,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39380627475495,
+    37.61313609043349,
+    -122.39380627475495,
+    37.61313609043349
+  ],
+  "geometry": {"coordinates":[-122.39380627475495,37.61313609043349],"type":"Point"}
+}

@@ -10,6 +10,8 @@
     "geom:bbox": "-122.385176,37.613782,-122.385176,37.613782",
     "geom:latitude": 37.613782,
     "geom:longitude": -122.385176,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
     "mz:is_current": "1",
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1847571707,
-    "wof:lastmodified": 1681324868,
+    "wof:lastmodified": 1681333293,
     "wof:name": "Alley Gallery Entrance (Gate B4-B5)",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

@@ -16,6 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1847571941,
       1796942177,
       1796935705
     ],
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1796942175,
-    "wof:lastmodified": 1673470921,
+    "wof:lastmodified": 1681333672,
     "wof:name": "Grand Hyatt Hotel Level 2",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
