@@ -11,7 +11,7 @@
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
     "mz:is_current": 1,
-    "sfo:level": 0,
+    "sfo:level": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -53,7 +53,7 @@
       }
     ],
     "wof:id": 1796942181,
-    "wof:lastmodified": 1681335463,
+    "wof:lastmodified": 1681344580,
     "wof:name": "Grand Hyatt Hotel Entrance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
