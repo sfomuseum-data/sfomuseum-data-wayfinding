@@ -2,17 +2,22 @@
   "id": 1863412743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2023-04-26",
+    "date:inception_upper": "2023-04-26",
+    "edtf:cessation": "..",
+    "edtf:inception": "2023-04-26",
     "geom:area": 0,
-    "geom:bbox": "-122.385621,37.615142,-122.385621,37.615142",
-    "geom:latitude": 37.61514193844207,
-    "geom:longitude": -122.38562087250811,
+    "geom:bbox": "-122.385638,37.615129,-122.385638,37.615129",
+    "geom:latitude": 37.61512902915696,
+    "geom:longitude": -122.3856375230484,
     "millsfield:wayfinding_detail": "HMT1",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 6,
     "sfomuseum:placetype": "waypoint",
+    "src:alt_geom": [
+      "sfomuseum-pathto-1796889549"
+    ],
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796889549,
@@ -21,14 +26,14 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1682469977,
-    "wof:geomhash": "755c8abdd38160ce87ee1b54aa3e979b",
+    "wof:geomhash": "a84f40426967d688aac46a1fab606bd4",
     "wof:hierarchy": [
       {
         "waypoint_id": 1863412743
       }
     ],
     "wof:id": 1863412743,
-    "wof:lastmodified": 1682530382,
+    "wof:lastmodified": 1682531009,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Blue Line",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
@@ -38,10 +43,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38562087250811,
-    37.61514193844207,
-    -122.38562087250811,
-    37.61514193844207
+    -122.3856375230484,
+    37.61512902915696,
+    -122.3856375230484,
+    37.61512902915696
   ],
-  "geometry": {"coordinates":[-122.38562087250811,37.61514193844207],"type":"Point"}
+  "geometry": {"coordinates":[-122.3856375230484,37.61512902915696],"type":"Point"}
 }
