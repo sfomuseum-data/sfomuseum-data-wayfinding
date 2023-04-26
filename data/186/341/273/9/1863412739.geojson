@@ -1,0 +1,48 @@
+{
+  "id": 1863412739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385678,37.615192,-122.385678,37.615192",
+    "geom:latitude": 37.615192425676256,
+    "geom:longitude": -122.38567767064657,
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "",
+    "mz:is_current": 1,
+    "sfo:level": 6,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjencies": [
+      1863412741,
+      1863412745,
+      1863412743
+    ],
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1682469975,
+    "wof:geomhash": "72a5c70c2382db565843ff620ed41305",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1863412739
+      }
+    ],
+    "wof:id": 1863412739,
+    "wof:lastmodified": 1682470297,
+    "wof:name": "AirTrain Harvey Milk Terminal 1 Station",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "waypoint",
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38567767064657,
+    37.615192425676256,
+    -122.38567767064657,
+    37.615192425676256
+  ],
+  "geometry": {"coordinates":[-122.38567767064657,37.615192425676256],"type":"Point"}
+}
