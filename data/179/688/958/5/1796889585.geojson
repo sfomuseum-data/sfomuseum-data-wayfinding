@@ -16,7 +16,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-      "sfomuseum-pathto-1796889549"
+      "sfomuseum-pathto-1863412743"
     ],
     "wof:adjencies": [
       1863412743,
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1796889585,
-    "wof:lastmodified": 1682470624,
+    "wof:lastmodified": 1682530636,
     "wof:name": "AirTrain International Terminal A Blue Line",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
