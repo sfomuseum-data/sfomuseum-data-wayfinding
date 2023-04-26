@@ -8,8 +8,8 @@
     "geom:bbox": "-122.385678,37.615192,-122.385678,37.615192",
     "geom:latitude": 37.615192425676256,
     "geom:longitude": -122.38567767064657,
-    "millsfield:wayfinding_detail": "",
-    "millsfield:wayfinding_kind": "",
+    "millsfield:wayfinding_detail": "HMT1",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 6,
     "sfomuseum:placetype": "waypoint",
@@ -25,14 +25,14 @@
     "wof:geomhash": "72a5c70c2382db565843ff620ed41305",
     "wof:hierarchy": [
       {
-        "venue_id": 1863412739
+        "waypoint_id": 1863412739
       }
     ],
     "wof:id": 1863412739,
-    "wof:lastmodified": 1682470297,
+    "wof:lastmodified": 1682530343,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Station",
     "wof:parent_id": 102527513,
-    "wof:placetype": "venue",
+    "wof:placetype": "custom",
     "wof:placetype_alt": "waypoint",
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],

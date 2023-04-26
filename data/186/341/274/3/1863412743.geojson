@@ -8,8 +8,8 @@
     "geom:bbox": "-122.385621,37.615142,-122.385621,37.615142",
     "geom:latitude": 37.61514193844207,
     "geom:longitude": -122.38562087250811,
-    "millsfield:wayfinding_detail": "",
-    "millsfield:wayfinding_kind": "",
+    "millsfield:wayfinding_detail": "HMT1",
+    "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
     "sfo:level": 6,
     "sfomuseum:placetype": "waypoint",
@@ -24,14 +24,14 @@
     "wof:geomhash": "755c8abdd38160ce87ee1b54aa3e979b",
     "wof:hierarchy": [
       {
-        "venue_id": 1863412743
+        "waypoint_id": 1863412743
       }
     ],
     "wof:id": 1863412743,
-    "wof:lastmodified": 1682470558,
+    "wof:lastmodified": 1682530382,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Blue Line",
     "wof:parent_id": 102527513,
-    "wof:placetype": "venue",
+    "wof:placetype": "custom",
     "wof:placetype_alt": "waypoint",
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
