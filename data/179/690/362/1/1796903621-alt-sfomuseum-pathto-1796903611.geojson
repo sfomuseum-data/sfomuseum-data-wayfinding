@@ -2,6 +2,7 @@
   "id": 1796903621,
   "type": "Feature",
   "properties": {
+    "edtf:deprecated": "2023-04-26",  		
     "geom:area": 0,
     "geom:bbox": "-122.388772,37.614655,-122.384501,37.616734",
     "geom:latitude": 37.61532383132209,
@@ -14,7 +15,8 @@
     "wof:lastmodified": 1675910298,
     "wof:name": "AirTrain Terminal 2 Red Line (path to AirTrain International Terminal A Red Line)",
     "wof:placetype": "custom",
-    "wof:repo": "sfomuseum-data-wayfinding"
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "mz:is_current": 0
   },
   "bbox": [
     -122.38877238550087,

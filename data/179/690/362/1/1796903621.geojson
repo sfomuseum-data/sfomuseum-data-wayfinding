@@ -11,12 +11,12 @@
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
-    "sfo:level": 0,
+    "sfo:level": 6,
     "sfomuseum:placetype": "waypoint",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-      "sfomuseum-pathto-1796903611"
+      "sfomuseum-pathto-1863412741"
     ],
     "wof:adjencies": [
       1863412741,
@@ -49,7 +49,7 @@
       }
     ],
     "wof:id": 1796903621,
-    "wof:lastmodified": 1682470594,
+    "wof:lastmodified": 1682529565,
     "wof:name": "AirTrain Terminal 2 Red Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",
