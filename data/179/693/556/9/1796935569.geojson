@@ -11,7 +11,7 @@
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
-    "sfo:level": 1,
+    "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796935569,
-    "wof:lastmodified": 1675806586,
+    "wof:lastmodified": 1683224546,
     "wof:name": "AirTrain Terminal 2 Stairs East Level 3",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

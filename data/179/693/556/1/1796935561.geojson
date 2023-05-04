@@ -11,9 +11,9 @@
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "ATR",
     "mz:is_current": 1,
-    "sfo:level": 0,
+    "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
       1796935565,
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796935561,
-    "wof:lastmodified": 1675806586,
+    "wof:lastmodified": 1683224601,
     "wof:name": "AirTrain Terminal 2 Bridge",
     "wof:parent_id": 1763588123,
     "wof:placetype": "venue",
