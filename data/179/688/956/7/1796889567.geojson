@@ -32,8 +32,8 @@
       85922583,
       554784711,
       85688637,
-      1763588175,
-      102085387
+      102085387,
+      1763588123
     ],
     "wof:country": "US",
     "wof:created": 1671674945,
@@ -50,7 +50,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1796889567,
-        "wing_id": 1763588175
+        "wing_id": 1763588123
       },
       {
         "building_id": 1763588121,
@@ -61,11 +61,11 @@
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1796889567,
-        "wing_id": 1763588175
+        "wing_id": 1763588123
       }
     ],
     "wof:id": 1796889567,
-    "wof:lastmodified": 1673470966,
+    "wof:lastmodified": 1696973500,
     "wof:name": "Boarding Area C Mid Pier",
     "wof:parent_id": 1763588233,
     "wof:placetype": "venue",
