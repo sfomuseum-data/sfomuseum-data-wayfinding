@@ -11,7 +11,7 @@
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
-    "sfo:level": 2,
+    "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1796889541,
-    "wof:lastmodified": 1673471629,
+    "wof:lastmodified": 1706571061,
     "wof:name": "Boarding Area G Mid Pier",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
