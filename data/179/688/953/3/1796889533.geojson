@@ -68,11 +68,13 @@
       }
     ],
     "wof:id": 1796889533,
-    "wof:lastmodified": 1673471926,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Boarding Area A Mid Pier",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

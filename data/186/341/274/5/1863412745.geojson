@@ -28,11 +28,13 @@
       }
     ],
     "wof:id": 1863412745,
-    "wof:lastmodified": 1682470306,
+    "wof:lastmodified": 1716597062,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Bridge",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

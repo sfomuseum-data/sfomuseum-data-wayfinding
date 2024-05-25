@@ -67,11 +67,13 @@
       }
     ],
     "wof:id": 1796889515,
-    "wof:lastmodified": 1673470902,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Boarding Area F West End Pier",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -62,11 +62,13 @@
       }
     ],
     "wof:id": 1796889611,
-    "wof:lastmodified": 1673470938,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Terminal 2 TSA Checkpoint",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -65,11 +65,13 @@
       }
     ],
     "wof:id": 1796889545,
-    "wof:lastmodified": 1673471661,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Boarding Area G Start Pier",
     "wof:parent_id": 1763588479,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

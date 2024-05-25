@@ -67,11 +67,13 @@
       }
     ],
     "wof:id": 1796903615,
-    "wof:lastmodified": 1673470891,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Boarding Area D Center Court",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

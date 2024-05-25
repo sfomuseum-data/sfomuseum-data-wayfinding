@@ -62,11 +62,13 @@
       }
     ],
     "wof:id": 1797041271,
-    "wof:lastmodified": 1675804530,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Gate G3 - G4 Waiting Area Level 3",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

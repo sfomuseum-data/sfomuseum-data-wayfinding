@@ -63,11 +63,13 @@
       }
     ],
     "wof:id": 1796889597,
-    "wof:lastmodified": 1675805245,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Terminal 2 Main Hall West",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

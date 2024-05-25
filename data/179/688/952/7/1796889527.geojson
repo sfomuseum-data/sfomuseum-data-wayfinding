@@ -65,11 +65,13 @@
       }
     ],
     "wof:id": 1796889527,
-    "wof:lastmodified": 1675900814,
+    "wof:lastmodified": 1716597062,
     "wof:name": "T3 - International Terminal Post-Security Connector (ITB)",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

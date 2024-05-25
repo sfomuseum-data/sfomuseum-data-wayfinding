@@ -53,11 +53,13 @@
       }
     ],
     "wof:id": 1796935615,
-    "wof:lastmodified": 1673471067,
+    "wof:lastmodified": 1716597062,
     "wof:name": "San Francisco International Airport BART Station Platform",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

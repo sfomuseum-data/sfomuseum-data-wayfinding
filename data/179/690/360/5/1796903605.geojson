@@ -59,11 +59,13 @@
       }
     ],
     "wof:id": 1796903605,
-    "wof:lastmodified": 1681339543,
+    "wof:lastmodified": 1716597062,
     "wof:name": "AirTrain Garage A Red Line",
     "wof:parent_id": 1729791949,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

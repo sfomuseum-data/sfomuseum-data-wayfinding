@@ -64,11 +64,13 @@
       }
     ],
     "wof:id": 1796889587,
-    "wof:lastmodified": 1675805245,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Terminal 3 Main Hall",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

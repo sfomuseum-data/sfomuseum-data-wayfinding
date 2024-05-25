@@ -61,11 +61,13 @@
       }
     ],
     "wof:id": 1796935713,
-    "wof:lastmodified": 1675805245,
+    "wof:lastmodified": 1716597062,
     "wof:name": "International Terminal Main Hall Departures Door 3",
     "wof:parent_id": 1745882445,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

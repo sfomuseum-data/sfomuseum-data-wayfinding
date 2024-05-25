@@ -62,11 +62,13 @@
       }
     ],
     "wof:id": 1796889579,
-    "wof:lastmodified": 1673470928,
+    "wof:lastmodified": 1716597062,
     "wof:name": "T2 - T3 Post-Security Connector (Kadish Gallery)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

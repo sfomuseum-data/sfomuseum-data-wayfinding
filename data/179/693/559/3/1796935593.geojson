@@ -61,11 +61,13 @@
       }
     ],
     "wof:id": 1796935593,
-    "wof:lastmodified": 1673471059,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Gate D7 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -59,11 +59,13 @@
       }
     ],
     "wof:id": 1796889543,
-    "wof:lastmodified": 1675806586,
+    "wof:lastmodified": 1716597062,
     "wof:name": "AirTrain Garage G / BART Blue Line",
     "wof:parent_id": 1477855991,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

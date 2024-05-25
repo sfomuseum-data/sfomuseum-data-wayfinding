@@ -61,11 +61,13 @@
       }
     ],
     "wof:id": 1796935573,
-    "wof:lastmodified": 1673471052,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Gate D17 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

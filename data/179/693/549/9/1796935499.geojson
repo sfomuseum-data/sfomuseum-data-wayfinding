@@ -61,11 +61,13 @@
       }
     ],
     "wof:id": 1796935499,
-    "wof:lastmodified": 1673471032,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Gate B9 Waiting Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

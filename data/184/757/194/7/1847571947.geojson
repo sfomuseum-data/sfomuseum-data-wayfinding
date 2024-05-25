@@ -56,11 +56,13 @@
       }
     ],
     "wof:id": 1847571947,
-    "wof:lastmodified": 1681339317,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Grand Hyatt Hotel 1st - 2nd Floor Stairs (1st Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

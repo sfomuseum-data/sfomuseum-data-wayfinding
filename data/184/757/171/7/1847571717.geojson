@@ -64,10 +64,13 @@
       }
     ],
     "wof:id": 1847571717,
-    "wof:lastmodified": 1681333293,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Gate B4-B5 Corridor",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

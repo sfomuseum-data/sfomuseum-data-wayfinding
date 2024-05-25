@@ -62,11 +62,13 @@
       }
     ],
     "wof:id": 1797018143,
-    "wof:lastmodified": 1675796893,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Terminal 3 Baggage Claim - Departures Staits F Side Level 1",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -66,11 +66,13 @@
       }
     ],
     "wof:id": 1796889499,
-    "wof:lastmodified": 1673470889,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Boarding Area E End Pier",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

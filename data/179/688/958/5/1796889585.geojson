@@ -65,11 +65,13 @@
       }
     ],
     "wof:id": 1796889585,
-    "wof:lastmodified": 1682530636,
+    "wof:lastmodified": 1716597062,
     "wof:name": "AirTrain International Terminal A Blue Line",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

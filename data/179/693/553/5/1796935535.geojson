@@ -59,11 +59,13 @@
       }
     ],
     "wof:id": 1796935535,
-    "wof:lastmodified": 1676491364,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Terminal 1 Boarding Area C Meet and Greet",
     "wof:parent_id": 1763588263,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

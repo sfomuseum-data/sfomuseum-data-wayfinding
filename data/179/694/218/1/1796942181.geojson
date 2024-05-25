@@ -53,11 +53,13 @@
       }
     ],
     "wof:id": 1796942181,
-    "wof:lastmodified": 1681344580,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Grand Hyatt Hotel Entrance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -63,11 +63,13 @@
       }
     ],
     "wof:id": 1796889571,
-    "wof:lastmodified": 1673470925,
+    "wof:lastmodified": 1716597062,
     "wof:name": "T2 - T3 Post-Security Connector (T2)",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []

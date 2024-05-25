@@ -61,11 +61,13 @@
       }
     ],
     "wof:id": 1796935607,
-    "wof:lastmodified": 1675804529,
+    "wof:lastmodified": 1716597062,
     "wof:name": "Aviation Museum and Library",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "waypoint",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
     "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []
