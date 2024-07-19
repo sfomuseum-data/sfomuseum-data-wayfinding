@@ -1,0 +1,76 @@
+{
+  "id": 1914676383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384155,37.614954,-122.384155,37.614954",
+    "geom:latitude": 37.614954463170605,
+    "geom:longitude": -122.384155364,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601309,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914601197,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1721416059,
+    "wof:geomhash": "deaff6a2061df3a3f8fc09f05f106485",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601309,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914676383,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601309,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914676383,
+        "wing_id": 1914601197
+      }
+    ],
+    "wof:id": 1914676383,
+    "wof:lastmodified": 1721416059,
+    "wof:name": "Harvey Milk Terminal 1 North Seating (post-security)",
+    "wof:parent_id": 1914601309,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.384155364,
+    37.614954463170605,
+    -122.384155364,
+    37.614954463170605
+  ],
+  "geometry": {"coordinates":[-122.384155364,37.614954463170605],"type":"Point"}
+}
