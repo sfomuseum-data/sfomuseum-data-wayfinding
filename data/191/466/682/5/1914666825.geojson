@@ -1,0 +1,90 @@
+{
+  "id": 1914666825,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.383888,37.617146,-122.383888,37.617146",
+    "geom:latitude": 37.617146296807014,
+    "geom:longitude": -122.38388812027164,
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 1,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:adjencies": [
+      1796889599,
+      1796889597,
+      1796935571,
+      1796935567
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601443,
+      1914601345
+    ],
+    "wof:country": "US",
+    "wof:created": 1721353657,
+    "wof:geomhash": "ad9c1dfa67df52d8720f43f391e424b0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601443,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914666825,
+        "wing_id": 1914601345
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601443,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914666825,
+        "wing_id": 1914601345
+      }
+    ],
+    "wof:id": 1914666825,
+    "wof:label": "AirTrain Terminal 2 Stairs West Level 2 (2024-06-17)",
+    "wof:lastmodified": 1721353657,
+    "wof:name": "AirTrain Terminal 2 Stairs West Level 2",
+    "wof:parent_id": 1914601443,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1797018115
+    ]
+  },
+  "bbox": [
+    -122.38388812027164,
+    37.617146296807014,
+    -122.38388812027164,
+    37.617146296807014
+  ],
+  "geometry": {"coordinates":[-122.38388812027164,37.617146296807014],"type":"Point"}
+}

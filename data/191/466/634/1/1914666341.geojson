@@ -1,0 +1,91 @@
+{
+  "id": 1914666341,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.385450,37.617987,-122.385450,37.617987",
+    "geom:latitude": 37.61798740667534,
+    "geom:longitude": -122.385450265805,
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "T3",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:adjencies": [
+      1797018123,
+      1796889587,
+      1796935373,
+      1796889593,
+      1797018133
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914600983,
+      1914600841
+    ],
+    "wof:country": "US",
+    "wof:created": 1721353585,
+    "wof:geomhash": "0606817e7a3b976d1a8bf888e4c38aba",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600983,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914666341,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600983,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914666341,
+        "wing_id": 1914600841
+      }
+    ],
+    "wof:id": 1914666341,
+    "wof:label": "Terminal 3 Main Hall E Side (2024-06-17)",
+    "wof:lastmodified": 1721353585,
+    "wof:name": "Terminal 3 Main Hall E Side",
+    "wof:parent_id": 1914600983,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796889589
+    ]
+  },
+  "bbox": [
+    -122.385450265805,
+    37.61798740667534,
+    -122.385450265805,
+    37.61798740667534
+  ],
+  "geometry": {"coordinates":[-122.385450265805,37.61798740667534],"type":"Point"}
+}

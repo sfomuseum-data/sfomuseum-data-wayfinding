@@ -2,7 +2,9 @@
   "id": 1797018151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.383719,37.616945,-122.383719,37.616945",
@@ -10,7 +12,7 @@
     "geom:longitude": -122.38371902542603,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1797018151,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721353651,
     "wof:name": "Terminal 2 Baggage Claim - Departures Stairs Level 2",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -67,7 +69,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666779
+    ],
     "wof:supersedes": []
   },
   "bbox": [

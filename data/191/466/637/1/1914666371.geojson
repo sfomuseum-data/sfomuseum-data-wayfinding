@@ -1,0 +1,82 @@
+{
+  "id": 1914666371,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.401286,37.628183,-122.401286,37.628183",
+    "geom:latitude": 37.628183439058354,
+    "geom:longitude": -122.40128570598473,
+    "millsfield:wayfinding_detail": "RCC",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 0,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1796889557"
+    ],
+    "wof:adjencies": [
+      1796982281,
+      1796889557
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1721353589,
+    "wof:geomhash": "338b822afa17d531de6c09308a9212f7",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914666371
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914666371
+      }
+    ],
+    "wof:id": 1914666371,
+    "wof:label": "AirTrain Rental Car Center Blue Line (Inbound) (2024-06-17)",
+    "wof:lastmodified": 1721353589,
+    "wof:name": "AirTrain Rental Car Center Blue Line (Inbound)",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796903633
+    ]
+  },
+  "bbox": [
+    -122.40128570598473,
+    37.628183439058354,
+    -122.40128570598473,
+    37.628183439058354
+  ],
+  "geometry": {"coordinates":[-122.40128570598473,37.628183439058354],"type":"Point"}
+}

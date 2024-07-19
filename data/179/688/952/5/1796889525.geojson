@@ -2,7 +2,9 @@
   "id": 1796889525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.387521,37.617710,-122.387521,37.617710",
@@ -10,7 +12,7 @@
     "geom:longitude": -122.38752057693226,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1796889525,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721353571,
     "wof:name": "Terminal 3 Main Hall F Side",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -73,7 +75,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666267
+    ],
     "wof:supersedes": []
   },
   "bbox": [

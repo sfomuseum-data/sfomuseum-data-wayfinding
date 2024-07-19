@@ -2,7 +2,9 @@
   "id": 1796935555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.382308,37.614905,-122.382308,37.614905",
@@ -10,7 +12,7 @@
     "geom:longitude": -122.3823084378752,
     "millsfield:wayfinding_detail": "C",
     "millsfield:wayfinding_kind": "T1",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1796935555,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721353630,
     "wof:name": "Gate C9 Waiting Area",
     "wof:parent_id": 1763588233,
     "wof:placetype": "venue",
@@ -69,7 +71,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666637
+    ],
     "wof:supersedes": []
   },
   "bbox": [

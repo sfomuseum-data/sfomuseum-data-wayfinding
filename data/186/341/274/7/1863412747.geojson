@@ -2,7 +2,9 @@
   "id": 1863412747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.385494,37.614644,-122.385494,37.614644",
@@ -10,7 +12,7 @@
     "geom:longitude": -122.38549445758916,
     "millsfield:wayfinding_detail": "HMT1",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 6,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
@@ -29,7 +31,7 @@
       }
     ],
     "wof:id": 1863412747,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721353666,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Stairs",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
@@ -37,7 +39,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666859
+    ],
     "wof:supersedes": []
   },
   "bbox": [

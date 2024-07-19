@@ -2,7 +2,9 @@
   "id": 1796889617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.388178,37.616962,-122.388178,37.616962",
@@ -10,7 +12,7 @@
     "geom:longitude": -122.3881782474558,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "SFO",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1796889617,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721353590,
     "wof:name": "T3 - International Terminal Pre-Security Connector T3",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -70,7 +72,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666375
+    ],
     "wof:supersedes": []
   },
   "bbox": [

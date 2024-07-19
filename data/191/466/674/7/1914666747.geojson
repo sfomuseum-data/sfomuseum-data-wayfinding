@@ -1,0 +1,91 @@
+{
+  "id": 1914666747,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.389610,37.615501,-122.389610,37.615501",
+    "geom:latitude": 37.615500902159965,
+    "geom:longitude": -122.38961013222554,
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "ITB",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:adjencies": [
+      1796935611,
+      1796889637,
+      1796935715,
+      1796935713,
+      1796903601
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601135,
+      1914600999
+    ],
+    "wof:country": "US",
+    "wof:created": 1721353648,
+    "wof:geomhash": "6aca40f979ac71be90b3963dfe53ef48",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601135,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914666747,
+        "wing_id": 1914600999
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601135,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914666747,
+        "wing_id": 1914600999
+      }
+    ],
+    "wof:id": 1914666747,
+    "wof:label": "International Terminal Main Hall A - G Side Connector West (2024-06-17)",
+    "wof:lastmodified": 1721353648,
+    "wof:name": "International Terminal Main Hall A - G Side Connector West",
+    "wof:parent_id": 1914601135,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796935613
+    ]
+  },
+  "bbox": [
+    -122.38961013222554,
+    37.615500902159965,
+    -122.38961013222554,
+    37.615500902159965
+  ],
+  "geometry": {"coordinates":[-122.38961013222554,37.615500902159965],"type":"Point"}
+}

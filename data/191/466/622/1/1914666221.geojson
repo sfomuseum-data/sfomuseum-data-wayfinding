@@ -1,0 +1,98 @@
+{
+  "id": 1914666221,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.384506,37.612861,-122.384506,37.612861",
+    "geom:latitude": 37.61286121211693,
+    "geom:longitude": -122.3845064703234,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1796935487",
+      "sfomuseum-pathto-1796935503"
+    ],
+    "wof:adjencies": [
+      1796889469,
+      1796935499,
+      1796935487,
+      1796935501,
+      1796935505,
+      1796935503,
+      1796935507,
+      1796889475
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601199,
+      1914601197
+    ],
+    "wof:country": "US",
+    "wof:created": 1721353560,
+    "wof:geomhash": "8254249977b8c228c5e1099460c48b2f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914666221,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914666221,
+        "wing_id": 1914601197
+      }
+    ],
+    "wof:id": 1914666221,
+    "wof:label": "Boarding Area B Mid Pier (2024-06-17)",
+    "wof:lastmodified": 1721353560,
+    "wof:name": "Boarding Area B Mid Pier",
+    "wof:parent_id": 1914601199,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796889471
+    ]
+  },
+  "bbox": [
+    -122.3845064703234,
+    37.61286121211693,
+    -122.3845064703234,
+    37.61286121211693
+  ],
+  "geometry": {"coordinates":[-122.3845064703234,37.61286121211693],"type":"Point"}
+}

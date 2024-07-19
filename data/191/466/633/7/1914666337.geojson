@@ -1,0 +1,93 @@
+{
+  "id": 1914666337,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.381536,37.617515,-122.381536,37.617515",
+    "geom:latitude": 37.617514823601844,
+    "geom:longitude": -122.38153636064618,
+    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_kind": "T2",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:adjencies": [
+      1796889487,
+      1796889489,
+      1796889491,
+      1796889493,
+      1796935573,
+      1796935575,
+      1796935603
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601349,
+      1914601345
+    ],
+    "wof:country": "US",
+    "wof:created": 1721353584,
+    "wof:geomhash": "9169d3e1dc4e32649f8ac24329ce3303",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601349,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914666337,
+        "wing_id": 1914601345
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601349,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914666337,
+        "wing_id": 1914601345
+      }
+    ],
+    "wof:id": 1914666337,
+    "wof:label": "Boarding Area D Center Court (2024-06-17)",
+    "wof:lastmodified": 1721353584,
+    "wof:name": "Boarding Area D Center Court",
+    "wof:parent_id": 1914601349,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796903615
+    ]
+  },
+  "bbox": [
+    -122.38153636064618,
+    37.617514823601844,
+    -122.38153636064618,
+    37.617514823601844
+  ],
+  "geometry": {"coordinates":[-122.38153636064618,37.617514823601844],"type":"Point"}
+}
