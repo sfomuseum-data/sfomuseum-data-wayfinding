@@ -17,6 +17,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666343
+    ],
     "wof:adjencies": [
       1796889581
     ],
@@ -64,7 +67,7 @@
     ],
     "wof:id": 1914666431,
     "wof:label": "Gate E2 Waiting Area (2024-06-17)",
-    "wof:lastmodified": 1721353595,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Gate E2 Waiting Area",
     "wof:parent_id": 1914600957,
     "wof:placetype": "venue",

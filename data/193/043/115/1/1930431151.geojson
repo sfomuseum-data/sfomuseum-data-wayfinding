@@ -17,6 +17,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wof:adjacenies": [
+      1914666747
+    ],
     "wof:adjencies": [
       1796935613
     ],
@@ -63,7 +66,7 @@
       }
     ],
     "wof:id": 1930431151,
-    "wof:lastmodified": 1721673244,
+    "wof:lastmodified": 1721677078,
     "wof:name": "International Terminal Main Hall Departures Door 2",
     "wof:parent_id": 1745882445,
     "wof:placetype": "venue",

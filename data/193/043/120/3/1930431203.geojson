@@ -16,6 +16,9 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
+    "wof:adjacenies": [
+      1930431201
+    ],
     "wof:adjencies": [
       1847571941
     ],
@@ -56,7 +59,7 @@
       }
     ],
     "wof:id": 1930431203,
-    "wof:lastmodified": 1721676185,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Grand Hyatt Hotel Conference Rooms (West)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

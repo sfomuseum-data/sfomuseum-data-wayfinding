@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666287,
+      1914666283,
+      1914666413
+    ],
     "wof:adjencies": [
       1796903585,
       1796889539,
@@ -60,7 +65,7 @@
     ],
     "wof:id": 1914666595,
     "wof:label": "AirTrain Terminal 3 Station (2024-06-17)",
-    "wof:lastmodified": 1721353623,
+    "wof:lastmodified": 1721677078,
     "wof:name": "AirTrain Terminal 3 Station",
     "wof:parent_id": 1914600839,
     "wof:placetype": "venue",

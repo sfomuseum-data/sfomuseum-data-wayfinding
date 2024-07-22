@@ -19,6 +19,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889549"
     ],
+    "wof:adjacenies": [
+      1914666279,
+      1914666861
+    ],
     "wof:adjencies": [
       1796889549,
       1863412739
@@ -63,7 +67,7 @@
     ],
     "wof:id": 1914666855,
     "wof:label": "AirTrain Harvey Milk Terminal 1 Blue Line (2024-06-17)",
-    "wof:lastmodified": 1721353665,
+    "wof:lastmodified": 1721677078,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Blue Line",
     "wof:parent_id": 1914600839,
     "wof:placetype": "custom",

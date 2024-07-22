@@ -17,6 +17,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666809
+    ],
     "wof:adjencies": [
       1797018159
     ],
@@ -64,7 +67,7 @@
     ],
     "wof:id": 1914666783,
     "wof:label": "Harvey Milk Terminal 1 Baggage Claim (2024-06-17)",
-    "wof:lastmodified": 1721353650,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Harvey Milk Terminal 1 Baggage Claim",
     "wof:parent_id": 1914601327,
     "wof:placetype": "venue",

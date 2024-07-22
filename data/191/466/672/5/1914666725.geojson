@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666793,
+      1914666663,
+      1914666277
+    ],
     "wof:adjencies": [
       1797041273,
       1797018069,
@@ -66,7 +71,7 @@
     ],
     "wof:id": 1914666725,
     "wof:label": "Gates G5 - G6 Stairs Level 3 (2024-06-17)",
-    "wof:lastmodified": 1721353646,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Gates G5 - G6 Stairs Level 3",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",

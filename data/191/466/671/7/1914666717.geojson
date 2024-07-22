@@ -17,6 +17,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666739
+    ],
     "wof:adjencies": [
       1796935611
     ],
@@ -64,7 +67,7 @@
     ],
     "wof:id": 1914666717,
     "wof:label": "International Terminal Main Hall (2024-06-17)",
-    "wof:lastmodified": 1721353645,
+    "wof:lastmodified": 1721677078,
     "wof:name": "International Terminal Main Hall",
     "wof:parent_id": 1914601135,
     "wof:placetype": "venue",

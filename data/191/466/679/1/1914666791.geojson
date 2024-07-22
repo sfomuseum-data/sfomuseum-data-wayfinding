@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666807,
+      1914666311
+    ],
     "wof:adjencies": [
       1797018169,
       1796903603
@@ -65,7 +69,7 @@
     ],
     "wof:id": 1914666791,
     "wof:label": "International Terminal Arrivals - Main Hall Stairs A Side Level 2 (2024-06-17)",
-    "wof:lastmodified": 1721353651,
+    "wof:lastmodified": 1721677078,
     "wof:name": "International Terminal Arrivals - Main Hall Stairs A Side Level 2",
     "wof:parent_id": 1914601129,
     "wof:placetype": "venue",

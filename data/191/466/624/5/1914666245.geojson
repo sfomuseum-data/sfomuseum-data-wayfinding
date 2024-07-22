@@ -17,6 +17,14 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666263,
+      1914666481,
+      1914666493,
+      1914666485,
+      1914666511,
+      1914666243
+    ],
     "wof:adjencies": [
       1796889523,
       1796935425,
@@ -69,7 +77,7 @@
     ],
     "wof:id": 1914666245,
     "wof:label": "Terminal 3 Post-Security F Side (2024-06-17)",
-    "wof:lastmodified": 1721353565,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Terminal 3 Post-Security F Side",
     "wof:parent_id": 1914600957,
     "wof:placetype": "venue",

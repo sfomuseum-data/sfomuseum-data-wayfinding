@@ -17,6 +17,15 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666213,
+      1914666229,
+      1914666231,
+      1914666223,
+      1914666685,
+      1914666673,
+      1914666695
+    ],
     "wof:adjencies": [
       1796889487,
       1796889489,
@@ -70,7 +79,7 @@
     ],
     "wof:id": 1914666337,
     "wof:label": "Boarding Area D Center Court (2024-06-17)",
-    "wof:lastmodified": 1721353584,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Boarding Area D Center Court",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",

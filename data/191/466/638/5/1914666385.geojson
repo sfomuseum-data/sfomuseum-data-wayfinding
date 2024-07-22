@@ -17,6 +17,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666251
+    ],
     "wof:adjencies": [
       1796889499
     ],
@@ -64,7 +67,7 @@
     ],
     "wof:id": 1914666385,
     "wof:label": "Gate E10 Waiting Area (2024-06-17)",
-    "wof:lastmodified": 1721353591,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Gate E10 Waiting Area",
     "wof:parent_id": 1914600917,
     "wof:placetype": "venue",

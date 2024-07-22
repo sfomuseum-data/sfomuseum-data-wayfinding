@@ -20,6 +20,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889543"
     ],
+    "wof:adjacenies": [
+      1914666607,
+      1930431143
+    ],
     "wof:adjencies": [
       1796982275,
       1796889543
@@ -68,7 +72,7 @@
     ],
     "wof:id": 1914666329,
     "wof:label": "Air Train International Terminal G Blue Line (2024-06-17)",
-    "wof:lastmodified": 1721353584,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Air Train International Terminal G Blue Line",
     "wof:parent_id": 1914601135,
     "wof:placetype": "venue",

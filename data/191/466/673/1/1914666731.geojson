@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666509,
+      1914666513,
+      1914666765
+    ],
     "wof:adjencies": [
       1796935469,
       1796935465,
@@ -66,7 +71,7 @@
     ],
     "wof:id": 1914666731,
     "wof:label": "Gate A3 - A5 Stairs Level 2 (2024-06-17)",
-    "wof:lastmodified": 1721353646,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Gate A3 - A5 Stairs Level 2",
     "wof:parent_id": 1914601001,
     "wof:placetype": "venue",

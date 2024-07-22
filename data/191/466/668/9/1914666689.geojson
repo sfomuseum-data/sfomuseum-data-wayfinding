@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666803,
+      1914666667,
+      1914666261
+    ],
     "wof:adjencies": [
       1797041275,
       1797018061,
@@ -66,7 +71,7 @@
     ],
     "wof:id": 1914666689,
     "wof:label": "Gates G9 - G10 Stairs Level 3 (2024-06-17)",
-    "wof:lastmodified": 1721353640,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Gates G9 - G10 Stairs Level 3",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",

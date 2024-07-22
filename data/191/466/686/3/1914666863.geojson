@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666761,
+      1914666275,
+      1914666269
+    ],
     "wof:adjencies": [
       1797018105,
       1796889533,
@@ -66,7 +71,7 @@
     ],
     "wof:id": 1914666863,
     "wof:label": "Gate A6 - A8 Waiting Area Level 3 (2024-06-17)",
-    "wof:lastmodified": 1721353669,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Gate A6 - A8 Waiting Area Level 3",
     "wof:parent_id": 1914601001,
     "wof:placetype": "venue",

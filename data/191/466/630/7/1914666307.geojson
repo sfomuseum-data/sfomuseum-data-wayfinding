@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666607,
+      1914666285,
+      1914666389
+    ],
     "wof:adjencies": [
       1796982275,
       1796903587,
@@ -66,7 +71,7 @@
     ],
     "wof:id": 1914666307,
     "wof:label": "International Terminal Main Hall G Side AirTrain Stairs (2024-06-17)",
-    "wof:lastmodified": 1721353581,
+    "wof:lastmodified": 1721677078,
     "wof:name": "International Terminal Main Hall G Side AirTrain Stairs",
     "wof:parent_id": 1914601135,
     "wof:placetype": "venue",

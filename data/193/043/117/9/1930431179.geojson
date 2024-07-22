@@ -16,6 +16,11 @@
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
+    "wof:adjacenies": [
+      1930431189,
+      1930431171,
+      1930431185
+    ],
     "wof:adjencies": [
       1847571935,
       1847571931,
@@ -58,7 +63,7 @@
       }
     ],
     "wof:id": 1930431179,
-    "wof:lastmodified": 1721675802,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Grand Hyatt Hotel 3rd - 4th Floor Stairs (3rd Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

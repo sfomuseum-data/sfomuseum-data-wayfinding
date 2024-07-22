@@ -17,6 +17,12 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wof:adjacenies": [
+      1914666333,
+      1914666243,
+      1914666343,
+      1914666425
+    ],
     "wof:adjencies": [
       1796889587,
       1796889507,
@@ -67,7 +73,7 @@
     ],
     "wof:id": 1914666383,
     "wof:label": "Terminal 3 Security TSA Checkpoint E Side (2024-06-17)",
-    "wof:lastmodified": 1721353591,
+    "wof:lastmodified": 1721677078,
     "wof:name": "Terminal 3 Security TSA Checkpoint E Side",
     "wof:parent_id": 1914600983,
     "wof:placetype": "venue",

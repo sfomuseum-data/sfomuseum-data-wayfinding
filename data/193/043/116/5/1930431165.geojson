@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wof:adjacenies": [
+      1914666623,
+      1930431163
+    ],
     "wof:adjencies": [
       1796982277,
       1796935619
@@ -55,7 +59,7 @@
       }
     ],
     "wof:id": 1930431165,
-    "wof:lastmodified": 1721675391,
+    "wof:lastmodified": 1721677078,
     "wof:name": "AirTrain BART Entrance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
