@@ -1,16 +1,18 @@
 {
-  "id": 1796889561,
+  "id": 1930431139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2024-07-22",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-07-22",
+    "date:inception_upper": "2024-07-22",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-07-22",
     "geom:area": 0,
     "geom:bbox": "-122.400202,37.634957,-122.400202,37.634957",
     "geom:latitude": 37.63495659688203,
     "geom:longitude": -122.40020209788976,
     "millsfield:wayfinding_detail": "PRK",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -40,7 +42,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1796889561
+        "venue_id": 1930431139
       },
       {
         "campus_id": 102527513,
@@ -48,11 +50,11 @@
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1796889561
+        "venue_id": 1930431139
       }
     ],
-    "wof:id": 1796889561,
-    "wof:lastmodified": 1716597062,
+    "wof:id": 1930431139,
+    "wof:lastmodified": 1721673240,
     "wof:name": "AirTrain Long-Term Parking Blue Line (Outbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -60,8 +62,10 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431139],
-    "wof:supersedes": []
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796889561
+    ]
   },
   "bbox": [
     -122.40020209788976,

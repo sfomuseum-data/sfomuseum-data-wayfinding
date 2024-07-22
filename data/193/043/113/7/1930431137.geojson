@@ -1,24 +1,31 @@
 {
-  "id": 1796889561,
+  "id": 1930431137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2024-07-22",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-07-22",
+    "date:inception_upper": "2024-07-22",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-07-22",
     "geom:area": 0,
-    "geom:bbox": "-122.400202,37.634957,-122.400202,37.634957",
-    "geom:latitude": 37.63495659688203,
-    "geom:longitude": -122.40020209788976,
+    "geom:bbox": "-122.392423,37.615883,-122.392423,37.615883",
+    "geom:latitude": 37.6158829005723,
+    "geom:longitude": -122.39242287613095,
     "millsfield:wayfinding_detail": "PRK",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1796903589"
+    ],
     "wof:adjencies": [
-      1796982279
+      1796903589,
+      1796982277
     ],
     "wof:belongsto": [
+      1477855991,
       102527513,
       102191575,
       85633793,
@@ -29,10 +36,11 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1671674943,
-    "wof:geomhash": "ebbd9f395116555d67c9c7bc209283da",
+    "wof:created": 1671820678,
+    "wof:geomhash": "e1fd472dc260414a0fad83e2d71e40d2",
     "wof:hierarchy": [
       {
+        "building_id": 1477855991,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -40,34 +48,37 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1796889561
+        "venue_id": 1930431137
       },
       {
+        "building_id": 1477855991,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1796889561
+        "venue_id": 1930431137
       }
     ],
-    "wof:id": 1796889561,
-    "wof:lastmodified": 1716597062,
-    "wof:name": "AirTrain Long-Term Parking Blue Line (Outbound)",
-    "wof:parent_id": 102527513,
+    "wof:id": 1930431137,
+    "wof:lastmodified": 1721673163,
+    "wof:name": "AirTrain Gargage G / BART Red Line",
+    "wof:parent_id": 1477855991,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431139],
-    "wof:supersedes": []
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796903597
+    ]
   },
   "bbox": [
-    -122.40020209788976,
-    37.63495659688203,
-    -122.40020209788976,
-    37.63495659688203
+    -122.39242287613095,
+    37.6158829005723,
+    -122.39242287613095,
+    37.6158829005723
   ],
-  "geometry": {"coordinates":[-122.40020209788976,37.63495659688203],"type":"Point"}
+  "geometry": {"coordinates":[-122.39242287613095,37.6158829005723],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 1796889557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.399520,37.621685,-122.399520,37.621685",
@@ -10,7 +10,7 @@
     "geom:longitude": -122.39952007951251,
     "millsfield:wayfinding_detail": "SFO",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -63,7 +63,7 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [1930431145],
     "wof:supersedes": []
   },
   "bbox": [
