@@ -1,26 +1,29 @@
 {
-  "id": 1796903635,
+  "id": 1930431157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2024-07-22",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-07-22",
+    "date:inception_upper": "2024-07-22",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-07-22",
     "geom:area": 0,
-    "geom:bbox": "-122.400334,37.634871,-122.400334,37.634871",
-    "geom:latitude": 37.63487108296516,
-    "geom:longitude": -122.4003342557613,
+    "geom:bbox": "-122.400291,37.634972,-122.400291,37.634972",
+    "geom:latitude": 37.634972022421096,
+    "geom:longitude": -122.40029129399466,
     "millsfield:wayfinding_detail": "PRK",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-      "sfomuseum-pathto-1796903633"
+      "sfomuseum-pathto-1796903637"
     ],
     "wof:adjencies": [
-      1796982279,
-      1796903633
+      1796903637,
+      1796903635,
+      1796889561
     ],
     "wof:belongsto": [
       102527513,
@@ -33,8 +36,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1671820692,
-    "wof:geomhash": "06c6c23d773fc9aaaad73f62db97f1d2",
+    "wof:created": 1672858748,
+    "wof:geomhash": "1a3fb732f6ecd4306beb4cad30b5fe11",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -44,7 +47,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1796903635
+        "venue_id": 1930431157
       },
       {
         "campus_id": 102527513,
@@ -52,26 +55,28 @@
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1796903635
+        "venue_id": 1930431157
       }
     ],
-    "wof:id": 1796903635,
-    "wof:lastmodified": 1716597062,
-    "wof:name": "AirTrain Long Term Parking Blue Line (Inbound)",
+    "wof:id": 1930431157,
+    "wof:lastmodified": 1721675389,
+    "wof:name": "AirTrain Long-Term Parking Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431169],
-    "wof:supersedes": []
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796982279
+    ]
   },
   "bbox": [
-    -122.4003342557613,
-    37.63487108296516,
-    -122.4003342557613,
-    37.63487108296516
+    -122.40029129399466,
+    37.634972022421096,
+    -122.40029129399466,
+    37.634972022421096
   ],
-  "geometry": {"coordinates":[-122.4003342557613,37.63487108296516],"type":"Point"}
+  "geometry": {"coordinates":[-122.40029129399466,37.634972022421096],"type":"Point"}
 }

@@ -1,23 +1,25 @@
 {
-  "id": 1796942181,
+  "id": 1930431165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2024-07-22",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-07-22",
+    "date:inception_upper": "2024-07-22",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-07-22",
     "geom:area": 0,
-    "geom:bbox": "-122.393850,37.612936,-122.393850,37.612936",
-    "geom:latitude": 37.61293647580603,
-    "geom:longitude": -122.39384964140598,
-    "millsfield:wayfinding_detail": "",
-    "millsfield:wayfinding_kind": "GHH",
-    "mz:is_current": 0,
-    "sfo:level": 1,
+    "geom:bbox": "-122.392153,37.616055,-122.392153,37.616055",
+    "geom:latitude": 37.616054592624934,
+    "geom:longitude": -122.39215266007078,
+    "millsfield:wayfinding_detail": "BART",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
-      1847571947,
-      1796935705
+      1796982277,
+      1796935619
     ],
     "wof:belongsto": [
       102527513,
@@ -30,8 +32,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1672346854,
-    "wof:geomhash": "a447b64c1849e959bc9081ca3c951ce0",
+    "wof:created": 1672280765,
+    "wof:geomhash": "0c57e220baa357f1503f85a66ee0b8e7",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -41,7 +43,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1796942181
+        "venue_id": 1930431165
       },
       {
         "campus_id": 102527513,
@@ -49,26 +51,28 @@
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1796942181
+        "venue_id": 1930431165
       }
     ],
-    "wof:id": 1796942181,
-    "wof:lastmodified": 1716597062,
-    "wof:name": "Grand Hyatt Hotel Entrance",
+    "wof:id": 1930431165,
+    "wof:lastmodified": 1721675391,
+    "wof:name": "AirTrain BART Entrance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431199],
-    "wof:supersedes": []
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796935751
+    ]
   },
   "bbox": [
-    -122.39384964140598,
-    37.61293647580603,
-    -122.39384964140598,
-    37.61293647580603
+    -122.39215266007078,
+    37.616054592624934,
+    -122.39215266007078,
+    37.616054592624934
   ],
-  "geometry": {"coordinates":[-122.39384964140598,37.61293647580603],"type":"Point"}
+  "geometry": {"coordinates":[-122.39215266007078,37.616054592624934],"type":"Point"}
 }

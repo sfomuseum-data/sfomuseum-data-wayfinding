@@ -1,24 +1,27 @@
 {
-  "id": 1847571931,
+  "id": 1930431187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2024-07-22",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-07-22",
+    "date:inception_upper": "2024-07-22",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-07-22",
     "geom:area": 0,
-    "geom:bbox": "-122.393899,37.612983,-122.393899,37.612983",
-    "geom:latitude": 37.6129825604665,
-    "geom:longitude": -122.39389894127531,
+    "geom:bbox": "-122.393932,37.612919,-122.393932,37.612919",
+    "geom:latitude": 37.61291902490805,
+    "geom:longitude": -122.39393213803626,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
-    "mz:is_current": 0,
-    "sfo:level": 4,
+    "mz:is_current": 1,
+    "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:adjencies": [
+      1796942177,
       1796942179,
-      1847571937,
-      1847571929,
-      1847571933
+      1796935705,
+      1847571941
     ],
     "wof:belongsto": [
       1477856005,
@@ -32,8 +35,8 @@
       102085387
     ],
     "wof:country": "US",
-    "wof:created": 1681333289,
-    "wof:geomhash": "a03909f34603e82d7fb440e2bed29d1e",
+    "wof:created": 1672346851,
+    "wof:geomhash": "b6c897e3315c1edb791082fa610892df",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -44,7 +47,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1847571931
+        "venue_id": 1930431187
       },
       {
         "building_id": 1477856005,
@@ -53,26 +56,28 @@
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1847571931
+        "venue_id": 1930431187
       }
     ],
-    "wof:id": 1847571931,
-    "wof:lastmodified": 1716597062,
-    "wof:name": "Grand Hyatt Hotel 3rd - 4th Floor Stairs (4th Floor)",
+    "wof:id": 1930431187,
+    "wof:lastmodified": 1721675870,
+    "wof:name": "Grand Hyatt Hotel 1st - 4th Floor Elevators (2nd Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431171],
-    "wof:supersedes": []
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796942175
+    ]
   },
   "bbox": [
-    -122.39389894127531,
-    37.6129825604665,
-    -122.39389894127531,
-    37.6129825604665
+    -122.39393213803626,
+    37.61291902490805,
+    -122.39393213803626,
+    37.61291902490805
   ],
-  "geometry": {"coordinates":[-122.39389894127531,37.6129825604665],"type":"Point"}
+  "geometry": {"coordinates":[-122.39393213803626,37.61291902490805],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 1796935619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.391742,37.616154,-122.391742,37.616154",
@@ -10,7 +10,7 @@
     "geom:longitude": -122.39174210835321,
     "millsfield:wayfinding_detail": "BART",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -61,7 +61,7 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [1930431163],
     "wof:supersedes": []
   },
   "bbox": [
