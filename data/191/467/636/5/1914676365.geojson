@@ -13,6 +13,7 @@
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:adjacencies": [
       1914676391,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1914676365,
-    "wof:lastmodified": 1721762949,
+    "wof:lastmodified": 1721769051,
     "wof:name": "Harvey Milk Terminal 1 North Exit ",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",

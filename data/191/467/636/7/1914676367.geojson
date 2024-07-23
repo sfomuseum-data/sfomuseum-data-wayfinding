@@ -2,6 +2,8 @@
   "id": 1914676367,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
     "edtf:cessation": "",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
@@ -11,12 +13,13 @@
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 1,
     "src:geom": "unknown",
     "wof:adjacencies": [
-    1914676359,
-     1914666227,
-     1914676365,
-     1914676369
+      1914676359,
+      1914666227,
+      1914676365,
+      1914676369
     ],
     "wof:belongsto": [
       1914600839,
@@ -61,7 +64,7 @@
       }
     ],
     "wof:id": 1914676367,
-    "wof:lastmodified": 1721416050,
+    "wof:lastmodified": 1721769138,
     "wof:name": "Harvey Milk Terminal 1 North BAB",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",
