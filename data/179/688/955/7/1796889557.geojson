@@ -2,6 +2,8 @@
   "id": 1796889557,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
@@ -18,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889551"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889551
     ],
     "wof:belongsto": [
@@ -55,7 +57,7 @@
       }
     ],
     "wof:id": 1796889557,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain Westfield Road Station (Inbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -63,7 +65,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431145],
+    "wof:superseded_by": [
+      1930431145
+    ],
     "wof:supersedes": []
   },
   "bbox": [

@@ -2,6 +2,8 @@
   "id": 1847571943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
@@ -14,7 +16,7 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1847571941
     ],
     "wof:belongsto": [
@@ -54,7 +56,7 @@
       }
     ],
     "wof:id": 1847571943,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Grand Hyatt Hotel Conference Rooms (West)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -62,7 +64,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431203],
+    "wof:superseded_by": [
+      1930431203
+    ],
     "wof:supersedes": []
   },
   "bbox": [

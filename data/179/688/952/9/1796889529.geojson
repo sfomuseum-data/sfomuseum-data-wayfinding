@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797041279,
       1797041275,
       1797018077,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1796889529,
-    "wof:lastmodified": 1721353569,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Boarding Area G End Pier",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

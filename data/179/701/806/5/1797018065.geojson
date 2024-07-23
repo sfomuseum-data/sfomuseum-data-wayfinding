@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018073,
       1796935457
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1797018065,
-    "wof:lastmodified": 1721353634,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Gate G11 - G14 Stairs Level 2",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

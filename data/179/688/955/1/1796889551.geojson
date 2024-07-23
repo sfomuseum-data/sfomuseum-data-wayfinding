@@ -20,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889565"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889565,
       1796935709
     ],
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796889551,
-    "wof:lastmodified": 1721353576,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain Grand Hyatt Hotel Blue Line",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",

@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018159
     ],
     "wof:belongsto": [
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1813209007,
-    "wof:lastmodified": 1721353660,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Harvey Milk Terminal 1 Arrivals Door 1",
     "wof:parent_id": 1763588263,
     "wof:placetype": "venue",

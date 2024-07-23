@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018087
     ],
     "wof:belongsto": [
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796935477,
-    "wof:lastmodified": 1721353620,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Gates A11 - A15 Waiting Area",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

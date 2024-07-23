@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1863412747,
       1797018161,
       1796889631,
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1796889629,
-    "wof:lastmodified": 1721353592,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Harvey Milk Terminal 1 Main Hall",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

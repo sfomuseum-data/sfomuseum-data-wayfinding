@@ -20,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889557"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796982281,
       1796889557
     ],
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796903633,
-    "wof:lastmodified": 1721353589,
+    "wof:lastmodified": 1721695349,
     "wof:name": "AirTrain Rental Car Center Blue Line (Inbound)",
     "wof:parent_id": 1729791943,
     "wof:placetype": "venue",

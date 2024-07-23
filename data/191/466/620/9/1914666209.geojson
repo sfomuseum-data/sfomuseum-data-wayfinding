@@ -17,17 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
-    "wof:adjacenies": [
+    "wof:adjacencies": [
       1914666217,
       1914666593,
       1914666701,
       1914666323
-    ],
-    "wof:adjencies": [
-      1796889479,
-      1796935539,
-      1796935541,
-      1796889567
     ],
     "wof:belongsto": [
       102527513,
@@ -73,7 +67,7 @@
     ],
     "wof:id": 1914666209,
     "wof:label": "Boarding Area C Start Pier (2024-06-17)",
-    "wof:lastmodified": 1721677078,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Boarding Area C Start Pier",
     "wof:parent_id": 1914601421,
     "wof:placetype": "venue",

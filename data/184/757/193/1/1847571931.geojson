@@ -2,6 +2,8 @@
   "id": 1847571931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
@@ -14,7 +16,7 @@
     "sfo:level": 4,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796942179,
       1847571937,
       1847571929,
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1847571931,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Grand Hyatt Hotel 3rd - 4th Floor Stairs (4th Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -65,7 +67,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431171],
+    "wof:superseded_by": [
+      1930431171
+    ],
     "wof:supersedes": []
   },
   "bbox": [

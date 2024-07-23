@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889577,
       1796889497
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796889575,
-    "wof:lastmodified": 1721353582,
+    "wof:lastmodified": 1721695350,
     "wof:name": "T2 - T3 Post-Security Connector (T3)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",

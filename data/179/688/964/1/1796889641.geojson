@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889635,
       1796889639,
       1796889619,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1796889641,
-    "wof:lastmodified": 1721353592,
+    "wof:lastmodified": 1721695350,
     "wof:name": "International Terminal Main Hall G Side East",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

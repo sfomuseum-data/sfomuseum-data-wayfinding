@@ -16,15 +16,10 @@
     "sfo:level": 4,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjacenies": [
+    "wof:adjacencies": [
       1930431171,
       1930431173,
       1930431147
-    ],
-    "wof:adjencies": [
-      1847571931,
-      1847571929,
-      1796903629
     ],
     "wof:belongsto": [
       1477856005,
@@ -63,7 +58,7 @@
       }
     ],
     "wof:id": 1930431161,
-    "wof:lastmodified": 1721677078,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Grand Hyatt Hotel Lobby",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

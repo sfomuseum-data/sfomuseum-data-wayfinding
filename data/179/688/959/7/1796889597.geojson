@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018115,
       1796889599,
       1796889595
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1796889597,
-    "wof:lastmodified": 1721353587,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Terminal 2 Main Hall West",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

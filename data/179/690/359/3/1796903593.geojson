@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889545,
       1796889641
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796903593,
-    "wof:lastmodified": 1721353576,
+    "wof:lastmodified": 1721695349,
     "wof:name": "International Terminal G Side TSA Checkpoint",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

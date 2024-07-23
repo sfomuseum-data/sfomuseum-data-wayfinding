@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889503
     ],
     "wof:belongsto": [
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796935361,
-    "wof:lastmodified": 1721353600,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Gate E7 Waiting Area",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",

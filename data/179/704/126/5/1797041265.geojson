@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889533,
       1796889535,
       1797018103
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1797041265,
-    "wof:lastmodified": 1721353671,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Gate A9 - A10 Waiting Area Level 3",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

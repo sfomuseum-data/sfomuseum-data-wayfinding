@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889623,
       1796889625
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796942183,
-    "wof:lastmodified": 1721353594,
+    "wof:lastmodified": 1721695350,
     "wof:name": "International Terminal - Terminal 1 Pre-Security Connector",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

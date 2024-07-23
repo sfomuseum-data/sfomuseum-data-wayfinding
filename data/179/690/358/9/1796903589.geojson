@@ -20,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796903585"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796982275,
       1796903585
     ],
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796903589,
-    "wof:lastmodified": 1721353578,
+    "wof:lastmodified": 1721695349,
     "wof:name": "AirTrain International Terminal G Red Line",
     "wof:parent_id": 1729791965,
     "wof:placetype": "venue",

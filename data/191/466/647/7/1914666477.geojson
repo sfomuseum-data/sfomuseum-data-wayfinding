@@ -17,17 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
-    "wof:adjacenies": [
+    "wof:adjacencies": [
       1930431147,
       1914666665,
       1914666299,
       1914666289
-    ],
-    "wof:adjencies": [
-      1796903629,
-      1796935709,
-      1796903599,
-      1796889551
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +58,7 @@
     ],
     "wof:id": 1914666477,
     "wof:label": "AirTrain Hotel Grand Hyatt Escalator (2024-06-17)",
-    "wof:lastmodified": 1721677078,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain Hotel Grand Hyatt Escalator",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

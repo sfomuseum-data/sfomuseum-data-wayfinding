@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797041265,
       1796889533,
       1797018089
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1797018103,
-    "wof:lastmodified": 1721353649,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Gate A9 - A10 Stairs Level 3",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

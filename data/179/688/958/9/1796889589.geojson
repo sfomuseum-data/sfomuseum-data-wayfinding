@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018123,
       1796889587,
       1796935373,
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1796889589,
-    "wof:lastmodified": 1721353585,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Terminal 3 Main Hall E Side",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

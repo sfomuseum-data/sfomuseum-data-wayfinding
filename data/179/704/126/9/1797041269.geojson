@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018085,
       1796889545
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1797041269,
-    "wof:lastmodified": 1721353671,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Gate G1 - G2 Waiting Area Level 3",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

@@ -21,7 +21,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796903611"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1863412739,
       1796903611
     ],
@@ -31,12 +31,12 @@
     "wof:geomhash": "fb5430c7483c3aad464fd58e0abb0d9b",
     "wof:hierarchy": [
       {
-        "custom_id": 1863412741,
+        "[\n      \"waypoint\"\n    ]_id": 1863412741,
         "waypoint_id": 1863412741
       }
     ],
     "wof:id": 1863412741,
-    "wof:lastmodified": 1721353665,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Red Line",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

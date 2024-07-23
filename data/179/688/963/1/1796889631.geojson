@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889629,
       1796889473,
       1796889475
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1796889631,
-    "wof:lastmodified": 1721353592,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Terminal 1 TSA Security Checkpoint",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

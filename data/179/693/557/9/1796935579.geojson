@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889489
     ],
     "wof:belongsto": [
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796935579,
-    "wof:lastmodified": 1721353641,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Gate D14 Waiting Area",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

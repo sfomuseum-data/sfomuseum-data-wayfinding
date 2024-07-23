@@ -2,6 +2,8 @@
   "id": 1796935751,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
@@ -15,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796982277,
       1796935619
     ],
@@ -53,7 +55,7 @@
       }
     ],
     "wof:id": 1796935751,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain BART Entrance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -61,7 +63,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431165],
+    "wof:superseded_by": [
+      1930431165
+    ],
     "wof:supersedes": []
   },
   "bbox": [

@@ -20,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889585"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796982263,
       1796889585
     ],
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1796889565,
-    "wof:lastmodified": 1721353581,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain Garage A Blue Line",
     "wof:parent_id": 1729791949,
     "wof:placetype": "venue",

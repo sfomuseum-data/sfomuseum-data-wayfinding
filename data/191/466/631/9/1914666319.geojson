@@ -20,13 +20,9 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796903599"
     ],
-    "wof:adjacenies": [
+    "wof:adjacencies": [
       1914666545,
       1914666299
-    ],
-    "wof:adjencies": [
-      1796982263,
-      1796903599
     ],
     "wof:belongsto": [
       102527513,
@@ -66,7 +62,7 @@
     ],
     "wof:id": 1914666319,
     "wof:label": "AirTrain Garage A Red Line (2024-06-17)",
-    "wof:lastmodified": 1721677078,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain Garage A Red Line",
     "wof:parent_id": 1477855967,
     "wof:placetype": "venue",

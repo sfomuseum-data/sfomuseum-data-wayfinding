@@ -16,7 +16,7 @@
     "sfo:level": 6,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1863412741,
       1863412745,
       1863412743
@@ -27,12 +27,12 @@
     "wof:geomhash": "72a5c70c2382db565843ff620ed41305",
     "wof:hierarchy": [
       {
-        "custom_id": 1863412739,
+        "[\n      \"waypoint\"\n    ]_id": 1863412739,
         "waypoint_id": 1863412739
       }
     ],
     "wof:id": 1863412739,
-    "wof:lastmodified": 1721353666,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

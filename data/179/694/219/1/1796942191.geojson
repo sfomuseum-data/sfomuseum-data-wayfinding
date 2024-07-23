@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889619,
       1796889617
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796942191,
-    "wof:lastmodified": 1721353601,
+    "wof:lastmodified": 1721695350,
     "wof:name": "T3 - International Terminal Pre-Security Connector",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

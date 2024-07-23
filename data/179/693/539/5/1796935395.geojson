@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889517
     ],
     "wof:belongsto": [
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796935395,
-    "wof:lastmodified": 1721353597,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Gate F9 Waiting Area",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

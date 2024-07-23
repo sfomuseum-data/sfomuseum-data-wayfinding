@@ -17,17 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjacenies": [
+    "wof:adjacencies": [
       1930431171,
       1930431183,
       1930431185,
       1930431187
-    ],
-    "wof:adjencies": [
-      1847571931,
-      1796935705,
-      1796942177,
-      1796942175
     ],
     "wof:belongsto": [
       1477856005,
@@ -66,7 +60,7 @@
       }
     ],
     "wof:id": 1930431175,
-    "wof:lastmodified": 1721677078,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Grand Hyatt Hotel 1st - 4th Floor Elevators (4th Floor)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

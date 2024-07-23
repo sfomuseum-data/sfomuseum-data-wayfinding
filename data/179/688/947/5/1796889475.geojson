@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1847571717,
       1796935493,
       1796935495,
@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1796889475,
-    "wof:lastmodified": 1721353560,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Boarding Area B Start Pier",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

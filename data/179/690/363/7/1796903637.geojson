@@ -2,6 +2,8 @@
   "id": 1796903637,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
@@ -18,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796982279"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796982279,
       1796903641
     ],
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796903637,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Long Term Parking 2",
     "wof:parent_id": 1477855987,
     "wof:placetype": "venue",
@@ -67,7 +69,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431167],
+    "wof:superseded_by": [
+      1930431167
+    ],
     "wof:supersedes": []
   },
   "bbox": [

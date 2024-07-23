@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796935459,
       1797018099
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796935461,
-    "wof:lastmodified": 1721353609,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Gate A2 Waiting Area",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

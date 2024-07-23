@@ -20,13 +20,9 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796982279"
     ],
-    "wof:adjacenies": [
+    "wof:adjacencies": [
       1930431157,
       1930431181
-    ],
-    "wof:adjencies": [
-      1796982279,
-      1796903641
     ],
     "wof:belongsto": [
       1477855987,
@@ -65,7 +61,7 @@
       }
     ],
     "wof:id": 1930431167,
-    "wof:lastmodified": 1721677078,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Long Term Parking 2",
     "wof:parent_id": 1477855987,
     "wof:placetype": "venue",

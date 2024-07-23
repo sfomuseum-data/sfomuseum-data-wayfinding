@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018131,
       1797018133,
       1797018135,
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1797018139,
-    "wof:lastmodified": 1721353664,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Terminal 3 Baggage Claim E Side",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",

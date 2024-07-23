@@ -2,6 +2,8 @@
   "id": 1796982279,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
@@ -18,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796903637"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796903637,
       1796903635,
       1796889561
@@ -57,7 +59,7 @@
       }
     ],
     "wof:id": 1796982279,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "AirTrain Long-Term Parking Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -65,7 +67,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431157],
+    "wof:superseded_by": [
+      1930431157
+    ],
     "wof:supersedes": []
   },
   "bbox": [

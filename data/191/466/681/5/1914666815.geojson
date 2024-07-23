@@ -17,13 +17,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
-    "wof:adjacenies": [
+    "wof:adjacencies": [
       1914666843,
       1914666683
-    ],
-    "wof:adjencies": [
-      1797018119,
-      1796935571
     ],
     "wof:belongsto": [
       102527513,
@@ -69,7 +65,7 @@
     ],
     "wof:id": 1914666815,
     "wof:label": "Terminal 2 Baggage Claim - Boarding Area D Meet and Greet Stairs Level 2 (2024-06-17)",
-    "wof:lastmodified": 1721677078,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Terminal 2 Baggage Claim - Boarding Area D Meet and Greet Stairs Level 2",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",

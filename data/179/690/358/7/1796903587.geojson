@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889619,
       1796889621,
       1796903591,
@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1796903587,
-    "wof:lastmodified": 1721353575,
+    "wof:lastmodified": 1721695349,
     "wof:name": "International Terminal Main Hall G Side 3rd - 2nd Stairs",
     "wof:parent_id": 1729791965,
     "wof:placetype": "venue",

@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889635
     ],
     "wof:belongsto": [
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1796935719,
-    "wof:lastmodified": 1721353649,
+    "wof:lastmodified": 1721695350,
     "wof:name": "International Terminal Main Hall A Side Meet and Greet",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

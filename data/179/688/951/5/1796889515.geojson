@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796935411,
       1796935413,
       1796935415,
@@ -69,7 +69,7 @@
       }
     ],
     "wof:id": 1796889515,
-    "wof:lastmodified": 1721353564,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Boarding Area F West End Pier",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

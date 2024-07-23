@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018099,
       1796889531
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1797018097,
-    "wof:lastmodified": 1721353648,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Gate A1 - A2 Stairs Level 2",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

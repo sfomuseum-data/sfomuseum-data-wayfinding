@@ -19,7 +19,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1847562719,
       1847562735
     ],
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1847562721,
-    "wof:lastmodified": 1721353660,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Harvey Milk Terminal 1 to International Terminal A Connector (Harvey Milk Terminal)",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

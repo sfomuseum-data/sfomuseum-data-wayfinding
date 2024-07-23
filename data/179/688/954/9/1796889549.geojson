@@ -20,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889539"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889539,
       1796982269
     ],
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1796889549,
-    "wof:lastmodified": 1721353574,
+    "wof:lastmodified": 1721695349,
     "wof:name": "AirTrain Terminal 2 Blue Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",

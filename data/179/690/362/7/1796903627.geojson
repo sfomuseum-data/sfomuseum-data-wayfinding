@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796903623,
       1796935571
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1796903627,
-    "wof:lastmodified": 1721353605,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Terminal 2 SkyTerrace Elevator (Level 2)",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

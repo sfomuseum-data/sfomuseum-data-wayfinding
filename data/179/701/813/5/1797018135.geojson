@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018139,
       1797018141
     ],
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1797018135,
-    "wof:lastmodified": 1721353658,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Terminal 3 Arrivals / Baggage Claim Stairs Level 1",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",

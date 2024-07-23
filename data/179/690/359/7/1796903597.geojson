@@ -2,6 +2,8 @@
   "id": 1796903597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
@@ -18,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796903589"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796903589,
       1796982277
     ],
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796903597,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "AirTrain Gargage G / BART Red Line",
     "wof:parent_id": 1477855991,
     "wof:placetype": "venue",
@@ -67,7 +69,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [1930431137],
+    "wof:superseded_by": [
+      1930431137
+    ],
     "wof:supersedes": []
   },
   "bbox": [

@@ -17,7 +17,7 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796935385,
       1796889509,
       1796889513,
@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1796889511,
-    "wof:lastmodified": 1721353564,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Boarding Area F Mid Pier",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",
