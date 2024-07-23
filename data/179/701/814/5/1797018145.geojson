@@ -2,7 +2,9 @@
   "id": 1797018145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.388060,37.616971,-122.388060,37.616971",
@@ -10,12 +12,12 @@
     "geom:longitude": -122.38805962045913,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018121,
       1796889525,
       1797018143
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1797018145,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Terminal 3 Baggage Claim - Departures Stairs F Side Level 2",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
@@ -71,7 +73,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666835
+    ],
     "wof:supersedes": []
   },
   "bbox": [

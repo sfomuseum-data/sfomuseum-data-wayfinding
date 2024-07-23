@@ -1,0 +1,85 @@
+{
+  "id": 1914666305,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.391827,37.613789,-122.391827,37.613789",
+    "geom:latitude": 37.613788971933225,
+    "geom:longitude": -122.39182669700823,
+    "millsfield:wayfinding_detail": "PRK",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 5,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1914666347"
+    ],
+    "wof:adjacencies": [
+      1914666545,
+      1914666347
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1477855967
+    ],
+    "wof:country": "US",
+    "wof:created": 1721353581,
+    "wof:geomhash": "1ebf677b7e9670fc12eadc9b2eafc236",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855967,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914666305
+      },
+      {
+        "building_id": 1477855967,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914666305
+      }
+    ],
+    "wof:id": 1914666305,
+    "wof:label": "AirTrain Garage A Blue Line (2024-06-17)",
+    "wof:lastmodified": 1721760078,
+    "wof:name": "AirTrain Garage A Blue Line",
+    "wof:parent_id": 1477855967,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796889565
+    ]
+  },
+  "bbox": [
+    -122.39182669700823,
+    37.613788971933225,
+    -122.39182669700823,
+    37.613788971933225
+  ],
+  "geometry": {"coordinates":[-122.39182669700823,37.613788971933225],"type":"Point"}
+}

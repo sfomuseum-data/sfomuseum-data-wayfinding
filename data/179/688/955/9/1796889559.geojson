@@ -2,7 +2,9 @@
   "id": 1796889559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.401169,37.628154,-122.401169,37.628154",
@@ -10,7 +12,7 @@
     "geom:longitude": -122.40116888909837,
     "millsfield:wayfinding_detail": "RCC",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -18,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889561"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796982281,
       1796889561
     ],
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796889559,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695350,
     "wof:name": "AirTrain Rental Car Center Blue Line (Outbound)",
     "wof:parent_id": 1729791943,
     "wof:placetype": "venue",
@@ -67,7 +69,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666303
+    ],
     "wof:supersedes": []
   },
   "bbox": [

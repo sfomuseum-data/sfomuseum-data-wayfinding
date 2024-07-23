@@ -2,7 +2,9 @@
   "id": 1796889613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.386433,37.618316,-122.386433,37.618316",
@@ -10,12 +12,12 @@
     "geom:longitude": -122.3864329050997,
     "millsfield:wayfinding_detail": "TSA",
     "millsfield:wayfinding_kind": "T3",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889587,
       1796889507,
       1796889581,
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 1796889613,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Terminal 3 Security TSA Checkpoint E Side",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -72,7 +74,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666383
+    ],
     "wof:supersedes": []
   },
   "bbox": [

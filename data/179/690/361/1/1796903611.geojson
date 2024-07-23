@@ -2,7 +2,9 @@
   "id": 1796903611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.388772,37.614655,-122.388772,37.614655",
@@ -10,7 +12,7 @@
     "geom:longitude": -122.38877238550087,
     "millsfield:wayfinding_detail": "ITB",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -18,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796903605"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796903605,
       1796982265
     ],
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1796903611,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "AirTrain International Terminal A Red Line",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -73,7 +75,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666331
+    ],
     "wof:supersedes": []
   },
   "bbox": [

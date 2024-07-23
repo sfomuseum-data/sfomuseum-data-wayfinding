@@ -2,9 +2,11 @@
   "id": 1847571935,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "date:inception_lower": "2019-01-01",
     "date:inception_upper": "2019-12-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-07-22",
     "edtf:inception": "2019",
     "geom:area": 0,
     "geom:bbox": "-122.393783,37.613044,-122.393783,37.613044",
@@ -12,11 +14,11 @@
     "geom:longitude": -122.39378291557414,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1847571937
     ],
     "wof:belongsto": [
@@ -56,7 +58,7 @@
       }
     ],
     "wof:id": 1847571935,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Grand Hyatt Hotel Restaurant",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -64,7 +66,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1930431189
+    ],
     "wof:supersedes": []
   },
   "bbox": [

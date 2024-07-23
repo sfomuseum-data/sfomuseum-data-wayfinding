@@ -2,7 +2,9 @@
   "id": 1796903639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
+    "edtf:cessation": "2024-07-22",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.400320,37.636211,-122.400320,37.636211",
@@ -10,12 +12,12 @@
     "geom:longitude": -122.40032,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "PRK",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 0,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796903641
     ],
     "wof:belongsto": [
@@ -55,7 +57,7 @@
       }
     ],
     "wof:id": 1796903639,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Long Term Parking 1",
     "wof:parent_id": 1477855983,
     "wof:placetype": "venue",
@@ -63,7 +65,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1930431193
+    ],
     "wof:supersedes": []
   },
   "bbox": [

@@ -2,7 +2,9 @@
   "id": 1796935459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.388454,37.613884,-122.388454,37.613884",
@@ -10,12 +12,12 @@
     "geom:longitude": -122.38845388498332,
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796935461,
       1797018099
     ],
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1796935459,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695350,
     "wof:name": "Gate A1 Waiting Area",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -70,7 +72,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666559
+    ],
     "wof:supersedes": []
   },
   "bbox": [

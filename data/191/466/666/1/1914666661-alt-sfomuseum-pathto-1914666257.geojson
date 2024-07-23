@@ -1,0 +1,26 @@
+{
+  "id": 1914666661,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.389409,37.617184,-122.388764,37.617419",
+    "geom:latitude": 37.61737751166412,
+    "geom:longitude": -122.38913510485932,
+    "src:alt_label": "sfomuseum-pathto-1914666257",
+    "src:geom": "sfomuseum",
+    "wof:created": 0,
+    "wof:geomhash": "6eed161518411737a3f13f8cf7c4a252",
+    "wof:id": 1796889527,
+    "wof:lastmodified": 1675910298,
+    "wof:name": "T3 - International Terminal Post-Security Connector (ITB) (path to T3 - International Terminal Post-Security Connector (T3))",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.38940949529083,
+    37.61718354071702,
+    -122.3887637333922,
+    37.61741851735897
+  ],
+  "geometry": {"coordinates":[[-122.38940949529083,37.61718354071702],[-122.38929200696987,37.61741851735897],[-122.3887637333922,37.61741257118261]],"type":"LineString"}
+}

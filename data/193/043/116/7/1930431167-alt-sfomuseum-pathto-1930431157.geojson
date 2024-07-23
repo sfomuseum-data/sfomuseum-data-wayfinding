@@ -1,0 +1,26 @@
+{
+  "id": 1930431167,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.401665,37.634972,-122.400291,37.635679",
+    "geom:latitude": 37.635290172579886,
+    "geom:longitude": -122.40099755626942,
+    "src:alt_label": "sfomuseum-pathto-1930431157",
+    "src:geom": "sfomuseum",
+    "wof:created": 0,
+    "wof:geomhash": "3cf1663585043e176e3537bf9a9aca3f",
+    "wof:id": 1796903637,
+    "wof:lastmodified": 1675910298,
+    "wof:name": "Long Term Parking 2 (path to AirTrain Long-Term Parking Station)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.40166514411766,
+    37.634972022421096,
+    -122.40029129399466,
+    37.63567900993292
+  ],
+  "geometry": {"coordinates":[[-122.40166514411766,37.63567900993292],[-122.40139093601127,37.635119573626596],[-122.40052969548563,37.63541740349999],[-122.40029129399466,37.634972022421096]],"type":"LineString"}
+}

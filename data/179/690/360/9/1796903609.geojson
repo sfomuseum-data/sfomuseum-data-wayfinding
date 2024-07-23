@@ -2,7 +2,9 @@
   "id": 1796903609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.388453,37.614669,-122.388453,37.614669",
@@ -10,12 +12,12 @@
     "geom:longitude": -122.3884533560487,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796982265,
       1796903607,
       1796889635
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1796903609,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "International Terminal Main Hall A Side AirTrain Stairs",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -71,7 +73,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666335
+    ],
     "wof:supersedes": []
   },
   "bbox": [

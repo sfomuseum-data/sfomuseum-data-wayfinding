@@ -2,7 +2,9 @@
   "id": 1796935723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.388764,37.617413,-122.388764,37.617413",
@@ -10,7 +12,7 @@
     "geom:longitude": -122.3887637333922,
     "millsfield:wayfinding_detail": "F",
     "millsfield:wayfinding_kind": "T3",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -18,7 +20,7 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889527"
     ],
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889523,
       1796889527
     ],
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1796935723,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695350,
     "wof:name": "T3 - International Terminal Post-Security Connector (T3)",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -73,7 +75,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666661
+    ],
     "wof:supersedes": []
   },
   "bbox": [

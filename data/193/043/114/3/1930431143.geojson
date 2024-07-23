@@ -1,0 +1,84 @@
+{
+  "id": 1930431143,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-22",
+    "date:inception_upper": "2024-07-22",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-07-22",
+    "geom:area": 0,
+    "geom:bbox": "-122.392543,37.616064,-122.392543,37.616064",
+    "geom:latitude": 37.61606385174821,
+    "geom:longitude": -122.39254277183558,
+    "millsfield:wayfinding_detail": "PRK",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1914666295"
+    ],
+    "wof:adjacencies": [
+      1914666623,
+      1914666295
+    ],
+    "wof:belongsto": [
+      1477855991,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1671674937,
+    "wof:geomhash": "ba2ed09bc0f455b5cdc02df3fbe95c75",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855991,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1930431143
+      },
+      {
+        "building_id": 1477855991,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1930431143
+      }
+    ],
+    "wof:id": 1930431143,
+    "wof:lastmodified": 1721760078,
+    "wof:name": "AirTrain Garage G / BART Blue Line",
+    "wof:parent_id": 1477855991,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796889543
+    ]
+  },
+  "bbox": [
+    -122.39254277183558,
+    37.61606385174821,
+    -122.39254277183558,
+    37.61606385174821
+  ],
+  "geometry": {"coordinates":[-122.39254277183558,37.61606385174821],"type":"Point"}
+}

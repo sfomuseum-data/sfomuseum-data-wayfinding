@@ -2,7 +2,9 @@
   "id": 1796889495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.382941,37.617161,-122.382941,37.617161",
@@ -10,12 +12,12 @@
     "geom:longitude": -122.38294148881829,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1796889485,
       1796889487,
       1796889571,
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 1796889495,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "Boarding Area D Start Pier",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -72,7 +74,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666233
+    ],
     "wof:supersedes": []
   },
   "bbox": [

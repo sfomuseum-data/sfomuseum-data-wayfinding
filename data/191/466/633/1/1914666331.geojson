@@ -1,0 +1,91 @@
+{
+  "id": 1914666331,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.388772,37.614655,-122.388772,37.614655",
+    "geom:latitude": 37.61465481561797,
+    "geom:longitude": -122.38877238550087,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1914666319"
+    ],
+    "wof:adjacencies": [
+      1914666319,
+      1914666557
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601135,
+      1914600999
+    ],
+    "wof:country": "US",
+    "wof:created": 1721353584,
+    "wof:geomhash": "3edb7458cacd531a3f0b0faa1f56084a",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601135,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914666331,
+        "wing_id": 1914600999
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601135,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914666331,
+        "wing_id": 1914600999
+      }
+    ],
+    "wof:id": 1914666331,
+    "wof:label": "AirTrain International Terminal A Red Line (2024-06-17)",
+    "wof:lastmodified": 1721760078,
+    "wof:name": "AirTrain International Terminal A Red Line",
+    "wof:parent_id": 1914601135,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1796903611
+    ]
+  },
+  "bbox": [
+    -122.38877238550087,
+    37.61465481561797,
+    -122.38877238550087,
+    37.61465481561797
+  ],
+  "geometry": {"coordinates":[-122.38877238550087,37.61465481561797],"type":"Point"}
+}

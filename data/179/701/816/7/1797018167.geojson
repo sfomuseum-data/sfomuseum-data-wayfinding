@@ -2,7 +2,9 @@
   "id": 1797018167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.390023,37.616051,-122.390023,37.616051",
@@ -10,12 +12,12 @@
     "geom:longitude": -122.39002290956851,
     "millsfield:wayfinding_detail": "ARR",
     "millsfield:wayfinding_kind": "ITB",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
-    "wof:adjencies": [
+    "wof:adjacencies": [
       1797018157,
       1797018169
     ],
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1797018167,
-    "wof:lastmodified": 1716597062,
+    "wof:lastmodified": 1721695349,
     "wof:name": "International Terminal Arrivals G Side",
     "wof:parent_id": 1745882445,
     "wof:placetype": "venue",
@@ -70,7 +72,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914666797
+    ],
     "wof:supersedes": []
   },
   "bbox": [
