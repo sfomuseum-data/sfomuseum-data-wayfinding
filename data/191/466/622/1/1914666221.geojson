@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "src:geom_alt": [
-      "sfomuseum-pathto-1796935487",
-      "sfomuseum-pathto-1796935503"
+      "sfomuseum-pathto-1914666589",
+      "sfomuseum-pathto-1914666549"
     ],
     "wof:adjacencies": [
       1914666207,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1914666221,
     "wof:label": "Boarding Area B Mid Pier (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1721760078,
     "wof:name": "Boarding Area B Mid Pier",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

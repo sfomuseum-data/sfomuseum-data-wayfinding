@@ -1,0 +1,26 @@
+{
+  "id": 1914666347,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.388737,37.614539,-122.384378,37.616797",
+    "geom:latitude": 37.61526596627153,
+    "geom:longitude": -122.3861797802404,
+    "src:alt_label": "sfomuseum-pathto-1914666855",
+    "src:geom": "sfomuseum",
+    "wof:created": 0,
+    "wof:geomhash": "ca3eedc0bc93dea8b4b94ce079977a24",
+    "wof:id": 1796889585,
+    "wof:lastmodified": 1675910298,
+    "wof:name": "AirTrain International Terminal A Blue Line (path to AirTrain Harvey Milk Terminal 1 Blue Line)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.38873679724462,
+    37.61453855385551,
+    -122.3843781362727,
+    37.616796550535916
+  ],
+"geometry": { "type": "LineString", "coordinates": [ [ -122.388736797244619, 37.61453855385551 ], [ -122.387145677582268, 37.614928848851555 ], [ -122.386985444960757, 37.614959357362274 ], [ -122.386770378592232, 37.614967960017012 ], [ -122.38660149811129, 37.614979379802442 ], [ -122.386197250504267, 37.615006588775991 ], [ -122.385829929361364, 37.615080441704194 ], [ -122.385637523048402, 37.615129029156961 ] ] }
+}

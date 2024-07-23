@@ -1,0 +1,26 @@
+{
+  "id": 1914666297,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.389470,37.616589,-122.386575,37.617469",
+    "geom:latitude": 37.61701946271721,
+    "geom:longitude": -122.38801939395267,
+    "src:alt_label": "sfomuseum-pathto-1914666287",
+    "src:geom": "sfomuseum",
+    "wof:created": 0,
+    "wof:geomhash": "fd5ab5af8953c05b2217e72838072d15",
+    "wof:id": 1796903589,
+    "wof:lastmodified": 1675910298,
+    "wof:name": "AirTrain International Terminal G Red Line (path to AirTrain Terminal 3 Red Line)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.38947028176744,
+    37.61658853110363,
+    -122.38657478595175,
+    37.617469389770456
+  ],
+  "geometry": {"coordinates":[[-122.38947028176744,37.61658853110363],[-122.38908654135814,37.61668010551949],[-122.38846950422271,37.61684799194857],[-122.3882659772187,37.61690767214524],[-122.38754285834797,37.61718376480671],[-122.38718960590019,37.61731661945692],[-122.38706536317956,37.61735165123578],[-122.38657478595175,37.617469389770456]],"type":"LineString"}
+}

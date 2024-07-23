@@ -18,7 +18,7 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
     "src:geom_alt": [
-      "sfomuseum-pathto-1796889539"
+      "sfomuseum-pathto-1914666283"
     ],
     "wof:adjacencies": [
       1914666283,
@@ -62,7 +62,7 @@
     ],
     "wof:id": 1914666279,
     "wof:label": "AirTrain Terminal 2 Blue Line (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1721760078,
     "wof:name": "AirTrain Terminal 2 Blue Line",
     "wof:parent_id": 1914600839,
     "wof:placetype": "venue",

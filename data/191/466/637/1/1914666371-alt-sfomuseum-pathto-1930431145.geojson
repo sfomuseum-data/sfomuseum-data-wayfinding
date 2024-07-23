@@ -1,0 +1,26 @@
+{
+  "id": 1914666371,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.401286,37.621685,-122.399520,37.628183",
+    "geom:latitude": 37.62491130601962,
+    "geom:longitude": -122.40050252216712,
+    "src:alt_label": "sfomuseum-pathto-1930431145",
+    "src:geom": "sfomuseum",
+    "wof:created": 0,
+    "wof:geomhash": "9d4f9b1adceef7577ef46b5dda81bbaf",
+    "wof:id": 1796903633,
+    "wof:lastmodified": 1675910298,
+    "wof:name": "AirTrain Rental Car Center Blue Line (Inbound) (path to AirTrain Westfield Road Station (Inbound))",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.40128570598473,
+    37.62168474018532,
+    -122.39952007951251,
+    37.628183439058354
+  ],
+  "geometry": {"coordinates":[[-122.40128570598473,37.628183439058354],[-122.40106409380935,37.62675007143622],[-122.40098719424005,37.62622459104593],[-122.4008257051445,37.62574525039724],[-122.40045909716953,37.6246496934004],[-122.40007396096348,37.623486343829555],[-122.39952007951251,37.62168474018532]],"type":"LineString"}
+}
