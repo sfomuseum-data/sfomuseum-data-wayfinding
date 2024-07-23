@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.384760,37.614184,-122.384760,37.614184",
     "geom:latitude": 37.61418365906987,
@@ -12,6 +12,12 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "unknown",
+    "wof:adjacencies": [
+    1914676359,
+     1914666227,
+     1914676365,
+     1914676369
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,

@@ -2,8 +2,10 @@
   "id": 1914676387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.384812,37.614480,-122.384812,37.614480",
     "geom:latitude": 37.61448031528758,
@@ -11,7 +13,11 @@
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
+    "wof:adjacencies": [
+      1914676391,
+      1914676385
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -55,7 +61,7 @@
       }
     ],
     "wof:id": 1914676387,
-    "wof:lastmodified": 1721416061,
+    "wof:lastmodified": 1721764413,
     "wof:name": "Harvey Milk Terminal 1 Greeting Area",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

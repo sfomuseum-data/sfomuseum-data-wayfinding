@@ -12,6 +12,11 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "unknown",
+    "wof:adjacencies": [
+      1914676367,
+      1914666227,
+      1914676363
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -55,7 +60,7 @@
       }
     ],
     "wof:id": 1914676359,
-    "wof:lastmodified": 1721416046,
+    "wof:lastmodified": 1721762490,
     "wof:name": "1G Gallery entrance",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",

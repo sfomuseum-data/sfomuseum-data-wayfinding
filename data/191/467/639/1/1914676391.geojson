@@ -2,8 +2,10 @@
   "id": 1914676391,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.384718,37.614548,-122.384718,37.614548",
     "geom:latitude": 37.614548283305545,
@@ -11,7 +13,10 @@
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
+    "wof:adjacencies": [
+      1914676387
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -55,7 +60,7 @@
       }
     ],
     "wof:id": 1914676391,
-    "wof:lastmodified": 1721416062,
+    "wof:lastmodified": 1721763021,
     "wof:name": "Harvey Milk Terminal 1 North Exit (exit)",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
