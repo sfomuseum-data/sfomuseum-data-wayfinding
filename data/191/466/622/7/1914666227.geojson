@@ -27,7 +27,9 @@
       1914666221,
       1914666539,
       1914666581,
-      1914666395
+      1914666395,
+      1914676359,
+      1914676367
     ],
     "wof:belongsto": [
       102527513,
@@ -73,7 +75,7 @@
     ],
     "wof:id": 1914666227,
     "wof:label": "Boarding Area B Start Pier (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1721768793,
     "wof:name": "Boarding Area B Start Pier",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",
