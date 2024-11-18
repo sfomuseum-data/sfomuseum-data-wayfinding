@@ -25,6 +25,7 @@ current-level:
 	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.mz:is_current=1&include=properties.sfo:level=$(LEVEL)' $(CWD) > work/waypoints-level$(LEVEL).geojson
 
 current:
+	mkdir -p work
 	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.mz:is_current=1' $(CWD) > work/waypoints.geojson
 
 update-geoms:
