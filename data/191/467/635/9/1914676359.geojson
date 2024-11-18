@@ -2,15 +2,17 @@
   "id": 1914676359,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.384695,37.614158,-122.384695,37.614158",
     "geom:latitude": 37.61415844316139,
     "geom:longitude": -122.38469494730995,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1914676359,
-    "wof:lastmodified": 1721769180,
+    "wof:lastmodified": 1731963032,
     "wof:name": "1G Gallery entrance",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",
@@ -71,7 +73,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305203
+    ],
     "wof:supersedes": []
   },
   "bbox": [

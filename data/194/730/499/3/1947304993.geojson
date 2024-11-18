@@ -1,0 +1,91 @@
+{
+  "id": 1947304993,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.388737,37.614539,-122.388737,37.614539",
+    "geom:latitude": 37.61453855385551,
+    "geom:longitude": -122.38873679724462,
+    "millsfield:wayfinding_detail": "ITB",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1914666855"
+    ],
+    "wof:adjacencies": [
+      1914666855,
+      1914666557
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304205,
+      1947304069
+    ],
+    "wof:country": "US",
+    "wof:created": 1731962972,
+    "wof:geomhash": "d343f96955a8a3cdc32ee95c05d11da9",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304993,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304993,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 1947304993,
+    "wof:label": "AirTrain International Terminal A Blue Line (2024-11-05)",
+    "wof:lastmodified": 1731962972,
+    "wof:name": "AirTrain International Terminal A Blue Line",
+    "wof:parent_id": 1947304205,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914666347
+    ]
+  },
+  "bbox": [
+    -122.38873679724462,
+    37.61453855385551,
+    -122.38873679724462,
+    37.61453855385551
+  ],
+  "geometry": {"coordinates":[-122.38873679724462,37.61453855385551],"type":"Point"}
+}

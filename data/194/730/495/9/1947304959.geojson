@@ -1,0 +1,87 @@
+{
+  "id": 1947304959,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.383977,37.619343,-122.383977,37.619343",
+    "geom:latitude": 37.619343112832595,
+    "geom:longitude": -122.38397703221199,
+    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_kind": "T3",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:adjacencies": [
+      1914666251
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304511,
+      1947304447
+    ],
+    "wof:country": "US",
+    "wof:created": 1731962957,
+    "wof:geomhash": "3724bee182f50ab5da59e06cf3e941df",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304511,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304959,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304511,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304959,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 1947304959,
+    "wof:label": "Gate E11 Waiting Area (2024-11-05)",
+    "wof:lastmodified": 1731962957,
+    "wof:name": "Gate E11 Waiting Area",
+    "wof:parent_id": 1947304511,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914666391
+    ]
+  },
+  "bbox": [
+    -122.38397703221199,
+    37.619343112832595,
+    -122.38397703221199,
+    37.619343112832595
+  ],
+  "geometry": {"coordinates":[-122.38397703221199,37.619343112832595],"type":"Point"}
+}

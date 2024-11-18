@@ -1,0 +1,88 @@
+{
+  "id": 1947304897,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.391894,37.618056,-122.391894,37.618056",
+    "geom:latitude": 37.61805616392702,
+    "geom:longitude": -122.39189429941642,
+    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_kind": "ITB",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:adjacencies": [
+      1914666725,
+      1914666727,
+      1914666261,
+      1914666281,
+      1914666803,
+      1914666793,
+      1914666787,
+      1914666811
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067
+    ],
+    "wof:country": "US",
+    "wof:created": 1731962949,
+    "wof:geomhash": "f4f82fb67cb0b0abb8408b292cd7f573",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304897
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304897
+      }
+    ],
+    "wof:id": 1947304897,
+    "wof:label": "Boarding Area G Mid Pier (2024-11-05)",
+    "wof:lastmodified": 1731962949,
+    "wof:name": "Boarding Area G Mid Pier",
+    "wof:parent_id": 1947304067,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914666277
+    ]
+  },
+  "bbox": [
+    -122.39189429941642,
+    37.61805616392702,
+    -122.39189429941642,
+    37.61805616392702
+  ],
+  "geometry": {"coordinates":[-122.39189429941642,37.61805616392702],"type":"Point"}
+}

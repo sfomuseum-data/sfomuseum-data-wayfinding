@@ -2,9 +2,11 @@
   "id": 1914666829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.386920,37.618225,-122.386920,37.618225",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.38692030460633,
     "millsfield:wayfinding_detail": "ARR",
     "millsfield:wayfinding_kind": "T3",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 1,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -65,7 +67,7 @@
     ],
     "wof:id": 1914666829,
     "wof:label": "Terminal 3 Arrivals / Baggage Claim Stairs Level 1 (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731963102,
     "wof:name": "Terminal 3 Arrivals / Baggage Claim Stairs Level 1",
     "wof:parent_id": 1914600967,
     "wof:placetype": "venue",
@@ -73,7 +75,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305465
+    ],
     "wof:supersedes": [
       1797018135
     ]

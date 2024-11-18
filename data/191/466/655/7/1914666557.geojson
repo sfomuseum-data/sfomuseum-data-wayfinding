@@ -2,9 +2,11 @@
   "id": 1914666557,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.388707,37.614616,-122.388707,37.614616",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.38870726626416,
     "millsfield:wayfinding_detail": "ITB",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -66,7 +68,7 @@
     ],
     "wof:id": 1914666557,
     "wof:label": "AirTrain Internation Terminal A Station (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731963017,
     "wof:name": "AirTrain Internation Terminal A Station",
     "wof:parent_id": 1914601135,
     "wof:placetype": "venue",
@@ -74,7 +76,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305131
+    ],
     "wof:supersedes": [
       1796982265
     ]

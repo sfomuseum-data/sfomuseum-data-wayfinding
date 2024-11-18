@@ -2,9 +2,11 @@
   "id": 1914666861,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.385678,37.615192,-122.385678,37.615192",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.38567767064657,
     "millsfield:wayfinding_detail": "HMT1",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 6,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfo",
@@ -43,6 +45,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1914666861,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
@@ -55,13 +58,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1914666861,
         "region_id": 85688637,
         "waypoint_id": 1914666861
       }
     ],
     "wof:id": 1914666861,
     "wof:label": "AirTrain Harvey Milk Terminal 1 Station (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731963097,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Station",
     "wof:parent_id": 1914600839,
     "wof:placetype": "custom",
@@ -69,7 +73,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305443
+    ],
     "wof:supersedes": [
       1863412739
     ]

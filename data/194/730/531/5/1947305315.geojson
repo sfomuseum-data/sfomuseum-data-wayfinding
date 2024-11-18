@@ -1,0 +1,91 @@
+{
+  "id": 1947305315,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.383405,37.617233,-122.383405,37.617233",
+    "geom:latitude": 37.61723329212945,
+    "geom:longitude": -122.38340506962649,
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "T2",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:adjacencies": [
+      1914666815,
+      1914666357,
+      1914666825,
+      1914666483,
+      1914666361
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304739,
+      1947304591
+    ],
+    "wof:country": "US",
+    "wof:created": 1731963061,
+    "wof:geomhash": "c1ce41986c33bed56c231707436791ae",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304739,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947305315,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304739,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947305315,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 1947305315,
+    "wof:label": "Terminal 2 Boarding Area D Meet and Greet (2024-11-05)",
+    "wof:lastmodified": 1731963061,
+    "wof:name": "Terminal 2 Boarding Area D Meet and Greet",
+    "wof:parent_id": 1947304739,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914666683
+    ]
+  },
+  "bbox": [
+    -122.38340506962649,
+    37.61723329212945,
+    -122.38340506962649,
+    37.61723329212945
+  ],
+  "geometry": {"coordinates":[-122.38340506962649,37.61723329212945],"type":"Point"}
+}

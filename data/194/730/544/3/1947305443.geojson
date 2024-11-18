@@ -1,0 +1,84 @@
+{
+  "id": 1947305443,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.385678,37.615192,-122.385678,37.615192",
+    "geom:latitude": 37.615192425676256,
+    "geom:longitude": -122.38567767064657,
+    "millsfield:wayfinding_detail": "HMT1",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 6,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfo",
+    "wof:adjacencies": [
+      1914666857,
+      1914666853,
+      1914666855
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067
+    ],
+    "wof:country": "US",
+    "wof:created": 1731963097,
+    "wof:geomhash": "72a5c70c2382db565843ff620ed41305",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1947305443,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "waypoint_id": 1947305443
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1947305443,
+        "region_id": 85688637,
+        "waypoint_id": 1947305443
+      }
+    ],
+    "wof:id": 1947305443,
+    "wof:label": "AirTrain Harvey Milk Terminal 1 Station (2024-11-05)",
+    "wof:lastmodified": 1731963097,
+    "wof:name": "AirTrain Harvey Milk Terminal 1 Station",
+    "wof:parent_id": 1947304067,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914666861
+    ]
+  },
+  "bbox": [
+    -122.38567767064657,
+    37.615192425676256,
+    -122.38567767064657,
+    37.615192425676256
+  ],
+  "geometry": {"coordinates":[-122.38567767064657,37.615192425676256],"type":"Point"}
+}

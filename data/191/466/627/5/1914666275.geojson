@@ -2,9 +2,11 @@
   "id": 1914666275,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.389424,37.612812,-122.389424,37.612812",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.38942366035944,
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -71,7 +73,7 @@
     ],
     "wof:id": 1914666275,
     "wof:label": "Boarding Area A Mid Pier (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731962949,
     "wof:name": "Boarding Area A Mid Pier",
     "wof:parent_id": 1914601001,
     "wof:placetype": "venue",
@@ -79,7 +81,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304893
+    ],
     "wof:supersedes": [
       1796889533
     ]

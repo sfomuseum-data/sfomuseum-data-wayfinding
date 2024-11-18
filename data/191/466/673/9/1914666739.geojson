@@ -2,9 +2,11 @@
   "id": 1914666739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.389057,37.615637,-122.389057,37.615637",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.38905723551947,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
@@ -67,7 +69,7 @@
     ],
     "wof:id": 1914666739,
     "wof:label": "International Terminal Main Hall A - G Side Connector East (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731963075,
     "wof:name": "International Terminal Main Hall A - G Side Connector East",
     "wof:parent_id": 1914601135,
     "wof:placetype": "venue",
@@ -75,7 +77,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305361
+    ],
     "wof:supersedes": [
       1796935611
     ]

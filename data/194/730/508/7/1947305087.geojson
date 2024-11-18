@@ -1,0 +1,88 @@
+{
+  "id": 1947305087,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.388519,37.616877,-122.388519,37.616877",
+    "geom:latitude": 37.61687669403899,
+    "geom:longitude": -122.3885189456314,
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "SFO",
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:adjacencies": [
+      1914666367,
+      1914666375
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304579,
+      1947304447
+    ],
+    "wof:country": "US",
+    "wof:created": 1731963006,
+    "wof:geomhash": "204176ca5438bf02ab1ac30aa3ce7eff",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304579,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947305087,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304579,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947305087,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 1947305087,
+    "wof:label": "T3 - International Terminal Pre-Security Connector (2024-11-05)",
+    "wof:lastmodified": 1731963006,
+    "wof:name": "T3 - International Terminal Pre-Security Connector",
+    "wof:parent_id": 1947304579,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914666465
+    ]
+  },
+  "bbox": [
+    -122.3885189456314,
+    37.61687669403899,
+    -122.3885189456314,
+    37.61687669403899
+  ],
+  "geometry": {"coordinates":[-122.3885189456314,37.61687669403899],"type":"Point"}
+}

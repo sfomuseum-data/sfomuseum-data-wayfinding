@@ -2,9 +2,11 @@
   "id": 1914666649,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.381203,37.617977,-122.381203,37.617977",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.38120252077621,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1914666649,
     "wof:label": "Gate D10 Waiting Area (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731963045,
     "wof:name": "Gate D10 Waiting Area",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",
@@ -72,7 +74,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305255
+    ],
     "wof:supersedes": [
       1796935587
     ]

@@ -1,0 +1,84 @@
+{
+  "id": 1947305257,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.383801,37.616859,-122.383801,37.616859",
+    "geom:latitude": 37.616858759427494,
+    "geom:longitude": -122.38380057615976,
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:adjacencies": [
+      1914666775,
+      1914666627,
+      1914666629,
+      1914666641
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067
+    ],
+    "wof:country": "US",
+    "wof:created": 1731963045,
+    "wof:geomhash": "41dd4ce3c010a58325091b43c13af5da",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947305257
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947305257
+      }
+    ],
+    "wof:id": 1947305257,
+    "wof:label": "AirTrain Terminal 2 Stairs East Level 3 (2024-11-05)",
+    "wof:lastmodified": 1731963045,
+    "wof:name": "AirTrain Terminal 2 Stairs East Level 3",
+    "wof:parent_id": 1947304067,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914666635
+    ]
+  },
+  "bbox": [
+    -122.38380057615976,
+    37.616858759427494,
+    -122.38380057615976,
+    37.616858759427494
+  ],
+  "geometry": {"coordinates":[-122.38380057615976,37.616858759427494],"type":"Point"}
+}
