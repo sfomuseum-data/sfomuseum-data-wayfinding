@@ -22,14 +22,14 @@
       "sfomuseum-pathto-1914666549"
     ],
     "wof:adjacencies": [
-      1914666207,
-      1914666531,
-      1914666589,
-      1914666537,
-      1914666547,
-      1914666549,
-      1914666551,
-      1914666227
+      1947304825,
+      1947305153,
+      1947305185,
+      1947305165,
+      1947305089,
+      1947305099,
+      1947305137,
+      1947304841
     ],
     "wof:belongsto": [
       102527513,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1947304819,
     "wof:label": "Boarding Area B Mid Pier (2024-11-05)",
-    "wof:lastmodified": 1731962930,
+    "wof:lastmodified": 1731980436,
     "wof:name": "Boarding Area B Mid Pier",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

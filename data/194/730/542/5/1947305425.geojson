@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666843
+      1947305387
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305425,
     "wof:label": "Terminal 2 Baggage Claim (2024-11-05)",
-    "wof:lastmodified": 1731963092,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 2 Baggage Claim",
     "wof:parent_id": 1947304685,
     "wof:placetype": "venue",

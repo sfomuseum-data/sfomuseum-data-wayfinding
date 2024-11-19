@@ -18,9 +18,9 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666775,
-      1914666361,
-      1914666353
+      1947305383,
+      1947304923,
+      1947304991
     ],
     "wof:belongsto": [
       102527513,
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1947305003,
     "wof:label": "Terminal 2 Main Hall East (2024-11-05)",
-    "wof:lastmodified": 1731962976,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 2 Main Hall East",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

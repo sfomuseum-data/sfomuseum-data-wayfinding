@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666407
+      1947304949
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305379,
     "wof:label": "International Terminal Main Hall Departures Door 1 (2024-11-05)",
-    "wof:lastmodified": 1731963080,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal Main Hall Departures Door 1",
     "wof:parent_id": 1947304201,
     "wof:placetype": "venue",

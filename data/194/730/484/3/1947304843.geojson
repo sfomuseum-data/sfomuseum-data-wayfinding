@@ -18,10 +18,10 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666211,
-      1914666213,
-      1914666321,
-      1914666683
+      1947304815,
+      1947304817,
+      1947304903,
+      1947305315
     ],
     "wof:belongsto": [
       102527513,
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1947304843,
     "wof:label": "Boarding Area D Start Pier (2024-11-05)",
-    "wof:lastmodified": 1731962937,
+    "wof:lastmodified": 1731980436,
     "wof:name": "Boarding Area D Start Pier",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

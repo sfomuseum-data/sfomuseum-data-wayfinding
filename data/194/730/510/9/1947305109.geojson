@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666515,
-      1914666679
+      1947305117,
+      1947305343
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305109,
     "wof:label": "Gate G2 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963009,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate G2 Waiting Area",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

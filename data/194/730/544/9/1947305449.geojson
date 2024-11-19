@@ -18,11 +18,11 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666823,
-      1914666425,
-      1914666341,
-      1914666351,
-      1914666847
+      1947305435,
+      1947305001,
+      1947304977,
+      1947304997,
+      1947305417
     ],
     "wof:belongsto": [
       102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947305449,
     "wof:label": "Terminal 3 Baggage Claim - Departures E Side Level 2 (2024-11-05)",
-    "wof:lastmodified": 1731963099,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 3 Baggage Claim - Departures E Side Level 2",
     "wof:parent_id": 1947304563,
     "wof:placetype": "venue",

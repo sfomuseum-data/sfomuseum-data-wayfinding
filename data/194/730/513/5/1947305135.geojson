@@ -22,7 +22,7 @@
     ],
     "wof:adjacencies": [
       1914666857,
-      1914666553
+      1947305129
     ],
     "wof:belongsto": [
       102527513,
@@ -62,7 +62,7 @@
     ],
     "wof:id": 1947305135,
     "wof:label": "AirTrain Terminal 2 Red Line (2024-11-05)",
-    "wof:lastmodified": 1731963017,
+    "wof:lastmodified": 1731980437,
     "wof:name": "AirTrain Terminal 2 Red Line",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

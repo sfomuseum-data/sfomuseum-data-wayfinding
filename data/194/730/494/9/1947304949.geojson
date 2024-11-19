@@ -18,11 +18,11 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666773,
-      1914666411,
-      1914666409,
-      1914666311,
-      1914666747
+      1947305379,
+      1947305005,
+      1947304961,
+      1947304913,
+      1947305307
     ],
     "wof:belongsto": [
       102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947304949,
     "wof:label": "International Terminal Main Hall A Side West (2024-11-05)",
-    "wof:lastmodified": 1731962956,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal Main Hall A Side West",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

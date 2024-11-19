@@ -18,9 +18,9 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666473,
-      1914666641,
-      1914666279
+      1947305135,
+      1947305263,
+      1947304885
     ],
     "wof:belongsto": [
       102527513,
@@ -60,7 +60,7 @@
     ],
     "wof:id": 1947305129,
     "wof:label": "AirTrain Terminal 2 Station (2024-11-05)",
-    "wof:lastmodified": 1731963016,
+    "wof:lastmodified": 1731980437,
     "wof:name": "AirTrain Terminal 2 Station",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

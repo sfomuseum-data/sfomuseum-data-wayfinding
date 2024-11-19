@@ -18,9 +18,9 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666863,
-      1914666275,
-      1914666737
+      1947305419,
+      1947304893,
+      1947305347
     ],
     "wof:belongsto": [
       102527513,
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1947305363,
     "wof:label": "Gate A6 - A8 Stairs Level 3 (2024-11-05)",
-    "wof:lastmodified": 1731963075,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate A6 - A8 Stairs Level 3",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

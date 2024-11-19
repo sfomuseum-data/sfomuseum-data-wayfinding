@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666563,
-      1914666657
+      1947305141,
+      1947305269
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305121,
     "wof:label": "Gate G7 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963013,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate G7 Waiting Area",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

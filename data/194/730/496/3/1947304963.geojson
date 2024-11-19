@@ -18,11 +18,11 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666859,
-      1914666785,
-      1914666395,
-      1914666379,
-      1914676385
+      1947305469,
+      1947305415,
+      1947304945,
+      1947304979,
+      1947305213
     ],
     "wof:belongsto": [
       102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947304963,
     "wof:label": "Harvey Milk Terminal 1 Main Hall (2024-11-05)",
-    "wof:lastmodified": 1731962963,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Harvey Milk Terminal 1 Main Hall",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

@@ -20,8 +20,8 @@
       "sfomuseum-pathto-1914666331"
     ],
     "wof:adjacencies": [
-      1914666861,
-      1914666331
+      1947305443,
+      1947304911
     ],
     "wof:belongsto": [
       102527513,
@@ -53,7 +53,7 @@
     ],
     "wof:id": 1914666857,
     "wof:label": "AirTrain Harvey Milk Terminal 1 Red Line (2024-06-17)",
-    "wof:lastmodified": 1721760078,
+    "wof:lastmodified": 1731980437,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Red Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "custom",

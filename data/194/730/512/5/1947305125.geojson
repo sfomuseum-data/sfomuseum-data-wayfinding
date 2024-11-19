@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666733
+      1947305287
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305125,
     "wof:label": "Gates A11 - A15 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963015,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gates A11 - A15 Waiting Area",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

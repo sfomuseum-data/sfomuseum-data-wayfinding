@@ -18,10 +18,10 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666731,
-      1914666865,
-      1914666265,
-      1914666275
+      1947305283,
+      1947305437,
+      1947304871,
+      1947304893
     ],
     "wof:belongsto": [
       102527513,
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1947305359,
     "wof:label": "Gate A3 - A5 Stairs Level 3 (2024-11-05)",
-    "wof:lastmodified": 1731963074,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate A3 - A5 Stairs Level 3",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

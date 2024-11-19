@@ -15,9 +15,9 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914676387,
-      1914676379,
-      1914666393
+      1947305207,
+      1947305201,
+      1947304963
     ],
     "wof:belongsto": [
       102527513,
@@ -63,7 +63,7 @@
     ],
     "wof:id": 1947305213,
     "wof:label": "Harvey Milk Terminal 1 pre-security stairs (2024-11-05)",
-    "wof:lastmodified": 1731963034,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Harvey Milk Terminal 1 pre-security stairs",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

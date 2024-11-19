@@ -21,8 +21,8 @@
       "sfomuseum-pathto-1914666329"
     ],
     "wof:adjacencies": [
-      1914666329,
-      1914666595
+      1947304929,
+      1947305231
     ],
     "wof:belongsto": [
       102527513,
@@ -62,7 +62,7 @@
     ],
     "wof:id": 1947304891,
     "wof:label": "Air Train Terminal 3 Blue Line (2024-11-05)",
-    "wof:lastmodified": 1731962948,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Air Train Terminal 3 Blue Line",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

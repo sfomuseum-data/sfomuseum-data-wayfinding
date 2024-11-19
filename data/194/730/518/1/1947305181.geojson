@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666869,
-      1914666851
+      1947305451,
+      1947305441
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305181,
     "wof:label": "Gate B4-B5 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963026,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate B4-B5 Waiting Area",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

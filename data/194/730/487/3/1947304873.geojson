@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666243,
-      1914666239
+      1947304847,
+      1947304835
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947304873,
     "wof:label": "Boarding Area F Corridor (2024-11-05)",
-    "wof:lastmodified": 1731962945,
+    "wof:lastmodified": 1731980436,
     "wof:name": "Boarding Area F Corridor",
     "wof:parent_id": 1947304451,
     "wof:placetype": "venue",

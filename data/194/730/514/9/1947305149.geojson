@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666655
+      1947305265
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305149,
     "wof:label": "Gate G11 - G14 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963021,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate G11 - G14 Waiting Area",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

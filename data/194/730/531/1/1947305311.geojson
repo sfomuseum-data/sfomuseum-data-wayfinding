@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666413,
-      1914666333
+      1947305011,
+      1947304927
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305311,
     "wof:label": "AirTrain Terminal 3 Stairs Level 3 (2024-11-05)",
-    "wof:lastmodified": 1731963059,
+    "wof:lastmodified": 1731980437,
     "wof:name": "AirTrain Terminal 3 Stairs Level 3",
     "wof:parent_id": 1947304563,
     "wof:placetype": "venue",

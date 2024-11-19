@@ -18,13 +18,13 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666213,
-      1914666229,
-      1914666231,
-      1914666223,
-      1914666685,
-      1914666673,
-      1914666695
+      1947304817,
+      1947304851,
+      1947304821,
+      1947304833,
+      1947305335,
+      1947305325,
+      1947305309
     ],
     "wof:belongsto": [
       102527513,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1947304933,
     "wof:label": "Boarding Area D Center Court (2024-11-05)",
-    "wof:lastmodified": 1731962952,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Boarding Area D Center Court",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

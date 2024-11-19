@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666339,
-      1914666285
+      1947304937,
+      1947304883
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947304965,
     "wof:label": "International Terminal Arrivals Baggage Area (2024-11-05)",
-    "wof:lastmodified": 1731962964,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal Arrivals Baggage Area",
     "wof:parent_id": 1947304201,
     "wof:placetype": "venue",

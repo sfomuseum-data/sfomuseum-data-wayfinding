@@ -18,11 +18,11 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666757,
-      1914666827,
-      1914666351,
-      1914666383,
-      1914666341
+      1947305339,
+      1947305449,
+      1947304997,
+      1947304975,
+      1947304977
     ],
     "wof:belongsto": [
       102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947305001,
     "wof:label": "Terminal 3 Boarding Area E Meet and Greet (2024-11-05)",
-    "wof:lastmodified": 1731962976,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 3 Boarding Area E Meet and Greet",
     "wof:parent_id": 1947304563,
     "wof:placetype": "venue",

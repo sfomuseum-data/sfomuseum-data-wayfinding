@@ -18,13 +18,13 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666805,
-      1914666357,
-      1914666359,
-      1914666365,
-      1914666683,
-      1914666825,
-      1914666775
+      1947305473,
+      1947304999,
+      1947305003,
+      1947304941,
+      1947305315,
+      1947305455,
+      1947305383
     ],
     "wof:belongsto": [
       102527513,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1947304923,
     "wof:label": "Terminal 2 Main Hall (2024-11-05)",
-    "wof:lastmodified": 1731962952,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 2 Main Hall",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

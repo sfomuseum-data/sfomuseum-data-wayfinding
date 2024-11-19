@@ -18,11 +18,11 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666749,
-      1914666753,
-      1914666835,
-      1914666333,
-      1914666375
+      1947305291,
+      1947305333,
+      1947305485,
+      1947304927,
+      1947304973
     ],
     "wof:belongsto": [
       102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947304875,
     "wof:label": "Terminal 3 Main Hall F Side (2024-11-05)",
-    "wof:lastmodified": 1731962945,
+    "wof:lastmodified": 1731980436,
     "wof:name": "Terminal 3 Main Hall F Side",
     "wof:parent_id": 1947304579,
     "wof:placetype": "venue",

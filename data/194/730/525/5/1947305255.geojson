@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666231
+      1947304821
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305255,
     "wof:label": "Gate D10 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963045,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate D10 Waiting Area",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

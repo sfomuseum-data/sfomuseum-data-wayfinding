@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666261,
-      1914666655
+      1947304879,
+      1947305265
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305337,
     "wof:label": "Gates G11 - G14 Stairs Level 3 (2024-11-05)",
-    "wof:lastmodified": 1731963068,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gates G11 - G14 Stairs Level 3",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

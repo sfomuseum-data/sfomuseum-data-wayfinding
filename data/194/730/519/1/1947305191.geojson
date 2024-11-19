@@ -18,9 +18,9 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666329,
-      1914666297,
-      1914666307
+      1947304929,
+      1947304901,
+      1947304907
     ],
     "wof:belongsto": [
       102527513,
@@ -60,7 +60,7 @@
     ],
     "wof:id": 1947305191,
     "wof:label": "AirTrain International Terminal G Station (2024-11-05)",
-    "wof:lastmodified": 1731963028,
+    "wof:lastmodified": 1731980437,
     "wof:name": "AirTrain International Terminal G Station",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

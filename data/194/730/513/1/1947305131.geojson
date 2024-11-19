@@ -18,9 +18,9 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666335,
-      1914666331,
-      1914666347
+      1947304909,
+      1947304911,
+      1947304993
     ],
     "wof:belongsto": [
       102527513,
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1947305131,
     "wof:label": "AirTrain Internation Terminal A Station (2024-11-05)",
-    "wof:lastmodified": 1731963016,
+    "wof:lastmodified": 1731980437,
     "wof:name": "AirTrain Internation Terminal A Station",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

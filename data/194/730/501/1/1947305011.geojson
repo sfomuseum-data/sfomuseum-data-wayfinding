@@ -18,8 +18,8 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666595,
-      1914666709
+      1947305231,
+      1947305311
     ],
     "wof:belongsto": [
       102527513,
@@ -59,7 +59,7 @@
     ],
     "wof:id": 1947305011,
     "wof:label": "Air Train Terminal 3 Bridge (2024-11-05)",
-    "wof:lastmodified": 1731962979,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Air Train Terminal 3 Bridge",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

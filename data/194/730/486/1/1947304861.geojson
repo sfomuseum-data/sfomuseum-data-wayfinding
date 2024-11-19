@@ -18,12 +18,12 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666469,
-      1914666459,
-      1914666463,
-      1914666247,
-      1914666251,
-      1914666467
+      1947305091,
+      1947305069,
+      1947305101,
+      1947304855,
+      1947304853,
+      1947305093
     ],
     "wof:belongsto": [
       102527513,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1947304861,
     "wof:label": "Boarding Area E Mid Pier (2024-11-05)",
-    "wof:lastmodified": 1731962942,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Boarding Area E Mid Pier",
     "wof:parent_id": 1947304511,
     "wof:placetype": "venue",

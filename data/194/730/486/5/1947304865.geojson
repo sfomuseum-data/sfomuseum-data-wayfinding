@@ -21,8 +21,8 @@
       "sfomuseum-pathto-1914666661"
     ],
     "wof:adjacencies": [
-      1914666661,
-      1914666281
+      1947305281,
+      1947304867
     ],
     "wof:belongsto": [
       102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947304865,
     "wof:label": "T3 - International Terminal Post-Security Connector (ITB) (2024-11-05)",
-    "wof:lastmodified": 1731962942,
+    "wof:lastmodified": 1731980437,
     "wof:name": "T3 - International Terminal Post-Security Connector (ITB)",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

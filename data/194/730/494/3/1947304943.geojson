@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666409,
-      1914666265
+      1947304961,
+      1947304871
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947304943,
     "wof:label": "International Terminal A Side TSA Checkpoint (2024-11-05)",
-    "wof:lastmodified": 1731962955,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal A Side TSA Checkpoint",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

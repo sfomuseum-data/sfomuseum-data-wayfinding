@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666555,
-      1914666667
+      1947305123,
+      1947305285
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305159,
     "wof:label": "Gate G9 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963021,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate G9 Waiting Area",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

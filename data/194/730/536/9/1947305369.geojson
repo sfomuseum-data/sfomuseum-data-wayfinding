@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666409
+      1947304961
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305369,
     "wof:label": "Aviation Museum and Library (2024-11-05)",
-    "wof:lastmodified": 1731963077,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Aviation Museum and Library",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

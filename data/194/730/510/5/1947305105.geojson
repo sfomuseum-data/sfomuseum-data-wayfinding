@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666227
+      1947304841
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305105,
     "wof:label": "Gate B6 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963009,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate B6 Waiting Area",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

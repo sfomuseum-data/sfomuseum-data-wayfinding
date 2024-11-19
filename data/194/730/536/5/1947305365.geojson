@@ -19,7 +19,7 @@
     "src:geom": "sfo",
     "wof:adjacencies": [
       1930431153,
-      1914666411
+      1947305005
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305365,
     "wof:label": "International Terminal Main Hall BART Entrance (2024-11-05)",
-    "wof:lastmodified": 1731963076,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal Main Hall BART Entrance",
     "wof:parent_id": 1745882445,
     "wof:placetype": "venue",

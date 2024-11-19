@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666343
+      1947304995
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305075,
     "wof:label": "Gate E1 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963002,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate E1 Waiting Area",
     "wof:parent_id": 1947304551,
     "wof:placetype": "venue",

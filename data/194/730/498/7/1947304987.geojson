@@ -18,7 +18,7 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666261
+      1947304879
     ],
     "wof:belongsto": [
       102527513,
@@ -58,7 +58,7 @@
     ],
     "wof:id": 1947304987,
     "wof:label": "Boarding Area G Observation Deck (2024-11-05)",
-    "wof:lastmodified": 1731962970,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Boarding Area G Observation Deck",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

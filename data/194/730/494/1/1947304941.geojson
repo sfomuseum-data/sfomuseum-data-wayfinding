@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666233,
-      1914666361
+      1947304843,
+      1947304923
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947304941,
     "wof:label": "Terminal 2 TSA Checkpoint (2024-11-05)",
-    "wof:lastmodified": 1731962952,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 2 TSA Checkpoint",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

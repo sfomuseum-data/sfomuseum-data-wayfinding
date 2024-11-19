@@ -18,10 +18,10 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666409,
-      1914666377,
-      1914666387,
-      1914666335
+      1947304961,
+      1947304981,
+      1947304965,
+      1947304909
     ],
     "wof:belongsto": [
       102527513,
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1947304937,
     "wof:label": "International Terminal Main Hall  A Side 3rd - 2nd Stairs (2024-11-05)",
-    "wof:lastmodified": 1731962952,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal Main Hall  A Side 3rd - 2nd Stairs",
     "wof:parent_id": 1947304201,
     "wof:placetype": "venue",

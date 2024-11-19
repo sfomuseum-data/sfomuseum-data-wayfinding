@@ -16,9 +16,9 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914676367,
-      1914666227,
-      1914676363
+      1947305245,
+      1947304841,
+      1947305209
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305203,
     "wof:label": "1G Gallery entrance (2024-11-05)",
-    "wof:lastmodified": 1731963032,
+    "wof:lastmodified": 1731980437,
     "wof:name": "1G Gallery entrance",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

@@ -18,8 +18,8 @@
     "src:geom": "sfo",
     "wof:adjacencies": [
       1914666857,
-      1914666853,
-      1914666855
+      1947305447,
+      1947305445
     ],
     "wof:belongsto": [
       102527513,
@@ -61,7 +61,7 @@
     ],
     "wof:id": 1947305443,
     "wof:label": "AirTrain Harvey Milk Terminal 1 Station (2024-11-05)",
-    "wof:lastmodified": 1731963097,
+    "wof:lastmodified": 1731980437,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Station",
     "wof:parent_id": 1947304067,
     "wof:placetype": "custom",

@@ -18,11 +18,11 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666819,
-      1914666569,
-      1914666575,
-      1914666395,
-      1914666227
+      1947305481,
+      1947305163,
+      1947305143,
+      1947304945,
+      1947304841
     ],
     "wof:belongsto": [
       102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947304831,
     "wof:label": "Boarding Area B ITB (2024-11-05)",
-    "wof:lastmodified": 1731962931,
+    "wof:lastmodified": 1731980436,
     "wof:name": "Boarding Area B ITB",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

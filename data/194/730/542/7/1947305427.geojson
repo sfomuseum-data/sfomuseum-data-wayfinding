@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666829,
-      1914666243
+      1947305465,
+      1947304847
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305427,
     "wof:label": "Terminal 2 Arrivals / Baggage Claim Stairs Level 2 (2024-11-05)",
-    "wof:lastmodified": 1731963093,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 2 Arrivals / Baggage Claim Stairs Level 2",
     "wof:parent_id": 1947304579,
     "wof:placetype": "venue",

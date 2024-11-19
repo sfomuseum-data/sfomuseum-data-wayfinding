@@ -16,8 +16,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914676359,
-      1914666591
+      1947305203,
+      1947305237
     ],
     "wof:belongsto": [
       102527513,
@@ -63,7 +63,7 @@
     ],
     "wof:id": 1947305209,
     "wof:label": "1G Gallery Exit (2024-11-05)",
-    "wof:lastmodified": 1731963033,
+    "wof:lastmodified": 1731980437,
     "wof:name": "1G Gallery Exit",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

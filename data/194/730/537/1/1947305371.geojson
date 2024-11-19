@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666739
+      1947305361
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305371,
     "wof:label": "International Terminal Main Hall (2024-11-05)",
-    "wof:lastmodified": 1731963078,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal Main Hall",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666573,
-      1914666769
+      1947305125,
+      1947305351
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305287,
     "wof:label": "Gate A11 - A15 Stairs Level 2 (2024-11-05)",
-    "wof:lastmodified": 1731963051,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate A11 - A15 Stairs Level 2",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

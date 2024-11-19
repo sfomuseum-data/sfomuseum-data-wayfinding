@@ -18,12 +18,12 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666431,
-      1914666441,
-      1914666247,
-      1914666383,
-      1914666243,
-      1914666429
+      1947305035,
+      1947305075,
+      1947304855,
+      1947304975,
+      1947304847,
+      1947305021
     ],
     "wof:belongsto": [
       102527513,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1947304995,
     "wof:label": "Terminal 3 Post-Security E Side (2024-11-05)",
-    "wof:lastmodified": 1731962972,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 3 Post-Security E Side",
     "wof:parent_id": 1947304551,
     "wof:placetype": "venue",

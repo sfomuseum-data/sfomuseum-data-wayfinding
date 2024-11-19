@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666227,
-      1914666851
+      1947304841,
+      1947305441
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305397,
     "wof:label": "Alley Gallery Entrance (2024-11-05)",
-    "wof:lastmodified": 1731963084,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Alley Gallery Entrance",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

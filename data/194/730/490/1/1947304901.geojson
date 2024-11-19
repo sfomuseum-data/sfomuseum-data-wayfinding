@@ -21,8 +21,8 @@
       "sfomuseum-pathto-1914666287"
     ],
     "wof:adjacencies": [
-      1914666607,
-      1914666287
+      1947305191,
+      1947304895
     ],
     "wof:belongsto": [
       102527513,
@@ -62,7 +62,7 @@
     ],
     "wof:id": 1947304901,
     "wof:label": "AirTrain International Terminal G Red Line (2024-11-05)",
-    "wof:lastmodified": 1731962950,
+    "wof:lastmodified": 1731980436,
     "wof:name": "AirTrain International Terminal G Red Line",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

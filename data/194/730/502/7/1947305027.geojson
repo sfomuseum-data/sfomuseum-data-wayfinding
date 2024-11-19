@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666369,
-      1914666353
+      1947304947,
+      1947304991
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305027,
     "wof:label": "T1 - T2 Pre-Security Connector (2024-11-05)",
-    "wof:lastmodified": 1731962984,
+    "wof:lastmodified": 1731980437,
     "wof:name": "T1 - T2 Pre-Security Connector",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

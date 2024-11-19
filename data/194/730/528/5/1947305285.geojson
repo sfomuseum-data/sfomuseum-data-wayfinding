@@ -18,9 +18,9 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666689,
-      1914666555,
-      1914666533
+      1947305341,
+      1947305123,
+      1947305159
     ],
     "wof:belongsto": [
       102527513,
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1947305285,
     "wof:label": "Gate G9 - G10 Stairs Level 2 (2024-11-05)",
-    "wof:lastmodified": 1731963051,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate G9 - G10 Stairs Level 2",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

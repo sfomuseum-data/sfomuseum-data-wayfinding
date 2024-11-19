@@ -18,12 +18,12 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666337,
-      1914666223,
-      1914666229,
-      1914666697,
-      1914666653,
-      1914666649
+      1947304933,
+      1947304833,
+      1947304851,
+      1947305317,
+      1947305253,
+      1947305255
     ],
     "wof:belongsto": [
       102527513,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1947304821,
     "wof:label": "Boarding Area D End Pier (B) (2024-11-05)",
-    "wof:lastmodified": 1731962930,
+    "wof:lastmodified": 1731980436,
     "wof:name": "Boarding Area D End Pier (B)",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

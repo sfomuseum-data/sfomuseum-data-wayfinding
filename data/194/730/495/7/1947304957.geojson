@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666251
+      1947304853
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947304957,
     "wof:label": "Gate E13 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731962957,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate E13 Waiting Area",
     "wof:parent_id": 1947304511,
     "wof:placetype": "venue",

@@ -16,8 +16,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914676373,
-      1914676375
+      1947305171,
+      1947305193
     ],
     "wof:belongsto": [
       102527513,
@@ -63,7 +63,7 @@
     ],
     "wof:id": 1947305199,
     "wof:label": "Harvey Milk Terminal 1 North Seating (post-security) (2024-11-05)",
-    "wof:lastmodified": 1731963031,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Harvey Milk Terminal 1 North Seating (post-security)",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

@@ -19,7 +19,7 @@
     "src:geom": "sfomuseum",
     "wof:adjacencies": [
       1930431163,
-      1914666715
+      1947305365
     ],
     "wof:belongsto": [
       102527513,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1930431153,
-    "wof:lastmodified": 1721695349,
+    "wof:lastmodified": 1731980437,
     "wof:name": "San Francisco International Airport BART Station Platform",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

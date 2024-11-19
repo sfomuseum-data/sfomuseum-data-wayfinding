@@ -18,10 +18,10 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666747,
-      1914666409,
-      1914666389,
-      1914666717
+      1947305307,
+      1947304961,
+      1947304969,
+      1947305371
     ],
     "wof:belongsto": [
       102527513,
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1947305361,
     "wof:label": "International Terminal Main Hall A - G Side Connector East (2024-11-05)",
-    "wof:lastmodified": 1731963074,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal Main Hall A - G Side Connector East",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

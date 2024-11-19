@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666317,
-      1914666315
+      1947304921,
+      1947304919
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947304915,
     "wof:label": "T2 - T3 Post-Security Connector (2024-11-05)",
-    "wof:lastmodified": 1731962952,
+    "wof:lastmodified": 1731980437,
     "wof:name": "T2 - T3 Post-Security Connector",
     "wof:parent_id": 1947304691,
     "wof:placetype": "venue",

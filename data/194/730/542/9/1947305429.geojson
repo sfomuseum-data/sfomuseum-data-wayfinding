@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666735,
-      1914666265
+      1947305275,
+      1947304871
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305429,
     "wof:label": "Gate A1 - A2 Waiting Area Level 3 (2024-11-05)",
-    "wof:lastmodified": 1731963094,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate A1 - A2 Waiting Area Level 3",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666791,
-      1914666797
+      1947305399,
+      1947305407
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305459,
     "wof:label": "Internation Terminal Arrivals A Side (2024-11-05)",
-    "wof:lastmodified": 1731963100,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Internation Terminal Arrivals A Side",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

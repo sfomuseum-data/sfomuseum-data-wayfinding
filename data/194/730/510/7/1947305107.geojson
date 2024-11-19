@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666731
+      1947305283
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305107,
     "wof:label": "Gate A5 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963009,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate A5 Waiting Area",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

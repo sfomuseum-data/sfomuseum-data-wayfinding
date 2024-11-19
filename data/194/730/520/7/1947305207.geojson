@@ -15,8 +15,8 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914676391,
-      1914676385
+      1947305155,
+      1947305213
     ],
     "wof:belongsto": [
       102527513,
@@ -62,7 +62,7 @@
     ],
     "wof:id": 1947305207,
     "wof:label": "Harvey Milk Terminal 1 Greeting Area (2024-11-05)",
-    "wof:lastmodified": 1731963033,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Harvey Milk Terminal 1 Greeting Area",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

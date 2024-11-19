@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666211,
-      1914666301
+      1947304815,
+      1947304925
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305405,
     "wof:label": "T1 - T2 Post-Security Connector Elbow (T2) (2024-11-05)",
-    "wof:lastmodified": 1731963089,
+    "wof:lastmodified": 1731980437,
     "wof:name": "T1 - T2 Post-Security Connector Elbow (T2)",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

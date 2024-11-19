@@ -15,7 +15,7 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914676387
+      1947305207
     ],
     "wof:belongsto": [
       102527513,
@@ -61,7 +61,7 @@
     ],
     "wof:id": 1947305155,
     "wof:label": "Harvey Milk Terminal 1 North Exit (exit) (2024-11-05)",
-    "wof:lastmodified": 1731963021,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Harvey Milk Terminal 1 North Exit (exit)",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

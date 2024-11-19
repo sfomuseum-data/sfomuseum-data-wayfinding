@@ -18,9 +18,9 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666833,
-      1914666783,
-      1914666785
+      1947305467,
+      1947305423,
+      1947305415
     ],
     "wof:belongsto": [
       102527513,
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1947305461,
     "wof:label": "Harvey Milk Terminal 1 Baggage Claim - Departures Stairs Level 1 (2024-11-05)",
-    "wof:lastmodified": 1731963101,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Harvey Milk Terminal 1 Baggage Claim - Departures Stairs Level 1",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

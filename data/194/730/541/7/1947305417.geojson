@@ -18,11 +18,11 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666823,
-      1914666827,
-      1914666829,
-      1914666799,
-      1914666767
+      1947305435,
+      1947305449,
+      1947305465,
+      1947305413,
+      1947305373
     ],
     "wof:belongsto": [
       102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947305417,
     "wof:label": "Terminal 3 Baggage Claim E Side (2024-11-05)",
-    "wof:lastmodified": 1731963090,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Terminal 3 Baggage Claim E Side",
     "wof:parent_id": 1947304563,
     "wof:placetype": "venue",

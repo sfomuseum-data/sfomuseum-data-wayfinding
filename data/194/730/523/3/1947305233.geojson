@@ -16,8 +16,8 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914676365,
-      1914676373
+      1947305219,
+      1947305171
     ],
     "wof:belongsto": [
       102527513,
@@ -63,7 +63,7 @@
     ],
     "wof:id": 1947305233,
     "wof:label": "Gate C1 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731963039,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Gate C1 Waiting Area",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

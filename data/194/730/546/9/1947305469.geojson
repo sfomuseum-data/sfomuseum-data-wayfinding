@@ -17,8 +17,8 @@
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666393,
-      1914666853
+      1947304963,
+      1947305447
     ],
     "wof:belongsto": [
       102527513,
@@ -60,7 +60,7 @@
     ],
     "wof:id": 1947305469,
     "wof:label": "AirTrain Harvey Milk Terminal 1 Stairs (2024-11-05)",
-    "wof:lastmodified": 1731963102,
+    "wof:lastmodified": 1731980437,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Stairs",
     "wof:parent_id": 1947304067,
     "wof:placetype": "custom",

@@ -18,8 +18,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914666797,
-      1914666325
+      1947305407,
+      1947304931
     ],
     "wof:belongsto": [
       102527513,
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947305431,
     "wof:label": "International Terminal Arrivals - Main Hall Stairs G Side Level 2 (2024-11-05)",
-    "wof:lastmodified": 1731963094,
+    "wof:lastmodified": 1731980437,
     "wof:name": "International Terminal Arrivals - Main Hall Stairs G Side Level 2",
     "wof:parent_id": 1947304201,
     "wof:placetype": "venue",

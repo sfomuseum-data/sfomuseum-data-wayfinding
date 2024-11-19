@@ -16,9 +16,9 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1914676369,
-      1914676365,
-      1914676383
+      1947305233,
+      1947305219,
+      1947305199
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1947305171,
     "wof:label": "Harvey Milk Terminal 1 North mid-pier (2024-11-05)",
-    "wof:lastmodified": 1731963023,
+    "wof:lastmodified": 1731980437,
     "wof:name": "Harvey Milk Terminal 1 North mid-pier",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",
