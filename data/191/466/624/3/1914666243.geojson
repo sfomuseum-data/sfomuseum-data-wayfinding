@@ -70,7 +70,7 @@
     ],
     "wof:id": 1914666243,
     "wof:label": "Boarding Area F Start Pier (2024-06-17)",
-    "wof:lastmodified": 1731962937,
+    "wof:lastmodified": 1732049497,
     "wof:name": "Boarding Area F Start Pier",
     "wof:parent_id": 1914600845,
     "wof:placetype": "venue",
@@ -78,9 +78,7 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [
-      1947304847
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1796889507
     ]

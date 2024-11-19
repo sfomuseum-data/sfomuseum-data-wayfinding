@@ -67,7 +67,7 @@
     ],
     "wof:id": 1914666829,
     "wof:label": "Terminal 3 Arrivals / Baggage Claim Stairs Level 1 (2024-06-17)",
-    "wof:lastmodified": 1731963102,
+    "wof:lastmodified": 1732049385,
     "wof:name": "Terminal 3 Arrivals / Baggage Claim Stairs Level 1",
     "wof:parent_id": 1914600967,
     "wof:placetype": "venue",
@@ -75,9 +75,7 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [
-      1947305465
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1797018135
     ]

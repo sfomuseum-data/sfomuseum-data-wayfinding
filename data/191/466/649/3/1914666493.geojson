@@ -66,7 +66,7 @@
     ],
     "wof:id": 1914666493,
     "wof:label": "Gate F3 Waiting Area (2024-06-17)",
-    "wof:lastmodified": 1731962986,
+    "wof:lastmodified": 1732049260,
     "wof:name": "Gate F3 Waiting Area",
     "wof:parent_id": 1914600957,
     "wof:placetype": "venue",
@@ -74,9 +74,7 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [
-      1947305031
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1796935427
     ]

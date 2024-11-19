@@ -68,7 +68,7 @@
     ],
     "wof:id": 1914666753,
     "wof:label": "AirTrain Terminal 3 Stairs Level 2 (2024-06-17)",
-    "wof:lastmodified": 1731963068,
+    "wof:lastmodified": 1732049420,
     "wof:name": "AirTrain Terminal 3 Stairs Level 2",
     "wof:parent_id": 1914600983,
     "wof:placetype": "venue",
@@ -76,9 +76,7 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [
-      1947305333
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1797018123
     ]

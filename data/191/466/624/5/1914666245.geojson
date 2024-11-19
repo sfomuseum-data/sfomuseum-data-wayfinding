@@ -71,7 +71,7 @@
     ],
     "wof:id": 1914666245,
     "wof:label": "Terminal 3 Post-Security F Side (2024-06-17)",
-    "wof:lastmodified": 1731962937,
+    "wof:lastmodified": 1732049231,
     "wof:name": "Terminal 3 Post-Security F Side",
     "wof:parent_id": 1914600957,
     "wof:placetype": "venue",
@@ -79,9 +79,7 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [
-      1947304849
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1796889505
     ]
