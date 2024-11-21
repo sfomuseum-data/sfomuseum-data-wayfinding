@@ -1,5 +1,5 @@
 {
-  "id": 1947305281,
+  "id": 1947330467,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2024-11-05",
@@ -7,40 +7,32 @@
     "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
     "geom:area": 0,
-    "geom:bbox": "-122.388764,37.617413,-122.388764,37.617413",
-    "geom:latitude": 37.61741257118261,
-    "geom:longitude": -122.3887637333922,
-    "millsfield:wayfinding_detail": "F",
-    "millsfield:wayfinding_kind": "T3",
+    "geom:bbox": "-122.388975,37.617426,-122.388975,37.617426",
+    "geom:latitude": 37.61742634977798,
+    "geom:longitude": -122.38897517491237,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
-    "sfomuseum:post_security": 1,
-    "src:geom": "sfo",
-    "src:geom_alt": [
-      "sfomuseum-pathto-1914666257"
-    ],
+    "src:geom": "sfomuseum",
     "wof:adjacencies": [
-      1947304869,
-      1947304865,
-      1947330467
+      1947305281
     ],
     "wof:belongsto": [
+      1947304067,
       102527513,
+      1947304129,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      102085387,
-      1947304067,
-      1947304129,
-      1947304069
+      1947304069,
+      102085387
     ],
     "wof:country": "US",
-    "wof:created": 1731963050,
-    "wof:geomhash": "ddf08d223edaabe6fe08c9f4940eae14",
+    "wof:created": 1732226843,
+    "wof:geomhash": "80fdc89f72bd275393608038bc6f8ff9",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -52,7 +44,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1947305281,
+        "venue_id": 1947330467,
         "wing_id": 1947304069
       },
       {
@@ -63,30 +55,23 @@
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1947305281,
+        "venue_id": 1947330467,
         "wing_id": 1947304069
       }
     ],
-    "wof:id": 1947305281,
-    "wof:label": "T3 - International Terminal Post-Security Connector (T3) (2024-11-05)",
-    "wof:lastmodified": 1732227567,
-    "wof:name": "T3 - International Terminal Post-Security Connector (T3)",
+    "wof:id": 1947330467,
+    "wof:lastmodified": 1732227547,
+    "wof:name": "Gate G to Gate F Walkway G-Side",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",
-    "wof:placetype_alt": [
-      "waypoint"
-    ],
-    "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
-    "wof:supersedes": [
-      1914666661
-    ]
+    "wof:supersedes": []
   },
   "bbox": [
-    -122.3887637333922,
-    37.61741257118261,
-    -122.3887637333922,
-    37.61741257118261
+    -122.38897517491237,
+    37.61742634977798,
+    -122.38897517491237,
+    37.61742634977798
   ],
-  "geometry": {"coordinates":[-122.3887637333922,37.61741257118261],"type":"Point"}
+  "geometry": {"coordinates":[-122.38897517491237,37.61742634977798],"type":"Point"}
 }

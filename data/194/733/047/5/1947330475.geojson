@@ -1,0 +1,78 @@
+{
+  "id": 1947330475,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-19",
+    "date:inception_upper": "2024-11-19",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-19",
+    "geom:area": 0,
+    "geom:bbox": "-122.383881,37.615414,-122.383881,37.615414",
+    "geom:latitude": 37.615413988425374,
+    "geom:longitude": -122.3838806134719,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfomuseum",
+    "wof:adjacencies": [
+      1947305239,
+      1947330481
+    ],
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304383,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304259,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1732226845,
+    "wof:geomhash": "af329515a0e606be5096fe62292aa738",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304383,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947330475,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304383,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947330475,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 1947330475,
+    "wof:lastmodified": 1732227611,
+    "wof:name": "Terminal 2 Boarding Area C exit",
+    "wof:parent_id": 1947304383,
+    "wof:placetype": "venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3838806134719,
+    37.615413988425374,
+    -122.3838806134719,
+    37.615413988425374
+  ],
+  "geometry": {"coordinates":[-122.3838806134719,37.615413988425374],"type":"Point"}
+}

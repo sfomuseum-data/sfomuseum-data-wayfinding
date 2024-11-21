@@ -18,7 +18,8 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1947304985
+      1947304985,
+      1947330481
     ],
     "wof:belongsto": [
       102527513,
@@ -64,7 +65,7 @@
     ],
     "wof:id": 1947305239,
     "wof:label": "Terminal 1 Boarding Area C Meet and Greet (2024-11-05)",
-    "wof:lastmodified": 1731980437,
+    "wof:lastmodified": 1732227662,
     "wof:name": "Terminal 1 Boarding Area C Meet and Greet",
     "wof:parent_id": 1947304409,
     "wof:placetype": "venue",
