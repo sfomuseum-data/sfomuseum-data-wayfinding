@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:adjacencies": [
-      1947305281,
+      1947330467,
       1947304849
     ],
     "wof:belongsto": [
@@ -65,7 +65,7 @@
     ],
     "wof:id": 1947304869,
     "wof:label": "T3 - International Terminal Secure Connector (T3) (2024-11-05)",
-    "wof:lastmodified": 1731980437,
+    "wof:lastmodified": 1732231147,
     "wof:name": "T3 - International Terminal Secure Connector (T3)",
     "wof:parent_id": 1947304551,
     "wof:placetype": "venue",
