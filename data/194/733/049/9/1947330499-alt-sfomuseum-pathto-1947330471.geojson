@@ -1,0 +1,26 @@
+{
+  "id": 1947330499,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.386979,37.618704,-122.386467,37.619697",
+    "geom:latitude": 37.6192645629434,
+    "geom:longitude": -122.38666854623195,
+    "src:alt_label": "sfomuseum-pathto-1947330471",
+    "src:geom": "sfomuseum",
+    "wof:created": 1732238423,
+    "wof:geomhash": "b35dfd7612a9fde492297797ae236803",
+    "wof:id": 1947330499,
+    "wof:lastmodified": 1732238423,
+    "wof:name": "Boarding Area F to Boarding Area E Walkway",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.3869790955598,
+    37.61870374909335,
+    -122.38646742528123,
+    37.61969724221758
+  ],
+  "geometry": {"coordinates":[[-122.38646742528123,37.61870374909335],[-122.38669767690658,37.6192964338327],[-122.38665503771671,37.61937744829348],[-122.38671788258488,37.61960769991884],[-122.3869790955598,37.61969724221758]],"type":"LineString"}
+}
