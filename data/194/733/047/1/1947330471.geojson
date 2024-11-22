@@ -14,6 +14,9 @@
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
+    "src:geom_alt": [
+        "sfomuseum-pathto-1947330499"
+    ],
     "wof:adjacencies": [
       1947304835,
       1947330499
