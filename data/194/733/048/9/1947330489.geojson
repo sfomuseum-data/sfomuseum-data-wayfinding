@@ -13,7 +13,11 @@
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
+    "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "src:geom_alt": [
+      "sfomuseum-pathto-1947330467"
+    ],
     "wof:adjacencies": [
       1947304835,
       1947330467
@@ -61,7 +65,7 @@
       }
     ],
     "wof:id": 1947330489,
-    "wof:lastmodified": 1732228578,
+    "wof:lastmodified": 1732239703,
     "wof:name": "Gate F to Gate G Walkway F-Side",
     "wof:parent_id": 1947304451,
     "wof:placetype": "venue",
