@@ -1,0 +1,83 @@
+{
+  "id": 1947305469,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.385494,37.614644,-122.385494,37.614644",
+    "geom:latitude": 37.61464398938092,
+    "geom:longitude": -122.38549445758916,
+    "millsfield:wayfinding_detail": "HMT1",
+    "millsfield:wayfinding_kind": "ATR",
+    "mz:is_current": 1,
+    "sfo:level": 6,
+    "sfomuseum:placetype": "waypoint",
+    "src:geom": "sfo",
+    "wof:adjacencies": [
+      1947304963,
+      1947305447
+    ],
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067
+    ],
+    "wof:country": "US",
+    "wof:created": 1731963102,
+    "wof:geomhash": "a3a92ae378efa39157814154b4e1408e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1947305469,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "waypoint_id": 1947305469
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1947305469,
+        "region_id": 85688637,
+        "waypoint_id": 1947305469
+      }
+    ],
+    "wof:id": 1947305469,
+    "wof:label": "AirTrain Harvey Milk Terminal 1 Stairs (2024-11-05)",
+    "wof:lastmodified": 1731980437,
+    "wof:name": "AirTrain Harvey Milk Terminal 1 Stairs",
+    "wof:parent_id": 1947304067,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "waypoint"
+    ],
+    "wof:repo": "sfomuseum-data-wayfinding",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914666859
+    ]
+  },
+  "bbox": [
+    -122.38549445758916,
+    37.61464398938092,
+    -122.38549445758916,
+    37.61464398938092
+  ],
+  "geometry": {"coordinates":[-122.38549445758916,37.61464398938092],"type":"Point"}
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1947330467,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.389409,37.617184,-122.388975,37.617426",
+    "geom:latitude": 37.61736740911975,
+    "geom:longitude": -122.38923201494266,
+    "src:alt_label": "sfomuseum-pathto-1947304865",
+    "src:geom": "sfomuseum",
+    "wof:created": 1732239452,
+    "wof:geomhash": "3296c7c2e19dee5be9d49c87b35410fa",
+    "wof:id": 1947330467,
+    "wof:lastmodified": 1732240667,
+    "wof:name": "Boarding Area G to Boarding Area F Walkway to ITB Connector",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.38940949529083,
+    37.61718354071702,
+    -122.38897517491237,
+    37.61742634977798
+  ],
+  "geometry": {"coordinates":[[-122.38897517491237,37.61742634977798],[-122.38929200696987,37.61741851735897],[-122.38940949529083,37.61718354071702]],"type":"LineString"}
+}

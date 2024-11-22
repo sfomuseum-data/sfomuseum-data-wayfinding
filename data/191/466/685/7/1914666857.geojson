@@ -2,9 +2,11 @@
   "id": 1914666857,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.385570,37.615269,-122.385570,37.615269",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.38556950061454,
     "millsfield:wayfinding_detail": "HMT1",
     "millsfield:wayfinding_kind": "ATR",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 6,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfo",
@@ -20,8 +22,8 @@
       "sfomuseum-pathto-1914666331"
     ],
     "wof:adjacencies": [
-      1914666861,
-      1914666331
+      1947305443,
+      1947304911
     ],
     "wof:belongsto": [
       102527513,
@@ -53,7 +55,7 @@
     ],
     "wof:id": 1914666857,
     "wof:label": "AirTrain Harvey Milk Terminal 1 Red Line (2024-06-17)",
-    "wof:lastmodified": 1721760078,
+    "wof:lastmodified": 1732307101,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Red Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "custom",
@@ -61,7 +63,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947339367
+    ],
     "wof:supersedes": [
       1863412741
     ]

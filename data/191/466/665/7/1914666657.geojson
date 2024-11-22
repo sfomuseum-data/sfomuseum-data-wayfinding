@@ -2,9 +2,11 @@
   "id": 1914666657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.392849,37.618345,-122.392849,37.618345",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.39284858008634,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -66,7 +68,7 @@
     ],
     "wof:id": 1914666657,
     "wof:label": "Gate G7 - G8 Stairs Level 2 (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731963047,
     "wof:name": "Gate G7 - G8 Stairs Level 2",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",
@@ -74,7 +76,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305269
+    ],
     "wof:supersedes": [
       1797018063
     ]

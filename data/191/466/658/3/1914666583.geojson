@@ -2,9 +2,11 @@
   "id": 1914666583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.386048,37.611181,-122.386048,37.611181",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.38604777237154,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1914666583,
     "wof:label": "Gate B19 Waiting Area (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731963024,
     "wof:name": "Gate B19 Waiting Area",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",
@@ -72,7 +74,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305175
+    ],
     "wof:supersedes": [
       1796935533
     ]

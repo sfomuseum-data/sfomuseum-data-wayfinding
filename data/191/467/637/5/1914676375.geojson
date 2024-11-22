@@ -2,15 +2,17 @@
   "id": 1914676375,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.383914,37.615203,-122.383914,37.615203",
     "geom:latitude": 37.61520258900123,
     "geom:longitude": -122.38391353350175,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1914676375,
-    "wof:lastmodified": 1721769232,
+    "wof:lastmodified": 1731963028,
     "wof:name": "Harvey Milk Terminal 1 North BAC",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",
@@ -70,7 +72,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305193
+    ],
     "wof:supersedes": []
   },
   "bbox": [

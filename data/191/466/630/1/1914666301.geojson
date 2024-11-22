@@ -2,9 +2,11 @@
   "id": 1914666301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.383374,37.616186,-122.383374,37.616186",
@@ -12,7 +14,7 @@
     "geom:longitude": -122.383374,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "SFO",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
@@ -65,7 +67,7 @@
     ],
     "wof:id": 1914666301,
     "wof:label": "T1 - T2 Post-Security Connector Elbow (T1) (2024-06-17)",
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1731962952,
     "wof:name": "T1 - T2 Post-Security Connector Elbow (T1)",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",
@@ -73,7 +75,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304925
+    ],
     "wof:supersedes": [
       1796889569
     ]

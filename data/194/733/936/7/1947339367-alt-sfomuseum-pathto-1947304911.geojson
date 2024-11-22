@@ -1,0 +1,26 @@
+{
+  "id": 1947339367,
+  "type": "Feature",
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "-122.388772,37.614655,-122.385570,37.615269",
+    "geom:latitude": 37.61498640236601,
+    "geom:longitude": -122.38717492099106,
+    "src:alt_label": "sfomuseum-pathto-1914666331",
+    "src:geom": "sfomuseum",
+    "wof:created": 1675910298,
+    "wof:geomhash": "77b6843e21e62db8457985fabacac629",
+    "wof:id": 1947339367,
+    "wof:lastmodified": 1732307657,
+    "wof:name": "AirTrain Terminal 2 Red Line (path to AirTrain International Terminal A Red Line)",
+    "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-wayfinding"
+  },
+  "bbox": [
+    -122.38877238550087,
+    37.61465481561797,
+    -122.38556950061454,
+    37.61526896102093
+  ],
+  "geometry": {"coordinates":[[-122.38556950061454,37.61526896102093],[-122.38611756708174,37.61513874664752],[-122.38626138594192,37.615115424670186],[-122.38655874115285,37.615094046190976],[-122.38685855580333,37.61507549320128],[-122.38715964871926,37.615041082582316],[-122.38877238550087,37.61465481561797]],"type":"LineString"}
+}

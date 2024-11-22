@@ -2,15 +2,17 @@
   "id": 1914676381,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:bbox": "-122.384270,37.615007,-122.384270,37.615007",
     "geom:latitude": 37.61500687843204,
     "geom:longitude": -122.38426986077558,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:placetype": "waypoint",
     "src:geom": "sfomuseum",
@@ -60,7 +62,7 @@
       }
     ],
     "wof:id": 1914676381,
-    "wof:lastmodified": 1721764011,
+    "wof:lastmodified": 1731963026,
     "wof:name": "Harvey Milk Terminal 1 seating",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
@@ -68,7 +70,9 @@
       "waypoint"
     ],
     "wof:repo": "sfomuseum-data-wayfinding",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305179
+    ],
     "wof:supersedes": []
   },
   "bbox": [
