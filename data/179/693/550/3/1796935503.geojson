@@ -20,6 +20,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889471"
     ],
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796889471
     ],
@@ -66,7 +70,7 @@
       }
     ],
     "wof:id": 1796935503,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737502714,
     "wof:name": "Gate B15 - B16 Waiting Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

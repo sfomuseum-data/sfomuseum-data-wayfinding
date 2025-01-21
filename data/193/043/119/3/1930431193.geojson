@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "PRK",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "PRK",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1930431181
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "wof:id": 1930431193,
-    "wof:lastmodified": 1721695349,
+    "wof:lastmodified": 1737502714,
     "wof:name": "Long Term Parking 1",
     "wof:parent_id": 1477855983,
     "wof:placetype": "venue",

@@ -19,6 +19,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T2",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666233,
       1914666337
@@ -67,7 +71,7 @@
     ],
     "wof:id": 1914666213,
     "wof:label": "Boarding Area D Mid Pier (2024-06-17)",
-    "wof:lastmodified": 1731962930,
+    "wof:lastmodified": 1737502714,
     "wof:name": "Boarding Area D Mid Pier",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",

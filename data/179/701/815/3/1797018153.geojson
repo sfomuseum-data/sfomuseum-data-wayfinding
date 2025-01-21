@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "T2",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1797018119
     ],
@@ -63,7 +67,7 @@
       }
     ],
     "wof:id": 1797018153,
-    "wof:lastmodified": 1721695349,
+    "wof:lastmodified": 1737502714,
     "wof:name": "Terminal 2 Baggage Claim",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

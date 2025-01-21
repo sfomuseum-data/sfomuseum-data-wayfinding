@@ -20,6 +20,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1947305445"
     ],
+    "wfnd:detail": "ATR",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947305445,
       1947305131
@@ -68,7 +72,7 @@
     ],
     "wof:id": 1947304993,
     "wof:label": "AirTrain International Terminal A Blue Line (2024-11-05)",
-    "wof:lastmodified": 1731980437,
+    "wof:lastmodified": 1737502714,
     "wof:name": "AirTrain International Terminal A Blue Line",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

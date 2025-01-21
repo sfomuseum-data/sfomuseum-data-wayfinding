@@ -20,6 +20,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796903599"
     ],
+    "wfnd:detail": "ATR",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796982263,
       1796903599
@@ -61,7 +65,7 @@
       }
     ],
     "wof:id": 1796903605,
-    "wof:lastmodified": 1721695349,
+    "wof:lastmodified": 1737502678,
     "wof:name": "AirTrain Garage A Red Line",
     "wof:parent_id": 1729791949,
     "wof:placetype": "venue",

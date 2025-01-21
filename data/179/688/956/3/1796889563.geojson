@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "RCC",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "RCC",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796982281,
       1796889559
@@ -58,7 +62,7 @@
       }
     ],
     "wof:id": 1796889563,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737502678,
     "wof:name": "Rental Car Center",
     "wof:parent_id": 1477863277,
     "wof:placetype": "venue",

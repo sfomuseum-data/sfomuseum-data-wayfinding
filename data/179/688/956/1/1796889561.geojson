@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "ATR",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796982279
     ],
@@ -54,7 +58,7 @@
       }
     ],
     "wof:id": 1796889561,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737502678,
     "wof:name": "AirTrain Long-Term Parking Blue Line (Outbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

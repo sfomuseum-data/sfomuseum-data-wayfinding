@@ -20,6 +20,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1947304929"
     ],
+    "wfnd:detail": "ATR",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ATR",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947304929,
       1947305231
@@ -62,7 +66,7 @@
     ],
     "wof:id": 1947304891,
     "wof:label": "Air Train Terminal 3 Blue Line (2024-11-05)",
-    "wof:lastmodified": 1732301163,
+    "wof:lastmodified": 1737502714,
     "wof:name": "Air Train Terminal 3 Blue Line",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

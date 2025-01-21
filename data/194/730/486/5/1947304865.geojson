@@ -20,6 +20,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1947330467"
     ],
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947330467,
       1947304867
@@ -68,7 +72,7 @@
     ],
     "wof:id": 1947304865,
     "wof:label": "T3 - International Terminal Post-Security Connector (ITB) (2024-11-05)",
-    "wof:lastmodified": 1732300574,
+    "wof:lastmodified": 1737502714,
     "wof:name": "T3 - International Terminal Post-Security Connector (ITB)",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

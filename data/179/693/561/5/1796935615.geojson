@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "BART",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "BART",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796935619,
       1796935621
@@ -55,7 +59,7 @@
       }
     ],
     "wof:id": 1796935615,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737502714,
     "wof:name": "San Francisco International Airport BART Station Platform",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

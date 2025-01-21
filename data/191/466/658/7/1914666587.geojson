@@ -19,6 +19,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666207
     ],
@@ -66,7 +70,7 @@
     ],
     "wof:id": 1914666587,
     "wof:label": "Gate B20 Waiting Area (2024-06-17)",
-    "wof:lastmodified": 1731963027,
+    "wof:lastmodified": 1737502714,
     "wof:name": "Gate B20 Waiting Area",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

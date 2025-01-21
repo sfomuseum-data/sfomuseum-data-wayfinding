@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796889521
     ],
@@ -63,7 +67,7 @@
       }
     ],
     "wof:id": 1796935393,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737502678,
     "wof:name": "Gate F10 Waiting Area",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

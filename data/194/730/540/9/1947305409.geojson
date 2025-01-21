@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947304897,
       1947305393
@@ -65,7 +69,7 @@
     ],
     "wof:id": 1947305409,
     "wof:label": "Gate G3 - G4 Waiting Area Level 3 (2024-11-05)",
-    "wof:lastmodified": 1731980437,
+    "wof:lastmodified": 1737502714,
     "wof:name": "Gate G3 - G4 Waiting Area Level 3",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

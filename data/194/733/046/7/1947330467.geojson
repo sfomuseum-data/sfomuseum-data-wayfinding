@@ -19,6 +19,10 @@
       "sfomuseum-pathto-1947330489",
       "sfomuseum-pathto-1947304865"
     ],
+    "wfnd:detail": "",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947304869,
       1947330489
@@ -66,7 +70,7 @@
       }
     ],
     "wof:id": 1947330467,
-    "wof:lastmodified": 1732240231,
+    "wof:lastmodified": 1737502678,
     "wof:name": "Gate G to Gate F Walkway G-Side",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

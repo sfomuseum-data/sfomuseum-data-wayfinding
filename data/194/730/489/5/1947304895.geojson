@@ -20,6 +20,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1947305135"
     ],
+    "wfnd:detail": "ATR",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ATR",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947305231,
       1947305135
@@ -62,7 +66,7 @@
     ],
     "wof:id": 1947304895,
     "wof:label": "AirTrain Terminal 3 Red Line (2024-11-05)",
-    "wof:lastmodified": 1732301764,
+    "wof:lastmodified": 1737502714,
     "wof:name": "AirTrain Terminal 3 Red Line",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

@@ -19,6 +19,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ITB",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666801,
       1914666807
@@ -67,7 +71,7 @@
     ],
     "wof:id": 1914666797,
     "wof:label": "International Terminal Arrivals G Side (2024-06-17)",
-    "wof:lastmodified": 1731963089,
+    "wof:lastmodified": 1737502714,
     "wof:name": "International Terminal Arrivals G Side",
     "wof:parent_id": 1914601129,
     "wof:placetype": "venue",

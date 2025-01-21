@@ -20,6 +20,10 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1863412741"
     ],
+    "wfnd:detail": "ATR",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1863412741,
       1796982269
@@ -51,7 +55,7 @@
       }
     ],
     "wof:id": 1796903621,
-    "wof:lastmodified": 1721695349,
+    "wof:lastmodified": 1737502678,
     "wof:name": "AirTrain Terminal 2 Red Line",
     "wof:parent_id": 1360665043,
     "wof:placetype": "venue",

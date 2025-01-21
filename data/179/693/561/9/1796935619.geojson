@@ -17,6 +17,10 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "ATR",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796935751,
       1796935615
@@ -55,7 +59,7 @@
       }
     ],
     "wof:id": 1796935619,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737502714,
     "wof:name": "AirTrain BART stairs",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
