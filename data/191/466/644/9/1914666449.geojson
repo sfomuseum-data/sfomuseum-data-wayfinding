@@ -19,6 +19,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "F",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666259
     ],
@@ -66,7 +71,7 @@
     ],
     "wof:id": 1914666449,
     "wof:label": "Gate F9 Waiting Area (2024-06-17)",
-    "wof:lastmodified": 1731963001,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Gate F9 Waiting Area",
     "wof:parent_id": 1914600845,
     "wof:placetype": "venue",

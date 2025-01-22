@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "B",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796889469
     ],
@@ -63,7 +68,7 @@
       }
     ],
     "wof:id": 1796935515,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Gate B21 Waiting Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

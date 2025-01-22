@@ -19,6 +19,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "C",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666225
     ],
@@ -66,7 +71,7 @@
     ],
     "wof:id": 1914666643,
     "wof:label": "Gate C11 Waiting Area (2024-06-17)",
-    "wof:lastmodified": 1731963043,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Gate C11 Waiting Area",
     "wof:parent_id": 1914601421,
     "wof:placetype": "venue",

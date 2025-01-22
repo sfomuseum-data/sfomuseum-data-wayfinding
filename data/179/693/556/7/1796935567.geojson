@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:level": 1,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1797018115,
       1796935569,
@@ -65,7 +70,7 @@
       }
     ],
     "wof:id": 1796935567,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737577415,
     "wof:name": "AirTrain Terminal 2 Stairs West Level 3",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

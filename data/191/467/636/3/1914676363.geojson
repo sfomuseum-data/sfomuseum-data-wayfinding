@@ -17,6 +17,9 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": true,
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914676359,
       1914666591
@@ -64,7 +67,7 @@
       }
     ],
     "wof:id": 1914676363,
-    "wof:lastmodified": 1731963033,
+    "wof:lastmodified": 1737577415,
     "wof:name": "1G Gallery Exit",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

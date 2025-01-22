@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "DEP",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 3,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796935711,
       1796889641,
@@ -68,7 +73,7 @@
       }
     ],
     "wof:id": 1796889639,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737577415,
     "wof:name": "International Terminal Main Hall G Side West",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

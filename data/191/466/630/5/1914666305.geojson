@@ -20,6 +20,11 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1914666347"
     ],
+    "wfnd:detail": "PRK",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:level": 5,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666545,
       1947304993
@@ -62,7 +67,7 @@
     ],
     "wof:id": 1914666305,
     "wof:label": "AirTrain Garage A Blue Line (2024-06-17)",
-    "wof:lastmodified": 1731980437,
+    "wof:lastmodified": 1737577415,
     "wof:name": "AirTrain Garage A Blue Line",
     "wof:parent_id": 1477855967,
     "wof:placetype": "venue",

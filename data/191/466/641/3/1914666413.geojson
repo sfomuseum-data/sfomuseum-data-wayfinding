@@ -19,6 +19,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ATR",
+    "wfnd:level": 0,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666595,
       1914666709
@@ -61,7 +66,7 @@
     ],
     "wof:id": 1914666413,
     "wof:label": "Air Train Terminal 3 Bridge (2024-06-17)",
-    "wof:lastmodified": 1731962979,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Air Train Terminal 3 Bridge",
     "wof:parent_id": 1914600839,
     "wof:placetype": "venue",

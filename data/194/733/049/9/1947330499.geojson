@@ -18,6 +18,9 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1947330471"
     ],
+    "wfnd:is_restricted": true,
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947304995,
       1947330471
@@ -65,7 +68,7 @@
       }
     ],
     "wof:id": 1947330499,
-    "wof:lastmodified": 1732239742,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Gate F to Gate E Walkway E-Side",
     "wof:parent_id": 1947304511,
     "wof:placetype": "venue",

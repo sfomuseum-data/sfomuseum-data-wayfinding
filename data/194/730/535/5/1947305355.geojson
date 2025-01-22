@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "D",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T2",
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947304833
     ],
@@ -64,7 +69,7 @@
     ],
     "wof:id": 1947305355,
     "wof:label": "Gate D5 Waiting Area (2024-11-05)",
-    "wof:lastmodified": 1731980437,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Gate D5 Waiting Area",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

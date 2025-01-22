@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:detail": "DEP",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "T3",
+    "wfnd:level": 1,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1947305373,
       1947305001
@@ -65,7 +70,7 @@
     ],
     "wof:id": 1947305339,
     "wof:label": "Terminal 3 Baggage Claim - Boarding Area E Meet and Greet Stairs Level 2 (2024-11-05)",
-    "wof:lastmodified": 1731980437,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Terminal 3 Baggage Claim - Boarding Area E Meet and Greet Stairs Level 2",
     "wof:parent_id": 1947304563,
     "wof:placetype": "venue",
