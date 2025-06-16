@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "src:geom_alt": [
-      "sfomuseum-pathto-1947339367"
+      "wayfinding-pathto-1947339367"
     ],
     "wfnd:detail": "T2",
     "wfnd:is_restricted": false,
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1947305135,
     "wof:label": "AirTrain Terminal 2 Red Line (2024-11-05)",
-    "wof:lastmodified": 1737577415,
+    "wof:lastmodified": 1750112845,
     "wof:name": "AirTrain Terminal 2 Red Line",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

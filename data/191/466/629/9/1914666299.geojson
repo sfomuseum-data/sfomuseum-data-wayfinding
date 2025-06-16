@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "src:geom_alt": [
-      "sfomuseum-pathto-1930431137"
+      "wayfinding-pathto-1930431137"
     ],
     "wfnd:detail": "GHH",
     "wfnd:is_restricted": false,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1914666299,
     "wof:label": "AirTrain Grand Hyatt Hotel Red Line (2024-06-17)",
-    "wof:lastmodified": 1737577415,
+    "wof:lastmodified": 1750112845,
     "wof:name": "AirTrain Grand Hyatt Hotel Red Line",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

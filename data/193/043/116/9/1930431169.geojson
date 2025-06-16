@@ -18,7 +18,7 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "src:geom_alt": [
-      "sfomuseum-pathto-1914666371"
+      "wayfinding-pathto-1914666371"
     ],
     "wfnd:detail": "PRK",
     "wfnd:is_restricted": false,
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1930431169,
-    "wof:lastmodified": 1737577415,
+    "wof:lastmodified": 1750112845,
     "wof:name": "AirTrain Long Term Parking Blue Line (Inbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
