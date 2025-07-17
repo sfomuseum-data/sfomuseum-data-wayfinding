@@ -21,7 +21,7 @@
       "wayfinding-pathto-1947304929"
     ],
     "wfnd:detail": "T3",
-    "wfnd:is_restricted": true,
+    "wfnd:is_restricted": false,
     "wfnd:kind": "ATR",
     "wfnd:level": 3,
     "wfnd:placetype": "waypoint",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1947304891,
     "wof:label": "Air Train Terminal 3 Blue Line (2024-11-05)",
-    "wof:lastmodified": 1750112845,
+    "wof:lastmodified": 1752777602,
     "wof:name": "Air Train Terminal 3 Blue Line",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

@@ -21,7 +21,7 @@
       "wayfinding-pathto-1947305135"
     ],
     "wfnd:detail": "T3",
-    "wfnd:is_restricted": true,
+    "wfnd:is_restricted": false,
     "wfnd:kind": "ATR",
     "wfnd:level": 4,
     "wfnd:placetype": "waypoint",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1947304895,
     "wof:label": "AirTrain Terminal 3 Red Line (2024-11-05)",
-    "wof:lastmodified": 1750112845,
+    "wof:lastmodified": 1752777602,
     "wof:name": "AirTrain Terminal 3 Red Line",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",
