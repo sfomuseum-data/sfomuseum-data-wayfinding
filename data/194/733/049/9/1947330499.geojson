@@ -68,10 +68,11 @@
       }
     ],
     "wof:id": 1947330499,
-    "wof:lastmodified": 1750112845,
+    "wof:lastmodified": 1752774437,
     "wof:name": "Gate F to Gate E Walkway E-Side",
     "wof:parent_id": 1947304511,
     "wof:placetype": "venue",
+    "wof:repo": "sfomuseum-data-wayfinding",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
