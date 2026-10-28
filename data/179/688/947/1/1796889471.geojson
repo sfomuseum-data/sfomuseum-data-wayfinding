@@ -21,6 +21,11 @@
       "sfomuseum-pathto-1796935487",
       "sfomuseum-pathto-1796935503"
     ],
+    "wfnd:detail": "B",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796889469,
       1796935499,
@@ -74,7 +79,7 @@
       }
     ],
     "wof:id": 1796889471,
-    "wof:lastmodified": 1721695349,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Boarding Area B Mid Pier",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

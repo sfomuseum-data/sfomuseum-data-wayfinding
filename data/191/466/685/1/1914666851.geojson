@@ -19,6 +19,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "",
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666585,
       1914666841
@@ -67,7 +72,7 @@
     ],
     "wof:id": 1914666851,
     "wof:label": "Alley Gallery Entrance (Gate B4-B5) (2024-06-17)",
-    "wof:lastmodified": 1731963095,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Alley Gallery Entrance (Gate B4-B5)",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

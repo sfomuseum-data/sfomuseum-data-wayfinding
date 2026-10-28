@@ -20,6 +20,11 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1796889559"
     ],
+    "wfnd:detail": "SFO",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:level": 3,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1796889559
     ],
@@ -60,7 +65,7 @@
       }
     ],
     "wof:id": 1796889553,
-    "wof:lastmodified": 1721695350,
+    "wof:lastmodified": 1737577415,
     "wof:name": "AirTrain Westfield Road Station (Outbound)",
     "wof:parent_id": 1729791951,
     "wof:placetype": "venue",

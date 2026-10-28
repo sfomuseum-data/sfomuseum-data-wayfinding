@@ -17,6 +17,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "G",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 2,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1797041273,
       1797018069,
@@ -65,7 +70,7 @@
       }
     ],
     "wof:id": 1797018081,
-    "wof:lastmodified": 1721695349,
+    "wof:lastmodified": 1737577415,
     "wof:name": "Gates G5 - G6 Stairs Level 3",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

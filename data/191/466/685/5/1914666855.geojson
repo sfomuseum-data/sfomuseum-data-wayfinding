@@ -21,6 +21,11 @@
     "src:geom_alt": [
       "sfomuseum-pathto-1914666279"
     ],
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ATR",
+    "wfnd:level": 6,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666279,
       1914666861
@@ -67,7 +72,7 @@
     ],
     "wof:id": 1914666855,
     "wof:label": "AirTrain Harvey Milk Terminal 1 Blue Line (2024-06-17)",
-    "wof:lastmodified": 1731963098,
+    "wof:lastmodified": 1737577415,
     "wof:name": "AirTrain Harvey Milk Terminal 1 Blue Line",
     "wof:parent_id": 1914600839,
     "wof:placetype": "custom",

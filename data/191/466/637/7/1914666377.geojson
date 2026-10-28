@@ -19,6 +19,11 @@
     "sfomuseum:placetype": "waypoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:detail": "DEP",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 1,
+    "wfnd:placetype": "waypoint",
     "wof:adjacencies": [
       1914666419,
       1914666339
@@ -67,7 +72,7 @@
     ],
     "wof:id": 1914666377,
     "wof:label": "International Terminal - T1 Pre Security Connector (ITB) (2024-06-17)",
-    "wof:lastmodified": 1731962968,
+    "wof:lastmodified": 1737577415,
     "wof:name": "International Terminal - T1 Pre Security Connector (ITB)",
     "wof:parent_id": 1914601129,
     "wof:placetype": "venue",
